@@ -12,3 +12,6 @@ http://181.13.252.102:8000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-name="TNT CIBE",TNT CINE
 http://38.188.48.83:8000/play/a0og/index.m3u8?hls
+
+#EXTINF:-1 tvg-name="TYC",TYC
+http://38.188.48.83:8000/play/a0q4/index.m3u8?hls
