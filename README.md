@@ -52,7 +52,7 @@ https://mplus.pontiscloud.com/live/eds/TYCSports/live_dash_cld/TYCSports.mpd?|re
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://mplus.pontiscloud.com/live/eds/ESPN/live_dash_cld/ESPN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-09  tvg-id="CRONICA" logo="https://i.ibb.co/tPKyY9MW/89.jpg" group-title="NACIONALES",CRONICA
+#EXTINF:-09  tvg-id="CRONICA" logo="https://i.ibb.co/XZvrVdKn/C5.jpg" group-title="NACIONALES",CRONICA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
