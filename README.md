@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTM3U
-
 #EXTINF:-1 group-title="CANALES ASTRA (PUEDEN FALLAR SI NO TENÉS BUEN INTERNET)" tvg-name="HBO FAMILY",ASTRA HBO FAMILY
 http://191.97.111.38:8000/play/a07p/index.m3u8?hls
 
@@ -60,7 +58,7 @@ https://mplus.pontiscloud.com/live/eds/ESPN/live_dash_cld/ESPN.mpd?|referer=http
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://mplus.pontiscloud.com/live/eds/Cronica/live_dash_cld/Cronica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-09  tvg-id="TVPublica.ar" tvg-logo="https://i.ibb.co/d0kZNNWd/ar12.png" group-title="NacionaLes", ARG12
+#EXTINF:-09  tvg-id="ARGENTINA 12" tvg-logo="https://i.ibb.co/d0kZNNWd/ar12.png" group-title="NacionaLes",ARGENTINA 12
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
