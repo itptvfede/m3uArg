@@ -13,5 +13,5 @@ http://181.13.252.102:8000/play/a01o/index.m3u8
 #EXTINF:-1 tvg-name="TNT",ASTRA TNT CINE
 http://38.188.48.83:8000/play/a0og/index.m3u8?hls
 
-#EXTINF:-1 tvg-name="TYC",TYC
+#EXTINF:-1 tvg-name="TYC",ASTRA TYC
 http://181.13.252.102:8000/play/a02s/index.m3u8?hls
