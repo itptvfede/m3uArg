@@ -20,7 +20,7 @@ http://181.13.252.102:8000/play/a02s/index.m3u8?hls
   CANALES BUENA CALIDAD
 
 
-#EXTINF:-001  tvg-id="PACK FUTBOL" tvg-logo="https://i.ibb.co/zVYKvc9B/Q.png" group-title="PACK FUTBOL", TNT SPORTS AR
+#EXTINF:-001  tvg-id="PACK FUTBOL" tvg-logo="https://i.ibb.co/Jwf5V2rP/t.png" group-title="PACK FUTBOL", TNT SPORTS AR
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
