@@ -16,3 +16,19 @@ http://38.188.48.83:8000/play/a0og/index.m3u8?hls
 
 #EXTINF:-1 group-title="CANALES ASTRA (PUEDEN FALLAR SI NO TENÉS BUEN INTERNET)" tvg-name="TYC",ASTRA TYC
 http://181.13.252.102:8000/play/a02s/index.m3u8?hls
+
+  CANALES BUENA CALIDAD
+
+#EXTINF:-001  tvg-id="ESPN PREMIUM" tvg-logo="https://i.ibb.co/hRR2fST6/E.png" group-title="pack futbol",ESPN PREMIUM
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://mplus.pontiscloud.com/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+
+
+
+
+
