@@ -26,7 +26,7 @@ http://181.13.252.102:8000/play/a02s/index.m3u8?hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://mplus.pontiscloud.com/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-002  tvg-id="ESPN PREMIUM" tvg-logo="https://i.ibb.co/GfYRjS6K/espn.png" group-title="pack futbol",ESPN PREMIUM
+#EXTINF:-002  tvg-id="ESPN PREMIUM" tvg-logo="https://i.ibb.co/G66mNkt/espn.png" group-title="pack futbol",ESPN PREMIUM
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
