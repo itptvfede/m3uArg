@@ -52,13 +52,21 @@ https://mplus.pontiscloud.com/live/eds/TYCSports/live_dash_cld/TYCSports.mpd?|re
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://mplus.pontiscloud.com/live/eds/ESPN/live_dash_cld/ESPN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-003  tvg-id="CRONICA" logo="https://i.ibb.co/bgnRZK6h/cr.png" group-title="NACIONALES",CRONICA
+#EXTINF:-004  tvg-id="CRONICA" logo="https://i.ibb.co/bgnRZK6h/cr.png" group-title="NACIONALES",CRONICA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
 #KODIPROP:inputstream.adaptive.license_key=194f0682180e147f7928078dcc78a019:ddfc08545e74a6bd8870f1189cd1bec0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://mplus.pontiscloud.com/live/eds/Cronica/live_dash_cld/Cronica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#EXTINF:-09  tvg-id="TVPublica.ar" tvg-logo="https://i.ibb.co/d0kZNNWd/ar12.png" group-title="NacionaLes", ARG12
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_key=61635507689b4c74568928cc0f5d82d9:34f254be5f3d6a8ab44c28b4cb2e5a4a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://mplus.pontiscloud.com/bpk-tv/Argentina12/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
 
