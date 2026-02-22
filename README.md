@@ -82,7 +82,13 @@ https://mplus.pontiscloud.com/live/eds/HBOFamily/live_dash_cld/HBOFamily.mpd?|re
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://mplus.pontiscloud.com/live/eds/StarChannel/live_dash_cld/StarChannel.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-
+#EXTINF:-008  tvg-id="CANALSPACE" tvg-logo="https://i.ibb.co/XfYSNk9b/s.png" group-title="CINE",CANAL SPACE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_key=fd7516e74eafbf6f9664a9465149f179:6aa2935d17fd4e1e8963ecbef4edb82b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://mplus.pontiscloud.com/live/eds/Space/live_dash_cld/Space.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
 
