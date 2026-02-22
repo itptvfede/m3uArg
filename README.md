@@ -178,6 +178,15 @@ https://mplus.pontiscloud.com/bpk-tv/Eurochannel/default/index.mpd?|referer=http
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://mplus.pontiscloud.com/live/eds/Sony/live_dash_cld/Sony.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-018  tvg-id="TNT SERIES" logo="https://i.ibb.co/Pvq9d1Y1/8.png" group-title="CINE",TNT SERIES
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_key=2d15f2d2f8f81fbacd82391f5889aa3a:97c7a5029500a81d37f2b70d6276fc9a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://mplus.pontiscloud.com/live/eds/TNTSeries/live_dash_cld/TNTSeries.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+
 
 
 
