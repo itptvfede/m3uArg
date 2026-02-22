@@ -186,6 +186,16 @@ https://mplus.pontiscloud.com/live/eds/Sony/live_dash_cld/Sony.mpd?|referer=http
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://mplus.pontiscloud.com/live/eds/TNTSeries/live_dash_cld/TNTSeries.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-019  tvg-id="ADULT SWIM"ADULT SWIM tvg-logo="https://i.ibb.co/5XMnMGjb/a.png" group-title="INFANTILES",ADULT SWIM
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_key=476ae5b67b7ad297ac643386d2daa229:0ef75009de12efe833dafa97aa30272c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://mplus.pontiscloud.com/live/eds/AdultSwim/live_dash_cld/AdultSwim.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+
+
 
 
 
