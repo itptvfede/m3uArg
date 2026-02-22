@@ -218,7 +218,7 @@ https://mplus.pontiscloud.com/live/eds/CartoonNetwork/live_dash_cld/CartoonNetwo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://mplus.pontiscloud.com/live/eds/History/live_dash_cld/History.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-023  tvg-id="EL GOURME" logo="https://i.ibb.co/tPKyY9MW/89.jpg" group-title="VARIOS",EL GOURME
+#EXTINF:-023  tvg-id="EL GOURME" logo="https://i.ibb.co/20P1wqjN/g.jpg" group-title="VARIOS",EL GOURME
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
