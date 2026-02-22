@@ -154,6 +154,14 @@ https://mplus.pontiscloud.com/live/eds/TNT/live_dash_cld/TNT.mpd?|referer=https:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://mplus.pontiscloud.com/live/eds/StudioUniversal/live_dash_cld/StudioUniversal.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-015  tvg-id="EUROPA EUROPA" logo="https://i.ibb.co/tPKyY9MW/89.jpg" group-title="CINE",EUROPA EUROPA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_key=01c6295e3fc98352427941dc1015605a:bac9c97340df0b813a9f08c54880feb4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://mplus.pontiscloud.com/live/eds/EuropaEuropa/live_dash_cld/EuropaEuropa.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
 
 
 
