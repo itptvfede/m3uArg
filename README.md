@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTM3U
+
 #EXTINF:-1 tvg-name="ASTRA EVENTOS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/512px-Flag_of_Argentina.svg.png" group-title="🇦🇷 EVENTOS",Eventos ARG
 http://181.13.252.102:8000/play/a0bc
 
