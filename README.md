@@ -138,7 +138,7 @@ https://mplus.pontiscloud.com/live/eds/Golden/live_dash_cld/Golden.mpd?|referer=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://mplus.pontiscloud.com/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-014  tvg-id="GOLDEN EDGE" logo="https://i.ibb.co/fYkdSr5x/67.png" group-title="CINE",GOLDEN EDGE
+#EXTINF:-014  tvg-id="TNT CINE" TNT CINE logo="https://i.ibb.co/r2WKB6Y6/tnt4.png" group-title="CINE",GOLDEN EDGE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
