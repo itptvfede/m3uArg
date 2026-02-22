@@ -146,7 +146,7 @@ https://mplus.pontiscloud.com/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd?|
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://mplus.pontiscloud.com/live/eds/TNT/live_dash_cld/TNT.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-014  tvg-id="ESTUDIO CHANNEL" logo="https://i.ibb.co/tPKyY9MW/89.jpg" group-title="INFANTILES",ESTUDIO CHANNEL
+#EXTINF:-014  tvg-id="ESTUDIO CHANNEL" logo="https://i.ibb.co/JW2kbbD3/st5.jpg" group-title="INFANTILES",ESTUDIO CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
