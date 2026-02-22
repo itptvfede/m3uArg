@@ -42,7 +42,7 @@ https://mplus.pontiscloud.com/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://mplus.pontiscloud.com/live/eds/TYCSports/live_dash_cld/TYCSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-003  tvg-id="ESPN AR" tvg-logo="https://i.ibb.co/fz9JynLQ/6.png" group-title="DEPORTES", ESPN AR
+#EXTINF:-003  tvg-id="ESPN AR" tvg-logo="https://i.ibb.co/d4GZvwtw/espn45.png" group-title="DEPORTES", ESPN AR
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
