@@ -122,7 +122,7 @@ https://mplus.pontiscloud.com/live/eds/Cinecanal/live_dash_cld/Cinecanal.mpd?|re
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://mplus.pontiscloud.com/live/eds/DHE/live_dash_cld/DHE.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-013  tvg-id="GOLDEN" logo="https://i.ibb.co/tPKyY9MW/89.jpg" group-title="CINE",GOLDEN
+#EXTINF:-013  tvg-id="GOLDEN" logo="https://i.ibb.co/fYkdSr5x/67.png" group-title="CINE",GOLDEN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.sensa.com.ar/&webtoken=1.0
