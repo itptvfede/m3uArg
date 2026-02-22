@@ -250,6 +250,16 @@ https://mplus.pontiscloud.com/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://mplus.pontiscloud.com/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-1 tvg-name="MEGAZINE",CIUDAD MAGAZINE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
+https://edge-live11-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxNzc5NzYzIiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzNlZHMvTWFnYXppbmUvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiMzRjNmJjMDQxZjJjZjRlYyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjYyIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.G1AxHB-VA6TK-8Y9YDcD0jV12IPFK3tr_mEAwaBfoR4NFEYac9elU6nxIbgDMMMWO3ToluIClSM5Lqh0Eh9ZyA==/live/c3eds/Magazine/SA_Live_dash_enc_C/Magazine.mpd
+
+#EXTINF:-1 tvg-name="A24",A24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
+https://edge-live17-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxNzgxMjUwIiwic2lwIjoiMTkwLjEyNC4xNTMuNTgiLCJwYXRoIjoiL2xpdmUvYzdlZHMvQW1lcmljYTI0L1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFlMjYyNTUzOGFkZTIyYTUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMTA2Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.Llvnxi5xF02OBnqq-umz8ZWgqpHUQjE0p0CnaaGY0oG-dXWhlNWNxaMJYqwubzbI9dVO6q5A2Li2WKjsgeqluA==/live/c7eds/America24/SA_Live_dash_enc_C/America24.mpd
+
 
 
 
