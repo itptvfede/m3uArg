@@ -12,6 +12,8 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_
 http://186.0.248.95:20202/Live/4a483d554d61094ebe7d08cab42aaeaf/online-24-7_480.m3u8
 
 
+#EXTINF:-1 tvg-name="TN NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/TyC_Sports_logo.png",SIMSONSMANIA OP2
+http://181.13.252.102:8000/play/a058/index.m3u8
        
 #EXTINF:-1 tvg-name="ASTRA EVENTOS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/512px-Flag_of_Argentina.svg.png" group-title="🇦🇷 EVENTOS",Eventos ARG
 http://181.13.252.102:8000/play/a0bc/index.m3u8?hls
