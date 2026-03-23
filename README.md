@@ -2,6 +2,9 @@
 
 SIMPSONS 24/7
 
+
+
+
 #EXTINF:-1 tvg-name="SIMPSONSMANIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/TyC_Sports_logo.png",SIMSONSMANIA
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
 
@@ -34,5 +37,9 @@ http://181.13.252.102:8000/play/a02s/index.m3u8?hls
 
 #EXTINF:-1 group-title="CANALES ASTRA (PUEDEN FALLAR SI NO TENÉS BUEN INTERNET)" tvg-name="TYC",ASTRA TYC
 http://190.7.19.197:232/play/a059/index.m3u8?hls
+
+
+#EXTINF:-1 group-title="CANALES ASTRA (PUEDEN FALLAR SI NO TENÉS BUEN INTERNET)" tvg-name="TYC",ASTRA TYC
+https://tvservices.fullhd-streaming.com:3100/live/tvgroupretroxtvpluslive.m3u8
         
   
