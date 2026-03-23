@@ -31,5 +31,8 @@ http://38.188.48.83:8000/play/a0og/index.m3u8?hls
 
 #EXTINF:-1 group-title="CANALES ASTRA (PUEDEN FALLAR SI NO TENÉS BUEN INTERNET)" tvg-name="TYC",ASTRA TYC
 http://181.13.252.102:8000/play/a02s/index.m3u8?hls
+
+#EXTINF:-1 group-title="CANALES ASTRA (PUEDEN FALLAR SI NO TENÉS BUEN INTERNET)" tvg-name="TYC",ASTRA TYC
+http://190.7.19.197:232/play/a059/index.m3u8?hls
         
   
