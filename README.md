@@ -2,6 +2,10 @@
 
 SIMPSONS 24/7
 
+#EXTINF:-1 tvg-name="SIMPSONSMANIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/TyC_Sports_logo.png",SIMSONSMANIA
+https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
+
+
 #EXTINF:-1 tvg-name="SIMPSONS 24/7 OP1" tvg-logo="https://i.ibb.co/SXV2RPmC/7.jpg",SIMPSONS 24/7 OP1
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
