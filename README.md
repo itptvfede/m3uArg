@@ -12,6 +12,10 @@ http://181.13.252.102:8000/play/a01o/index.m3u8?hls
 #EXTINF:-1,C5N
 http://190.7.19.197:232/play/a040/index.m3u8
 
+#EXTINF:-1,HBO FAMILY
+http://181.13.252.102:8000/play/a06r/index.m3u8?hls
+
+
 
 #EXTINF:-1 tvg-name="SIMPSONSMANIA OP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/TyC_Sports_logo.png",SIMSONSMANIA OP2
 http://186.0.248.95:20202/Live/4a483d554d61094ebe7d08cab42aaeaf/online-24-7_480.m3u8
