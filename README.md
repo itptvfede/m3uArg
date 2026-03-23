@@ -3,7 +3,7 @@
 #EXTINF:-1,TN NOTICIAS
 http://45.170.40.11:8000/play/a050/index.m3u8?hls
 
-#EXTINF:-1,C5N
+#EXTINF:-1,A24
 http://181.13.252.102:8000/play/a01o/index.m3u8?hls
 
 
