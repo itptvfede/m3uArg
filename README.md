@@ -3,7 +3,8 @@
 SIMPSONS 24/7
 
 
-
+#EXTINF:-1 tvg-name="TN NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/HBO_Family.svg/512px-HBO_Family.svg.png",TN MOTICIAS
+http://45.170.40.11:8000/play/a050/index.m3u8?hls
 
 #EXTINF:-1 tvg-name="SIMPSONSMANIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/TyC_Sports_logo.png",SIMSONSMANIA
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
