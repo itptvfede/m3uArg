@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,SIMPONS MANIA
+https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
+
 #EXTINF:-1,TN NOTICIAS
 http://45.170.40.11:8000/play/a050/index.m3u8?hls
 
@@ -10,12 +13,8 @@ http://181.13.252.102:8000/play/a01o/index.m3u8?hls
 http://190.7.19.197:232/play/a040/index.m3u8
 
 
-#EXTINF:-1 tvg-name="SIMPSONSMANIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/TyC_Sports_logo.png",SIMSONSMANIA
-https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
-
 #EXTINF:-1 tvg-name="SIMPSONSMANIA OP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/TyC_Sports_logo.png",SIMSONSMANIA OP2
 http://186.0.248.95:20202/Live/4a483d554d61094ebe7d08cab42aaeaf/online-24-7_480.m3u8
-
 
 
        
