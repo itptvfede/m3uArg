@@ -27,6 +27,10 @@ http://190.7.19.197:232/play/a040/index.m3u8?hls
 #EXTINF:-1 group-title="CINE",HBO FAMILY
 http://181.13.252.102:8000/play/a06r/index.m3u8?hls
 
+#EXTINF:-1 group-title="DOCUMENTAL",DISCOVERY CHANNEL
+http://8.243.126.131:8000/play/a0g9/index.m3u8?hls
+
+
      
 #EXTINF:-1,SIMPONS 24/7
 http://186.0.248.95:20202/Live/4a483d554d61094ebe7d08cab42aaeaf/online-24-7_480.m3u8
