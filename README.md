@@ -12,9 +12,11 @@ http://181.13.252.102:8000/play/a078/index.m3u8
 #EXTINF:-1 group-title="FUTBOL ARG",FUTBOL ARG EVENTOS 3
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02_720.m3u8
 
+#EXTINF:-1 group-title="GENERAL",A24
+http://181.13.252.102:8000/play/a01o/index.m3u8?hls
+
 #EXTINF:-1 group-title="GENERAL",TN NOTICIAS
 http://45.170.40.11:8000/play/a050/index.m3u8?hls
-
 
      
 #EXTINF:-1,SIMPONS 24/7
@@ -26,8 +28,7 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_
 
 
 
-#EXTINF:-1,A24
-http://181.13.252.102:8000/play/a01o/index.m3u8?hls
+
 
 #EXTINF:-1,C5N
 http://190.7.19.197:232/play/a040/index.m3u8
