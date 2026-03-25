@@ -1,7 +1,5 @@
 #EXTM3U
 
-
-
 #EXTINF:-1 group-title="FUTBOL ARG",TYC SPORTS
 http://181.13.252.102:8000/play/a02s/index.m3u8?hlsñ
 
@@ -17,7 +15,7 @@ http://181.13.252.102:8000/play/a078/index.m3u8
 #EXTINF:-1 group-title="FUTBOL ARG",FUTBOL ARG EVENTOS 3
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02_720.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS",A24
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRNnLSVW/A24.jpg" group-title="NOTICIAS",A24
 http://181.13.252.102:8000/play/a01o/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MLcj04y/file-00000000cad071f5879e965eeb5b0ba3.png" group-title="NOTICIAS",TN NOTICIAS
