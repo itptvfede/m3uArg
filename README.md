@@ -1,22 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Fútbol Argentino",FUTBOL ARG EVENTOS 1
+#EXTINF:-1 group-title="FUTBOL ARG",FUTBOL ARG EVENTOS 1
 http://181.13.252.102:8000/play/a0bc/index.m3u8?hls
 
-
-
-
-
-
-#EXTINF:-1,FUTBOL ARG EVENTOS 1
-http://181.13.252.102:8000/play/a0bc/index.m3u8?hls
-      
-#EXTINF:-1,FUTBOL ARG EVENTOS 2
+#EXTINF:-1 group-title="FUTBOL ARG",FUTBOL ARG EVENTOS 2
 http://181.13.252.102:8000/play/a078/index.m3u8
 
-#EXTINF:-1,FUTBOL ARG EVENTOS 3
+#EXTINF:-1 group-title="FUTBOL ARG",FUTBOL ARG EVENTOS 3
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02_720.m3u8
-
+     
 #EXTINF:-1,SIMPONS 24/7
 http://186.0.248.95:20202/Live/4a483d554d61094ebe7d08cab42aaeaf/online-24-7_480.m3u8
 
