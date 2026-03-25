@@ -1,9 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="FUTBOL ARG",TYC SPORTS
-http://181.13.252.102:8000/play/a02s/index.m3u8?hls
+#EXTINF:-1 group-title="FUTBOL ARG",FUTBOL ARG EVENTOS 1
+https://cors-proxy.wangzhishi.net/http://181.13.252.102:8000/play/a02s/index.m3u8?hls
 
-#EXTINF:-1 group-title="FUTBOL ARG",ESPN AR
+#EXTINF:-1 group-title="FUTBOL ARG",TYC SPORTS
+http://181.13.252.102:8000/play/a02s/index.m3u8?hlsñ
+
+#EXTINF:-1 group-title="FUTBOL ARG",FUTBOL ARG EVENTOS 1
 http://45.170.40.11:8000/play/a052/index.m3u8?hls
 
 #EXTINF:-1 group-title="FUTBOL ARG",FUTBOL ARG EVENTOS 1
