@@ -4,7 +4,7 @@
 http://181.13.252.102:8000/play/a02s/index.m3u8?hls
 
 #EXTINF:-1 group-title="FUTBOL ARG",ESPN AR
-http://179.1.240.202:8000/play/a05a/index.m3u8?hls
+http://45.170.40.11:8000/play/a052/index.m3u8?hls
 
 #EXTINF:-1 group-title="FUTBOL ARG",FUTBOL ARG EVENTOS 1
 http://181.13.252.102:8000/play/a0bc/index.m3u8?hls
