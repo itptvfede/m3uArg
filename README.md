@@ -15,6 +15,10 @@ http://181.13.252.102:8000/play/a078/index.m3u8
 #EXTINF:-1 group-title="FUTBOL ARG",FUTBOL ARG EVENTOS 3
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02_720.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qM7pZrGP/CTV.jpg" group-title="NOTICIAS",CTV LOCAL
+https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRNnLSVW/A24.jpg" group-title="NOTICIAS",A24
 http://181.13.252.102:8000/play/a01o/index.m3u8?hls
 
@@ -30,8 +34,6 @@ http://181.13.252.102:8000/play/a06r/index.m3u8?hls
 #EXTINF:-1 group-title="DOCUMENTAL",DISCOVERY CHANNEL
 http://8.243.126.131:8000/play/a0g9/index.m3u8?hls
 
-
-     
 #EXTINF:-1,SIMPONS 24/7
 http://186.0.248.95:20202/Live/4a483d554d61094ebe7d08cab42aaeaf/online-24-7_480.m3u8
 
