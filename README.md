@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="FUTBOL ARG",FUTBOL ARG EVENTOS 1
-https://cors-proxy.wangzhishi.net/http://181.13.252.102:8000/play/a02s/index.m3u8?hls
+
 
 #EXTINF:-1 group-title="FUTBOL ARG",TYC SPORTS
 http://181.13.252.102:8000/play/a02s/index.m3u8?hlsñ
@@ -21,7 +20,7 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02_720.m
 #EXTINF:-1 group-title="NOTICIAS",A24
 http://181.13.252.102:8000/play/a01o/index.m3u8?hls
 
-#EXTINF:-1 group-title="NOTICIAS",TN NOTICIAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZR55M04d/TN.jpg" group-title="NOTICIAS",TN NOTICIAS
 http://45.170.40.11:8000/play/a050/index.m3u8?hls
 
 #EXTINF:-1 group-title="NOTICIAS",C5N
