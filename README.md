@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="FUTBOL ARG",TYC SPORTS
+http://191.97.111.38:8000/play/a07p/index.m3u8?hls
+
 #EXTINF:-1 group-title="FUTBOL ARG",FUTBOL ARG EVENTOS 1
 http://181.13.252.102:8000/play/a0bc/index.m3u8?hls
 
