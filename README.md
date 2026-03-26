@@ -27,12 +27,8 @@ http://181.13.252.102:8000/play/a05a/index.m3u8?hls
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qMRmBFBY/ESPN-1-AR.jpg" group-title="FUTBOLPACK",ESPN AR
-http://181.13.252.102:8000/play/a0bc/index.m3u8?hls
-
-
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMRmBFBY/ESPN-1-AR.jpg" group-title="FUTBOLPACK",ESPN PREMIUM OP1
+http://181.13.252.102:8000/play/a078/index.m3u8?hls
 
 
 
