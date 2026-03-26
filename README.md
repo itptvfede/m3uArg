@@ -22,7 +22,7 @@ http://190.7.19.197:232/play/a040/index.m3u8?hls
 http://181.13.252.102:8000/play/a01r/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jvHTYL5N/CRONICA.png" group-title="NOTICIAS",CRONICATV
-http://191.97.111.38:8000/play/a05w/index.m3u8?hls
+http://181.13.252.102:8000/play/a01q/index.m3u8?hls
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mF853XQk/TYC.jpg" group-title="FUTBOLPACK",TYC
