@@ -34,6 +34,11 @@ http://181.13.252.102:8000/play/a078/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HTW3bg95/TNTSPORTS.png" group-title="FUTBOLPACK",TNT SPORTS OP1
 http://181.13.252.102:8000/play/a0bc/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SXQTbgj9/ESPN-PREMIUM.png" group-title="FUTBOLPACK",ESPN PREMIUM OP2
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02_720.m3u8
+
+
+
 
 
 
