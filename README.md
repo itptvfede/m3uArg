@@ -13,12 +13,15 @@ http://190.7.19.197:232/play/a00o/index.m3u8?hls
 http://181.13.252.102:8000/play/a01o/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MLcj04y/file-00000000cad071f5879e965eeb5b0ba3.png" group-title="NOTICIAS",TN NOTICIAS
-http://181.13.252.102:8000/play/a01p/index.m3u8?hls
-
-
+http://181.13.252.102:8000/play/a058/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZR4nPCxQ/C5N.jpg" group-title="NOTICIAS",C5N
 http://190.7.19.197:232/play/a040/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mF853XQk/TYC.jpg" group-title="FUTBOLPACK",TYC
+http://181.13.252.102:8000/play/a02s/index.m3u8?hls
+
 
 
 
