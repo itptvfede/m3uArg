@@ -6,6 +6,13 @@ https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRRH1kL8/CANAL-13.jpg" group-title="NOTICIAS",CANAL 13 SAN LUIS
 https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rk3PkfYV/AR12.png" group-title="NOTICIAS",ARGENTINA12
+http://190.7.19.197:232/play/a00o/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRNnLSVW/A24.jpg" group-title="NOTICIAS",A24
+http://181.13.252.102:8000/play/a01o/index.m3u8?hls
+
+
 
 
 
