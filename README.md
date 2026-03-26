@@ -18,8 +18,7 @@ http://45.170.40.11:8000/play/a050/index.m3u8?hls
 #EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="https://i.ibb.co/ZR4nPCxQ/C5N.jpg" group-title="NOTICIAS",C5N
 http://190.7.19.197:232/play/a040/index.m3u8?hls
 
-
-#EXTINF:-1 group-title="FUTBOL ARG",TYC SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mF853XQk/TYC.jpg" group-title="PACK FUTBOL",TYC SPORTS
 http://181.13.252.102:8000/play/a02s/index.m3u8?hlsñ
 
 
