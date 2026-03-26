@@ -21,6 +21,9 @@ http://190.7.19.197:232/play/a040/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Yhpsf2g/CANAL-26.png" group-title="NOTICIAS",CANAL 26 
 http://181.13.252.102:8000/play/a01r/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jvHTYL5N/CRONICA.png" group-title="NOTICIAS",CRONICATV
+http://191.97.111.38:8000/play/a05w/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mF853XQk/TYC.jpg" group-title="FUTBOLPACK",TYC
 http://181.13.252.102:8000/play/a02s/index.m3u8?hls
@@ -37,11 +40,14 @@ http://181.13.252.102:8000/play/a0bc/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SXQTbgj9/ESPN-PREMIUM.png" group-title="FUTBOLPACK",ESPN PREMIUM OP2
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HTW3bg95/TNTSPORTS.png" group-title="CINE",TNT SPORTS OP2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVYmW09/SONY-CHANNEL.png" group-title="CINE",SONY CHANNEL
 http://45.170.40.11:8000/play/a00q/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sdWVCgFL/SPACE.png" group-title="CINE",SPACE
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-69_720.m3u8
+
+
+
 
 
 
