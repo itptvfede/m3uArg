@@ -18,9 +18,13 @@ http://181.13.252.102:8000/play/a058/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZR4nPCxQ/C5N.jpg" group-title="NOTICIAS",C5N
 http://190.7.19.197:232/play/a040/index.m3u8?hls
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mF853XQk/TYC.jpg" group-title="FUTBOLPACK",TYC
 http://181.13.252.102:8000/play/a02s/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMRmBFBY/ESPN-1-AR.jpg" group-title="FUTBOLPACK",ESPN AR
+http://181.13.252.102:8000/play/a05a/index.m3u8?hls
+
+
 
 
 
