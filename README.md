@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qM7pZrGP/CTV.jpg" group-title="NOTICIAS",CTV LOCAL
+https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ARGENTINA12" tvg-name="ARGENTINA12" tvg-logo="https://i.ibb.co/Rk3PkfYV/AR12.png" group-title="NOTICIAS",ARGENTINA12
 http://190.7.19.197:232/play/a00o/index.m3u8?hls
 
