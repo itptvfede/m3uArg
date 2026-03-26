@@ -19,6 +19,9 @@ http://45.170.40.11:8000/play/a050/index.m3u8?hls
 http://190.7.19.197:232/play/a040/index.m3u8?hls
 
 
+#EXTINF:-1 group-title="FUTBOL ARG",TYC SPORTS
+http://181.13.252.102:8000/play/a02s/index.m3u8?hlsñ
+
 
 
 
