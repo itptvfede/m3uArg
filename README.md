@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ARGENTINA12" tvg-name="ARGENTINA12" tvg-logo="https://i.ibb.co/hRNnLSVW/A24.jpg" group-title="NOTICIAS",ARGENTINA12
+#EXTINF:-1 tvg-id="ARGENTINA12" tvg-name="ARGENTINA12" tvg-logo="https://i.ibb.co/Rk3PkfYV/AR12.png" group-title="NOTICIAS",ARGENTINA12
 http://190.7.19.197:232/play/a00o/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="A24" tvg-name="A24" tvg-logo="https://i.ibb.co/hRNnLSVW/A24.jpg" group-title="NOTICIAS",A24
