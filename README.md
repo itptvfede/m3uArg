@@ -61,8 +61,11 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-69_720.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kg1sXQS6/HBO-FAMILY.png" group-title="CINE",HBO FAMILY
 http://8.243.126.131:8000/play/a0f6/index.m3u8?hls
 
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d0JdB8yR/D.jpg" group-title="DOCUMENTAL",DISCOVERY CHANNEL
-http://8.243.126.131:8000/play/a0g9/index.m3u8?hls
+http://45.170.40.11:8000/play/a039/index.m3u8?hls
 
 
 
