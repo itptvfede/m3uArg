@@ -1,9 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qM7pZrGP/CTV.jpg" group-title="NOTICIAS",CTV LOCAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kg1sXQS6/HBO-FAMILY.png" group-title="GENERAL",MAGAZINE
+http://186.0.248.95:20202/Live/4a483d554d61094ebe7d08cab42aaeaf/ciudadmagazine.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qM7pZrGP/CTV.jpg" group-title="GENERAL",CTV LOCAL
 https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rRRH1kL8/CANAL-13.jpg" group-title="NOTICIAS",CANAL 13 SAN LUIS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRRH1kL8/CANAL-13.jpg" group-title="GENERAL",CANAL 13 SAN LUIS
 https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rk3PkfYV/AR12.png" group-title="NOTICIAS",ARGENTINA12
@@ -48,6 +51,7 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-69_720.m
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kg1sXQS6/HBO-FAMILY.png" group-title="CINE",HBO FAMILY
 http://181.13.252.102:8000/play/a06r/index.m3u8?hls
+
 
 
 
