@@ -57,6 +57,11 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02_720.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6cVYmW09/SONY-CHANNEL.png" group-title="CINE",SONY CHANNEL
 http://45.170.40.11:8000/play/a00q/index.m3u8?hls
 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVYmW09/SONY-CHANNEL.png" group-title="CINE",SONY CHANNEL OP2
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-70_720.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQkcsJ3m/SPACE.png" group-title="CINE",SPACE
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-69_720.m3u8
 
@@ -72,6 +77,9 @@ http://45.170.40.11:8000/play/a039/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZVk2J0y/HISTORY.jpg" group-title="DOCUMENTAL",HISTORY
 http://45.170.40.11:8000/play/a055/index.m3u8?hls
+
+
+
 
 
 
