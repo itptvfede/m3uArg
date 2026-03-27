@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d0JdB8yR/D.jpg" group-title="DOCUMENTAL",DISCOVERY CHANNEL
-http://8.243.126.131:8000/play/a0g9/index.m3u8?hls
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r22M97ft/SIMPSONS.jpg" group-title="24/7",SIMPSONS OP 1
 http://186.0.248.95:20202/Live/4a483d554d61094ebe7d08cab42aaeaf/online-24-7_480.m3u8
 
@@ -60,10 +57,10 @@ http://45.170.40.11:8000/play/a00q/index.m3u8?hls
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-69_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kg1sXQS6/HBO-FAMILY.png" group-title="CINE",HBO FAMILY
-http://181.13.252.102:8000/play/a06r/index.m3u8?hls
+http://8.243.126.131:8000/play/a0f6/index.m3u8?hls
 
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d0JdB8yR/D.jpg" group-title="DOCUMENTAL",DISCOVERY CHANNEL
+http://8.243.126.131:8000/play/a0g9/index.m3u8?hls
 
 
 
