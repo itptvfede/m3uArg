@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kg1sXQS6/HBO-FAMILY.png" group-title="GENERAL",MAGAZINE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1f8P1qr5/MAGAZINE.jpg" group-title="GENERAL",MAGAZINE
 http://186.0.248.95:20202/Live/4a483d554d61094ebe7d08cab42aaeaf/ciudadmagazine.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qM7pZrGP/CTV.jpg" group-title="GENERAL",CTV LOCAL
