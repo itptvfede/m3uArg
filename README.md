@@ -1,10 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d0JdB8yR/D.jpg" group-title="DOCUMENTAL",DISCOVERY CHANNEL
+http://8.243.126.131:8000/play/a0g9/index.m3u8?hls
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r22M97ft/SIMPSONS.jpg" group-title="24/7",SIMPSONS OP 1
 http://186.0.248.95:20202/Live/4a483d554d61094ebe7d08cab42aaeaf/online-24-7_480.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r22M97ft/SIMPSONS.jpg" group-title="24/7",SIMPSONS OP 2
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
