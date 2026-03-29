@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kg1sXQS6/HBO-FAMILY.png" group-title="CINE",HBO FAMILY
+http://campstvpro.com/live/miguelbaque/promotvbox2022/53.m3u8
 
 
 
