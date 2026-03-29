@@ -1,7 +1,9 @@
 #EXTM3U
 
 
-
+#EXTM3U
+#EXTINF:-1 tvg-name="Fútbol" tvg-logo="https://i.imgur.com/8KX7F7P.png" group-title="Deportes",Fútbol
+https://streamtape.com/e/KGLmkq8VWyT0X19
 
 
 
