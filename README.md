@@ -1,9 +1,7 @@
 #EXTM3U
 
 
-#EXTM3U
-#EXTINF:-1 tvg-name="Fútbol" tvg-logo="https://i.imgur.com/8KX7F7P.png" group-title="Deportes",Fútbol
-https://streamtape.com/e/KGLmkq8VWyT0X19
+
 
 
 
@@ -20,7 +18,7 @@ https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
 http://181.13.252.102:8000/play/a01o/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MLcj04y/file-00000000cad071f5879e965eeb5b0ba3.png" group-title="NOTICIAS",TN NOTICIAS
-http://181.13.252.102:8000/play/a058/index.m3u8?hls
+http://181.13.252.102:8000/play/a058/
 
 
 
