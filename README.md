@@ -4,8 +4,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1f8P1qr5/MAGAZINE.jpg" group-title="GENERAL",MAGAZINE
-http://186.0.248.95:20202/Live/4a483d554d61094ebe7d08cab42aaeaf/ciudadmagazine.playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qM7pZrGP/CTV.jpg" group-title="GENERAL",CTV LOCAL
 https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
@@ -13,8 +12,7 @@ https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRRH1kL8/CANAL-13.jpg" group-title="GENERAL",CANAL 13 SAN LUIS
 https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rk3PkfYV/AR12.png" group-title="NOTICIAS",ARGENTINA12
-http://190.7.19.197:232/play/a00o/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRNnLSVW/A24.jpg" group-title="NOTICIAS",A24
 http://181.13.252.102:8000/play/a01o/index.m3u8?hls
