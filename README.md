@@ -1,11 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r22M97ft/SIMPSONS.jpg" group-title="24/7",SIMPSONS OP 1
-http://186.0.248.95:20202/Live/4a483d554d61094ebe7d08cab42aaeaf/online-24-7_480.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r22M97ft/SIMPSONS.jpg" group-title="24/7",SIMPSONS OP 2
-https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1f8P1qr5/MAGAZINE.jpg" group-title="GENERAL",MAGAZINE
