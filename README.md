@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kg1sXQS6/HBO-FAMILY.png" group-title="CINE",HBO FAMILY
-http://38.188.48.83:8000/play/a0m4/index.m3u8?hls
+http://8.243.126.131:8000/play/a05t/index.m3u8?hls
 
 
 
