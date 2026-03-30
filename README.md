@@ -16,6 +16,9 @@ https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzCNHj57/ARG12.jpg" group-title="NOTICIAS",ARGENTINA 12
+http://190.7.19.197:232/play/a00o/index.m3u8?hls
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRNnLSVW/A24.jpg" group-title="NOTICIAS",A24
 http://181.13.252.102:8000/play/a01o/index.m3u8?hls
