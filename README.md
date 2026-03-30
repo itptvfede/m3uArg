@@ -10,7 +10,7 @@ http://190.108.89.228:8000/play/a0eb/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nNj5CCKG/images.png" group-title="CINE",HBO FAMILY
 http://8.243.126.131:8000/play/a05t/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qM7pZrGP/CTV.jpg" group-title="GENERAL",CTV LOCAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Psx1Gkxf/images-1.jpg" group-title="GENERAL",CTV LOCAL
 https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kgF99cfX/sanluis.jpg" group-title="GENERAL",CANAL 13 SAN LUIS
