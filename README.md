@@ -13,6 +13,9 @@ http://190.108.89.228:8000/play/a0eb/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nNj5CCKG/images.png" group-title="CINE",HBO FAMILY
 http://8.243.126.131:8000/play/a05t/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nNj5CCKG/images.png" group-title="CINE",HBO FAMILY OP2
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-101_720.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Psx1Gkxf/images-1.jpg" group-title="GENERAL",CTV LOCAL
 https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 
