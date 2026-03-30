@@ -30,7 +30,7 @@ http://181.13.252.102:8000/play/a058/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5x8hbv60/CANAL26.jpg" group-title="NOTICIAS",CANAL 26 
 http://181.13.252.102:8000/play/a01r/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jvHTYL5N/CRONICA.png" group-title="NOTICIAS",CRONICATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0yxRZjTB/CRONICA.jpg" group-title="NOTICIAS",CRONICATV
 http://181.13.252.102:8000/play/a01q/index.m3u8?hls
 
 
