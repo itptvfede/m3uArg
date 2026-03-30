@@ -42,9 +42,8 @@ http://181.13.252.102:8000/play/a02s/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mF853XQk/TYC.jpg" group-title="FUTBOLPACK",TYC OP2
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-90_720.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qMRmBFBY/ESPN-1-AR.jpg" group-title="FUTBOLPACK",ESPN AR
-http://181.13.252.102:8000/play/a05a/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgyHtSxk/i.png" group-title="FUTBOLPACK",ESPN AR
+http://45.170.40.11:8000/play/a052/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SXQTbgj9/ESPN-PREMIUM.png" group-title="FUTBOLPACK",ESPN PREMIUM OP1
 http://181.13.252.102:8000/play/a078/index.m3u8?hls
