@@ -5,8 +5,7 @@
 http://186.0.248.95:20202/Live/cb230c0736310c8de8fb52aa7caacbb9/online-24-7_480.m3u8
 
 #EXTINF:-1 tvg-name="SIMPSONS 24/7" tvg-logo="https://i.ibb.co/RG6x5bPS/4cba92ee86f4f840cf9983481870da43.jpg.",SIMPSONS 24/7 OP2
-http://186.0.248.95:20202/Live/cb230c0736310c8de8fb52aa7caacbb9/online-24-7_480.m3u8
-
+https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kg1sXQS6/HBO-FAMILY.png" group-title="CINE",GOLDEN
 http://190.108.89.228:8000/play/a0eb/index.m3u8
