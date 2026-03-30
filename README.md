@@ -22,7 +22,7 @@ https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kgF99cfX/sanluis.jpg" group-title="GENERAL",CANAL 13 SAN LUIS
 https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
 
-#EXTINF:-1 tvg-name="MAGAZINE" tvg-logo="https://i.ibb.co/C3NPZt2R/MAGAZINE.png",MAGAZINE
+#EXTINF:-1 tvg-name="MAGAZINE" tvg-logo="https://i.ibb.co/CKwkmntJ/magazine.png",MAGAZINE
 http://186.0.248.95:20202/Live/4a483d554d61094ebe7d08cab42aaeaf/ciudadmagazine.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZzCNHj57/ARG12.jpg" group-title="NOTICIAS",ARGENTINA 12
