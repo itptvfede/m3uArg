@@ -53,10 +53,10 @@ http://181.13.252.102:8000/play/a0bc/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SXQTbgj9/ESPN-PREMIUM.png" group-title="FUTBOLPACK",ESPN PREMIUM OP2
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVYmW09/SONY-CHANNEL.png" group-title="CINE",SONY CHANNEL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQwGrkqB/images-1.png" group-title="CINE",SONY CHANNEL
 http://45.170.40.11:8000/play/a00q/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6cVYmW09/SONY-CHANNEL.png" group-title="CINE",SONY CHANNEL OP2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQwGrkqB/images-1.png" group-title="CINE",SONY CHANNEL OP2
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-70_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQkcsJ3m/SPACE.png" group-title="CINE",SPACE
