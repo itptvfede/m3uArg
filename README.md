@@ -13,7 +13,7 @@ http://8.243.126.131:8000/play/a05t/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qM7pZrGP/CTV.jpg" group-title="GENERAL",CTV LOCAL
 https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rRRH1kL8/CANAL-13.jpg" group-title="GENERAL",CANAL 13 SAN LUIS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kgF99cfX/sanluis.jpg" group-title="GENERAL",CANAL 13 SAN LUIS
 https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
 
 #EXTINF:-1 tvg-name="MAGAZINE" tvg-logo="https://i.ibb.co/wF83R7Xw/MAZACINE.png",MAGAZINE
