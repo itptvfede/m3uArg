@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kg1sXQS6/HBO-FAMILY.png" group-title="CINE",GOLDEN
 http://190.108.89.228:8000/play/a0eb/index.m3u8
 
@@ -22,7 +20,7 @@ https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRNnLSVW/A24.jpg" group-title="NOTICIAS",A24
 http://181.13.252.102:8000/play/a01o/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MLcj04y/file-00000000cad071f5879e965eeb5b0ba3.png" group-title="NOTICIAS",TN NOTICIAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDkyCx8r/TN2.png" group-title="NOTICIAS",TN NOTICIAS
 http://181.13.252.102:8000/play/a058/index.m3u8?hls
 
 
