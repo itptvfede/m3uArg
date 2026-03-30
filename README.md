@@ -7,7 +7,7 @@ http://186.0.248.95:20202/Live/cb230c0736310c8de8fb52aa7caacbb9/online-24-7_480.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kg1sXQS6/HBO-FAMILY.png" group-title="CINE",GOLDEN
 http://190.108.89.228:8000/play/a0eb/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kg1sXQS6/HBO-FAMILY.png" group-title="CINE",HBO FAMILY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nNj5CCKG/images.png" group-title="CINE",HBO FAMILY
 http://8.243.126.131:8000/play/a05t/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qM7pZrGP/CTV.jpg" group-title="GENERAL",CTV LOCAL
