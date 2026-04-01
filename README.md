@@ -1,5 +1,9 @@
 #EXTM3U
 
+EXTINF:-1,SAN LUIS CTV
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-70_720.m3u8
+
+
 #EXTINF:-1,SAN LUIS CTV
 https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 
