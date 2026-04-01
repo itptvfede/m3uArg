@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 group-title="EVENTOS",📺 DLive Evento | 2026-04-30 23:50
+http://cdn88.cdnfree.shop/iptv/dlive-1.m3u8
 
 
 #EXTINF:-1 tvg-name="SIMPSONS 24/7" tvg-logo="https://i.ibb.co/xKBFBm8T/file-00000000674071f58c1a22c64ff1ae88.png.",CINE CALIDAD
