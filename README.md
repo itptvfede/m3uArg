@@ -2,6 +2,10 @@
 
 
 
+#EXTINF:-1 tvg-name="TN NOTICIAS" tvg-logo="https://i.ibb.co/XxY3yd07/TN.png",TN NOTICIAS
+http://45.170.40.11:8000/play/a050/index.m3u8?hls
+
+
 
 #EXTINF:-1 tvg-name="CINE PREMIUM" tvg-logo="https://i.ibb.co/rGndpyRt/C5N.png",CINE PREMIUM
 http://181.78.7.90:12500/play/a0ed/59548701.m3u8
