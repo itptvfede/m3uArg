@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-EXTINF:-1,TN 360
-https://live-01-01-tn.vodgc.net:443/TN24/index_TN24_360.m3u8
+
+
 
 #EXTINF:-1,SAN LUIS CTV
 https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
@@ -90,6 +90,11 @@ http://45.170.40.11:8000/play/a039/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZVk2J0y/HISTORY.jpg" group-title="DOCUMENTAL",HISTORY
 http://45.170.40.11:8000/play/a055/index.m3u8?hls
+
+
+EXTINF:-1,TN 360
+https://live-01-01-tn.vodgc.net:443/TN24/index_TN24_360.m3u8
+
 
 
 
