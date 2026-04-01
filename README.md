@@ -2,6 +2,9 @@
 
 
 
+
+
+
 #EXTINF:-1 tvg-name="TN NOTICIAS" tvg-logo="https://i.ibb.co/XxY3yd07/TN.png",TN NOTICIAS
 http://45.170.40.11:8000/play/a050/index.m3u8?hls
 
