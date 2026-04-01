@@ -1,14 +1,7 @@
 #EXTM3U
 
-
-
-
-
-
 #EXTINF:-1 tvg-name="TN NOTICIAS" tvg-logo="https://i.ibb.co/XxY3yd07/TN.png",TN NOTICIAS
 http://45.170.40.11:8000/play/a050/index.m3u8?hls
-
-
 
 #EXTINF:-1 tvg-name="CINE PREMIUM" tvg-logo="https://i.ibb.co/rGndpyRt/C5N.png",CINE PREMIUM
 http://181.78.7.90:12500/play/a0ed/59548701.m3u8
@@ -18,15 +11,8 @@ http://181.78.7.90:12500/play/a0ed/59548701.m3u8
 http://190.7.19.197:232/play/a040/index.m3u8?hls
 
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-name="SIMPSONS 24/7" tvg-logo="https://i.ibb.co/xKBFBm8T/file-00000000674071f58c1a22c64ff1ae88.png.",CINE CALIDAD
 http://cdn88.cdnfree.shop/iptv/dlive-1.m3u8
-
 
 
 #EXTINF:-1 tvg-name="SIMPSONS 24/7" tvg-logo="https://i.ibb.co/RG6x5bPS/4cba92ee86f4f840cf9983481870da43.jpg.",SIMPSONS 24/7
