@@ -1,12 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="SIMPSONS 24/7" tvg-logo="https://i.ibb.co/RG6x5bPS/4cba92ee86f4f840cf9983481870da43.jpg.",CINE CALIDAD 03
-http://8.243.126.131:8000/play/a05a
 
 
 
 #EXTINF:-1 tvg-name="SIMPSONS 24/7" tvg-logo="https://i.ibb.co/RG6x5bPS/4cba92ee86f4f840cf9983481870da43.jpg.",CINE CALIDAD
-http://8.243.126.131:8000/play/a05a
+http://campstvpro.com/live/miguelbaque/promotvbox2022/506542.m3u8
 
 #EXTINF:-1 tvg-name="SIMPSONS 24/7" tvg-logo="https://i.ibb.co/RG6x5bPS/4cba92ee86f4f840cf9983481870da43.jpg.",SIMPSONS 24/7
 http://186.0.248.95:20202/Live/cb230c0736310c8de8fb52aa7caacbb9/online-24-7_480.m3u8
