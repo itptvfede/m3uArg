@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+EXTINF:-1,TN 360
+https://live-01-01-tn.vodgc.net:443/TN24/index_TN24_360.m3u8
 
 #EXTINF:-1,SAN LUIS CTV
 https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
