@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1,SAN LUIS CTV
+https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 
 #EXTINF:-1,TN NOTICIAS
 http://45.170.40.11:8000/play/a050/index.m3u8
@@ -45,8 +47,6 @@ http://8.243.126.131:8000/play/a05t/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5WL8GX6P/HBO-FAMILY.png" group-title="CINE",HBO FAMILY OP2
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-101_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Psx1Gkxf/images-1.jpg" group-title="GENERAL",CTV LOCAL
-https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kgF99cfX/sanluis.jpg" group-title="GENERAL",CANAL 13 SAN LUIS
 https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
