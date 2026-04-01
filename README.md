@@ -21,13 +21,7 @@ http://190.7.19.197:232/play/a00o/index.m3u8?hls
 #EXTINF:-1,CANAL 26
 http://181.13.252.102:8000/play/a01r/index.m3u8?hls
 
-
-
-#EXTINF:-1 tvg-name="CINE PREMIUM" tvg-logo="https://i.ibb.co/rGndpyRt/C5N.png",CINE PREMIUM
-http://181.78.7.90:12500/play/a0ed/59548701.m3u8
-
-
-#EXTINF:-1 tvg-name="C5N" tvg-logo="https://i.ibb.co/rGndpyRt/C5N.png",C5N
+#EXTINF:-1,C5N
 http://190.7.19.197:232/play/a040/index.m3u8?hls
 
 
