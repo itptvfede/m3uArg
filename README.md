@@ -2,11 +2,6 @@
 
 
 
-
-
-
-
-
 #EXTINF:-1,SAN LUIS CTV
 https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 
@@ -36,6 +31,9 @@ http://181.13.252.102:8000/play/a01r/index.m3u8?hls
 
 #EXTINF:-1,C5N
 http://190.7.19.197:232/play/a040/index.m3u8?hls
+
+#EXTINF:-1,TELEFE
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-10_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kg1sXQS6/HBO-FAMILY.png" group-title="CINE",GOLDEN
 http://190.108.89.228:8000/play/a0eb/index.m3u8
