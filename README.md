@@ -1,6 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="EVENTOS",📺 DLive Evento | 2026-04-30 23:50
+
+
+
+#EXTINF:-1 group-title="EVENTOS",⚽ Boca vs River | 2026-04-30 23:56
 http://cdn88.cdnfree.shop/iptv/dlive-1.m3u8
 
 
