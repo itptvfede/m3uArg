@@ -91,8 +91,7 @@ http://45.170.40.11:8000/play/a039/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZVk2J0y/HISTORY.jpg" group-title="DOCUMENTAL",HISTORY
 http://45.170.40.11:8000/play/a055/index.m3u8?hls
 
-#EXTINF:-1,DISCO THEATER
-http://8.243.126.131:8000/play/a0ik/index.m3u8?hls
+
 
 
 
