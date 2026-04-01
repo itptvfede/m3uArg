@@ -1,6 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1,SAN LUIS CTV
+http://186.0.248.95:20202/Live/0a77255b750ecae595dcf949b802907a/Multivision.playlist.m3u8
+
+#EXTINF:-1,SAN LUIS CTV
 https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 
 #EXTINF:-1,CANAL 13 SAN LUIS
@@ -36,6 +39,5 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-10_720.m
 #EXTINF:-1,MAGAZINE
 http://186.0.248.95:20202/Live/4a483d554d61094ebe7d08cab42aaeaf/ciudadmagazine.playlist.m3u8
 
-EXTINF:-1,MULTIVISION
-http://186.0.248.95:20202/Live/0a77255b750ecae595dcf949b802907a/Multivision.playlist.m3u8
+
 
