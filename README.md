@@ -3,7 +3,7 @@
 
 
 
-#EXTINF:-1 tvg-name="SIMPSONS 24/7" tvg-logo="https://i.ibb.co/RG6x5bPS/4cba92ee86f4f840cf9983481870da43.jpg.",CINE CALIDAD
+#EXTINF:-1 tvg-name="SIMPSONS 24/7" tvg-logo="https://i.ibb.co/xKBFBm8T/file-00000000674071f58c1a22c64ff1ae88.png.",CINE CALIDAD
 http://cdn88.cdnfree.shop/iptv/dlive-1.m3u8
 
 
