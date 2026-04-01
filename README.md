@@ -34,6 +34,10 @@ http://181.13.252.102:8000/play/a01r/index.m3u8?hls
 #EXTINF:-1,C5N
 http://190.7.19.197:232/play/a040/index.m3u8?hls
 
+EXTINF:-1,MULTIVISION
+http://186.0.248.95:20202/Live/0a77255b750ecae595dcf949b802907a/Multivision.playlist.m3u8
+
+
 #EXTINF:-1,TELEFE
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-10_720.m3u8
 
@@ -92,8 +96,7 @@ http://45.170.40.11:8000/play/a039/index.m3u8?hls
 http://45.170.40.11:8000/play/a055/index.m3u8?hls
 
 
-EXTINF:-1,TN 360
-https://live-01-01-tn.vodgc.net:443/TN24/index_TN24_360.m3u8
+
 
 
 
