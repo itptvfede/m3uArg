@@ -3,7 +3,6 @@
 
 
 
-
 EXTINF:-1,TN 360
 https://live-01-01-tn.vodgc.net:443/TN24/index_TN24_360.m3u8
 
@@ -40,18 +39,18 @@ http://190.7.19.197:232/play/a040/index.m3u8?hls
 #EXTINF:-1,TELEFE
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-10_720.m3u8
 
+#EXTINF:-1,MAGAZINE
+http://186.0.248.95:20202/Live/4a483d554d61094ebe7d08cab42aaeaf/ciudadmagazine.playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kg1sXQS6/HBO-FAMILY.png" group-title="CINE",GOLDEN
 http://190.108.89.228:8000/play/a0eb/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5WL8GX6P/HBO-FAMILY.png" group-title="CINE",HBO FAMILY
 http://8.243.126.131:8000/play/a05t/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5WL8GX6P/HBO-FAMILY.png" group-title="CINE",HBO FAMILY OP2
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-101_720.m3u8
-
-
-#EXTINF:-1 tvg-name="MAGAZINE" tvg-logo="https://i.ibb.co/CKwkmntJ/magazine.png",MAGAZINE
-http://186.0.248.95:20202/Live/4a483d554d61094ebe7d08cab42aaeaf/ciudadmagazine.playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0yxRZjTB/CRONICA.jpg" group-title="NOTICIAS",CRONICATV
