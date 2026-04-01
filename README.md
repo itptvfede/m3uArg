@@ -13,6 +13,10 @@ http://181.13.252.102:8000/play/a01o/index.m3u8?hls
 #EXTINF:-1,ARGENTINA 12
 http://190.7.19.197:232/play/a00o/index.m3u8?hls
 
+#EXTINF:-1,CANAL 26
+http://181.13.252.102:8000/play/a01r/index.m3u8?hls
+
+
 
 #EXTINF:-1 tvg-name="CINE PREMIUM" tvg-logo="https://i.ibb.co/rGndpyRt/C5N.png",CINE PREMIUM
 http://181.78.7.90:12500/play/a0ed/59548701.m3u8
@@ -50,8 +54,6 @@ https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
 #EXTINF:-1 tvg-name="MAGAZINE" tvg-logo="https://i.ibb.co/CKwkmntJ/magazine.png",MAGAZINE
 http://186.0.248.95:20202/Live/4a483d554d61094ebe7d08cab42aaeaf/ciudadmagazine.playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5x8hbv60/CANAL26.jpg" group-title="NOTICIAS",CANAL 26 
-http://181.13.252.102:8000/play/a01r/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0yxRZjTB/CRONICA.jpg" group-title="NOTICIAS",CRONICATV
 http://181.13.252.102:8000/play/a01q/index.m3u8?hls
