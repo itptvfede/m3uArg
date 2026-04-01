@@ -2,12 +2,17 @@
 
 
 
+
+#EXTINF:-1 tvg-name="CINE PREMIUM" tvg-logo="https://i.ibb.co/rGndpyRt/C5N.png",CINE PREMIUM
+http://181.78.7.90:12500/play/a0ed/59548701.m3u8
+
+
 #EXTINF:-1 tvg-name="C5N" tvg-logo="https://i.ibb.co/rGndpyRt/C5N.png",C5N
 http://190.7.19.197:232/play/a040/index.m3u8?hls
 
 
-#EXTINF:-1 group-title="FUTBOL",⚽ Boca vs River | 2026-04-30 08:19
-http://181.78.7.90:12500/play/a0ed/59548701.m3u8
+
+
 
 
 
