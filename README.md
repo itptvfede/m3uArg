@@ -2,6 +2,8 @@
 
 
 
+
+
 #EXTINF:-1,TN NOTICIAS OP2
 http://181.13.252.102:8000/play/a0bg/index.m3u8?hls
 
@@ -16,7 +18,7 @@ https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
 
 #EXTINF:-1,LOS SIMPSONS 24/7 OP1
-http://45.225.68.1:8532/Live/7a9ada6cbf9d3655c8cd09c0c3a3e016/online-24-7.480.391264.m3u8
+http://45.225.68.1:8532/Live/7a9ada6cbf9d3655c8cd09c0c3a3e016/online-24-7_480.m3u8
 
 #EXTINF:-1,LOS SIMPSONS 24/7 OP2
 https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
