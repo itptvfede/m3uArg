@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+#EXTINF:-1,TN NOTICIAS
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-70_720.m3u8
 
 EXTINF:-1,SAN LUIS 
 https://live-01-01-tn.vodgc.net:443/TN24/index_TN24_360.m3u8
