@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1,TN NOTICIAS OP2
-http://186.5.85.190:8000/play/a03c/index.m3u8?hls
+http://181.13.252.102:8000/play/a0bg/index.m3u8?hls
 
 EXTINF:-1,SAN LUIS CTV
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-70_720.m3u8
