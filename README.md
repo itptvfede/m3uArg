@@ -1,9 +1,5 @@
 #EXTM3U
 
-
-
-
-
 #EXTINF:-1,LOS SIMPSONS 24/7 OP1
 http://45.225.68.1:8532/Live/7a9ada6cbf9d3655c8cd09c0c3a3e016/online-24-7_480.m3u8
 
@@ -13,17 +9,14 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_
 #EXTINF:-1,TN NOTICIAS OP1
 http://45.225.68.1:8532/Live/7a9ada6cbf9d3655c8cd09c0c3a3e016/tn_720.m3u8
 
-
 #EXTINF:-1,TN NOTICIAS OP2
 http://181.13.252.102:8000/play/a0bg/index.m3u8?hls
 
 #EXTINF:-1,TN NOTICIAS OP3
 http://45.170.40.11:8000/play/a050/index.m3u8
 
-
 EXTINF:-1,SAN LUIS CTV
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-70_720.m3u8
-
 
 #EXTINF:-1,SAN LUIS CTV
 https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
