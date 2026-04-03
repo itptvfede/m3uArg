@@ -1,12 +1,5 @@
 #EXTM3U
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SD4t7HTm/espn.png",ESPN PREMIUM
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02_720.m3u8
-
 #EXTINF:-1,TN NOTICIAS OP3
 http://45.225.68.1:8532/Live/7a9ada6cbf9d3655c8cd09c0c3a3e016/tn_720.m3u8
 
@@ -48,18 +41,17 @@ http://181.13.252.102:8000/play/a01r/index.m3u8?hls
 #EXTINF:-1,C5N
 http://190.7.19.197:232/play/a040/index.m3u8?hls
 
-#EXTINF:-1,MULTIVISON
-http://186.0.248.95:20202/Live/0a77255b750ecae595dcf949b802907a/Multivision.playlist.m3u8
-
 #EXTINF:-1,TELEFE
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-10_720.m3u8
 
 #EXTINF:-1,MAGAZINE
 http://181.13.252.102:8000/play/a02h/index.m3u8?hls
 
-
 #EXTINF:-1,SONY CHANNEL
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-70_720.m3u8
+
+#EXTINF:-1,ESPN PREMIUM OP1
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02_720.m3u8
 
 
 
