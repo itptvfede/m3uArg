@@ -55,7 +55,7 @@ http://186.0.248.95:20202/Live/0a77255b750ecae595dcf949b802907a/Multivision.play
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-10_720.m3u8
 
 #EXTINF:-1,MAGAZINE
-http://186.0.248.95:20202/Live/4a483d554d61094ebe7d08cab42aaeaf/ciudadmagazine.playlist.m3u8
+http://181.13.252.102:8000/play/a02h/index.m3u8?hls
 
 
 #EXTINF:-1,SONY CHANNEL
