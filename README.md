@@ -1,9 +1,7 @@
 #EXTM3U
 
 
-
-
-#EXTINF:-1 tvg-id="futbol123" group-title="futbol",TALLERES vs BOCA 2026-04-02 20:30 - 22:30
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SD4t7HTm/espn.png",ESPN PREMIUM
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02_720.m3u8
 
 
