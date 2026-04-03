@@ -62,3 +62,6 @@ http://8.243.126.131:8000/play/a0f6/index.m3u8?hls
 
 EXTINF:-1,SPACE OP1
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-69_720.m3u8
+
+EXTINF:-1,DISCOVERY CHANNEL
+http://45.170.40.11:8000/play/a055/index.m3u8?hls
