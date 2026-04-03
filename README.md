@@ -56,7 +56,7 @@ http://186.0.248.95:20202/Live/4a483d554d61094ebe7d08cab42aaeaf/ciudadmagazine.p
 
 
 #EXTINF:-1,SONY CHANNEL
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-70_720.ts
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-70_720.m3u8
 
 
 
