@@ -3,6 +3,12 @@
 
 
 
+#EXTINF:-1 tvg-id="futbol123" group-title="futbol",TALLERES vs BOCA 2026-04-02 20:30 - 22:30
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02_720.m3u8
+
+
+
+
 
 #EXTINF:-1,TN NOTICIAS OP2
 http://181.13.252.102:8000/play/a0bg/index.m3u8?hls
