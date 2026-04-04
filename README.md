@@ -1,5 +1,9 @@
 #EXTM3U
 
+EXTINF:-1,ELTRECE
+http://45.225.68.1:8532/Live/ba22f613902eeedfc0dbcde564c98256/eltrece_540.m3u8
+
+
 #EXTINF:-1,LOS SIMPSONS 24/7 OP1
 http://45.225.68.1:8532/Live/7a9ada6cbf9d3655c8cd09c0c3a3e016/online-24-7_480.m3u8
 
