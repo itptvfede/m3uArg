@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,TN NOTICIAS OP4
-https://agvyby.fubohd.com/tycinternacional/mono.m3u8?token=b6e39ada999b562613bcb62124ced9b13d5e670b-a4-1775429571-1775411571
+#EXTINF:-1,C5N
+http://45.170.41.14:9037/Live/2df0b58cab71dd47ba0d4040bf73ddca/c5n.playlist.m3u8
 
 
 #EXTINF:-1,TNT CINE
