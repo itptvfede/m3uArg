@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1,LOS SIMPSONS 24/7 OP1
+http://45.225.68.1:8532/Live/7a9ada6cbf9d3655c8cd09c0c3a3e016/online-24-7_480.m3u8
+
+#EXTINF:-1,LOS SIMPSONS 24/7 OP2
+https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
+
 #EXTINF:-1,TELEFE
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-10_720.m3u8
 
@@ -32,13 +38,6 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-90_720.m
 
 #EXTINF:-1,ESPN PREMIUM OP1
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02_720.m3u8
-
-
-#EXTINF:-1,LOS SIMPSONS 24/7 OP1
-http://45.225.68.1:8532/Live/7a9ada6cbf9d3655c8cd09c0c3a3e016/online-24-7_480.m3u8
-
-#EXTINF:-1,LOS SIMPSONS 24/7 OP2
-https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
 
 
 #EXTINF:-1,TN NOTICIAS OP2
