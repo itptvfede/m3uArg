@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,TN NOTICIAS OP3
-https://ag9wzq.fubohd.com/tntsports/mono.m3u8?token=04541958299b3647d7a770301a18d05277daba6b-fa-1775429201-1775411201
+#EXTINF:-1,TN NOTICIAS OP4
+https://agvyby.fubohd.com/tycinternacional/mono.m3u8?token=b6e39ada999b562613bcb62124ced9b13d5e670b-a4-1775429571-1775411571
 
 
 #EXTINF:-1,TNT CINE
