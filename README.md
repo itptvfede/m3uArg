@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,PELIS 24/7 
-https://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_moe.flv
+https://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_moe.flv?android_vs.ts
 
 #EXTINF:-1,LOS SIMPSONS 24/7 OP1
 http://45.225.68.1:8532/Live/7a9ada6cbf9d3655c8cd09c0c3a3e016/online-24-7_480.m3u8
