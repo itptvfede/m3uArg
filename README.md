@@ -47,6 +47,11 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-101_720.
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KcD7ZZC4/SPACE.jpg",CANAL SPACE
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-69_720.m3u8
+
+
+
 #EXTINF:-1,MULTIPREMIER
 http://45.5.119.43:4000/play/a0ij/index.m3u8
 
@@ -67,8 +72,8 @@ http://45.5.119.43:4000/play/a0ij/index.m3u8
 
 
 
-#EXTINF:-1,SPACE OP1
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-69_720.m3u8
+
+
 
 #EXTINF:-1,HISTORY OP1
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-40_480.m3u8
