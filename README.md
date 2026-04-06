@@ -29,6 +29,11 @@ http://45.170.41.14:9037/Live/2df0b58cab71dd47ba0d4040bf73ddca/c5n.playlist.m3u8
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-10_720.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x88F763F/TELEFE.jpg",ELTRECE
+https://stream-cdn-iad3.vaughnsoft.net/play/live_juan_13tv.flv?android_vs.ts
+
+
+
 #EXTINF:-1,MULTIPREMIER
 http://45.5.119.43:4000/play/a0ij/index.m3u8
 
@@ -36,8 +41,8 @@ http://45.5.119.43:4000/play/a0ij/index.m3u8
 
 
 
-#EXTINF:-1,ELTRECE
-https://stream-cdn-iad3.vaughnsoft.net/play/live_juan_13tv.flv?android_vs.ts
+
+
 
 
 
