@@ -42,7 +42,8 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-70_720.m
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-66_720.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sdVvMT7s/HBO-FAMILY.png",HBO FAMILY
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-101_720.m3u8
 
 
 
@@ -61,8 +62,7 @@ http://45.5.119.43:4000/play/a0ij/index.m3u8
 
 
 
-#EXTINF:-1,HBO FAMILY 
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-101_720.m3u8
+
 
 
 
