@@ -38,6 +38,12 @@ https://stream-cdn-iad3.vaughnsoft.net/play/live_juan_13tv.flv?android_vs.ts
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-70_720.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kpgs86sf/SONY-CHANNEL.png",TNT CINE
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-66_720.m3u8
+
+
+
+
 
 
 #EXTINF:-1,MULTIPREMIER
@@ -52,8 +58,8 @@ http://45.5.119.43:4000/play/a0ij/index.m3u8
 
 
 
-#EXTINF:-1,TNT CINE
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-66_720.m3u8
+
+
 
 #EXTINF:-1,HBO FAMILY 
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-101_720.m3u8
