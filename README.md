@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,MULTIPREMIER
+http://45.5.119.43:4000/play/a0ij/index.m3u8
+
 #EXTINF:-1,PELIS 24/7 
 https://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_moe.flv?android_vs.ts
 
