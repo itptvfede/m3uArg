@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png",TN NOTICIAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png",PELIS 24/7 OP1
 https://stream-cdn-iad3.vaughnsoft.net/play/live_0ueen_disney.flv?android_vs.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png",PELIS 24/7 OP2
+https://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_moe.flv?android_vs.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png",TN NOTICIAS
 http://45.225.68.1:8532/Live/7a9ada6cbf9d3655c8cd09c0c3a3e016/tn_720.m3u8
@@ -11,8 +14,6 @@ http://45.225.68.1:8532/Live/7a9ada6cbf9d3655c8cd09c0c3a3e016/tn_720.m3u8
 #EXTINF:-1,MULTIPREMIER
 http://45.5.119.43:4000/play/a0ij/index.m3u8
 
-#EXTINF:-1,PELIS 24/7 
-https://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_moe.flv?android_vs.ts
 
 #EXTINF:-1,LOS SIMPSONS 24/7 OP1
 http://45.225.68.1:8532/Live/7a9ada6cbf9d3655c8cd09c0c3a3e016/online-24-7_480.m3u8
