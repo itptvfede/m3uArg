@@ -60,6 +60,9 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-90_720.m
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-04_720.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZRsZkpfb/ESPN-PREMIUM.jpg",ESPN PREMIUM
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02_720.m3u8
+
 
 
 
@@ -91,8 +94,8 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-40_480.m
 
 
 
-#EXTINF:-1,ESPN PREMIUM 
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02_720.m3u8
+
+
 
 
 
