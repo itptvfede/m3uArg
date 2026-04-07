@@ -56,6 +56,12 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-90_720.m
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60Pc35yJ/tnt-sports.jpg",TNT SPORTS
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-04_720.m3u8
+
+
+
+
 
 #EXTINF:-1,MULTIPREMIER
 http://45.5.119.43:4000/play/a0ij/index.m3u8
@@ -88,8 +94,7 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-40_480.m
 #EXTINF:-1,ESPN PREMIUM 
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02_720.m3u8
 
-#EXTINF:-1,TNT SPORTS
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-04_720.m3u8
+
 
 #EXTINF:-1,TN NOTICIAS OP2
 http://181.13.252.102:8000/play/a0bg/index.m3u8?hls
