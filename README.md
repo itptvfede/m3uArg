@@ -51,6 +51,9 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-101_720.
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-69_720.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tpL936kW/HISTORY.jpg",ESPN 1 AR
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-94_720.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMVTCvDc/TYC.jpg8",TYC SPORTS
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-90_720.m3u8
 
