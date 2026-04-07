@@ -1,10 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png",PELIS 24/7 OP3
-http://canal-pro.xyz:8080/54bahu98de366sa88/58wumu473muwu85/690
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png",PELIS 24/7 OP1
 https://stream-cdn-iad3.vaughnsoft.net/play/live_0ueen_disney.flv?android_vs.ts
 
