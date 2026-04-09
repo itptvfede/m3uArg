@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png",PELIS 24/7 OP3
-http://liketv.pro/live/likedemos2/likedemos2/145.m3u8
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/126483.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png",PELIS 24/7 OP1
