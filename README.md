@@ -2,7 +2,8 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png",PELIS 24/7 OP3
-http://190.7.19.197:232/play/a03l/59198881.m3u8
+https://regionales.saohgdasregions.fun:9092/MTkwLjEyNC4xNTMuNTg=/3_.m3u8?token=7bdb5DJbi2ByDvwFFj-Dcg&expires=1775737304
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png",PELIS 24/7 OP1
 https://stream-cdn-iad3.vaughnsoft.net/play/live_superpelis.flv?android_vs.ts
