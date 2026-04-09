@@ -84,8 +84,8 @@ http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/11852.m3u8
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/17644.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XPdNnzq/SONY.png",DIRECTV SPORTS OP2
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/132.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qLqyfM3m/images.jpg",DIRECTV SPORTS OP2
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/132.m3u8
 
 
 
