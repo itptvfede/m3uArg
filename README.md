@@ -80,6 +80,8 @@ http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/17411.m3u8
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/11852.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YTp3cKP8/foxsports.png",SONY CHANNEL OP2
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/17644.m3u8
 
 
 
