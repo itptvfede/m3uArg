@@ -1,11 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png",PELIS 24/7 OP8
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/17411.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png",PELIS 24/7 OP1
 https://stream-cdn-iad3.vaughnsoft.net/play/live_superpelis.flv?android_vs.ts
 
@@ -78,11 +73,8 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02_720.m
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-40_480.m3u8
 
 
-
-
-#EXTINF:-1,MULTIPREMIER
-http://45.5.119.43:4000/play/a0ij/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sdVvMT7s/HBO-FAMILY.png",HBO FAMILY
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/17411.m3u8
 
 
 
@@ -112,39 +104,10 @@ http://45.5.119.43:4000/play/a0ij/index.m3u8
 
 
 
-#EXTINF:-1,TN NOTICIAS OP2
-http://181.13.252.102:8000/play/a0bg/index.m3u8?hls
-
-#EXTINF:-1,TN NOTICIAS OP3
-http://45.170.40.11:8000/play/a050/index.m3u8
-
-EXTINF:-1,SAN LUIS CTV
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-70_720.m3u8
-
-#EXTINF:-1,SAN LUIS CTV
-https://stream.arcast.net:4443/sanluisctv/sanluisctv/playlist.m3u8
-
-#EXTINF:-1,CANAL 13 SAN LUIS
-https://stream.radiosmundiales.com/hls/sanluismas/sanluismas.m3u8
-
-#EXTINF:-1,A24
-http://181.13.252.102:8000/play/a01o/index.m3u8?hls
-
-#EXTINF:-1,ARGENTINA 12
-http://190.7.19.197:232/play/a00o/index.m3u8?hls
-
-#EXTINF:-1,CANAL 26
-http://181.13.252.102:8000/play/a01r/index.m3u8?hls
-
-#EXTINF:-1,C5N
-http://190.7.19.197:232/play/a040/index.m3u8?hls
-
-#EXTINF:-1,MAGAZINE
-http://181.13.252.102:8000/play/a02h/index.m3u8?hls
 
 
-#EXTINF:-1,HBO FAMILY OP1
-http://8.243.126.131:8000/play/a0f6/index.m3u8?hls
+
+
 
 
 
