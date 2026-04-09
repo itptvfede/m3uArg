@@ -73,11 +73,11 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02_720.m
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-40_480.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sdVvMT7s/HBO-FAMILY.png",HBO FAMILY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sdVvMT7s/HBO-FAMILY.png",HBO FAMILY OP2
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/17411.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sdVvMT7s/HBO-FAMILY.png",FOX SPORTS OP2
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/11852.m3u8
 
 
 
