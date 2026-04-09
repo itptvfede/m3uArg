@@ -1,8 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png",PELIS 24/7 OP3
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/126483.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png",PELIS 24/7 OP3http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/131.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png",PELIS 24/7 OP1
