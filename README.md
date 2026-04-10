@@ -96,8 +96,8 @@ http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/15.m3u8
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/278.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60Pc35yJ/tnt-sports.jpg",TNT SPORTS OP2
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/154.m3u8
 
 
 
