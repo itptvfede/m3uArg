@@ -92,8 +92,8 @@ http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/20.m3u8
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/15.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMgCSGFs/images.jpg",ELTRECE INTERNACIONAL
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/278.m3u8
 
 
 
