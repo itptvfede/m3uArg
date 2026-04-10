@@ -114,6 +114,8 @@ http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/102.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png",HISTORY OP2
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/126930.m3u8
 
 
 
