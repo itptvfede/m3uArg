@@ -109,8 +109,8 @@ http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/145.ts
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png",TN NOTICIAS OP2
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/102.m3u8
 
 
 
