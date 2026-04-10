@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png",PELIS 24/7 OP1
 https://stream-cdn-iad3.vaughnsoft.net/play/live_superpelis.flv?android_vs.ts
 
@@ -102,8 +104,8 @@ http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/278.m3u8
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/154.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZRsZkpfb/ESPN-PREMIUM.jpg",ESPN PREMIUM OP2
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/145.ts
 
 
 
