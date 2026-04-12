@@ -21,7 +21,7 @@ http://45.170.41.14:9037/Live/2df0b58cab71dd47ba0d4040bf73ddca/c5n.playlist.m3u8
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-101_720.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png" group-title="VARIOS",SIMPSONS 24/7 OP1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png" group-title="VARIOS",PELIS OP1
 https://stream-cdn-iad3.vaughnsoft.net/play/live_superpelis.flv?android_vs.ts
 
 
