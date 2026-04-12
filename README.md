@@ -6,17 +6,16 @@
 http://45.225.68.1:8532/Live/7a9ada6cbf9d3655c8cd09c0c3a3e016/tn_720.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x88F763F/TELEFE.jpg" group-title="ARGENTINA",TELEFE SANTA,FE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x88F763F/TELEFE.jpg" group-title="ARGENTINA",TELEFE
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-10_720.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sdVvMT7s/HBO-FAMILY.png" group-title="CINE",HBO HD
-http://link.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sdVvMT7s/HBO-FAMILY.png" group-title="CINE",HBO FAMILY
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-101_720.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://logo-espn.png" group-title="DEPORTES",ESPN
-http://link.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://logo.png" group-title="VARIOS",Canal Random
@@ -61,11 +60,6 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-70_720.m
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HT8zqBVy/tnt.png",TNT CINE
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-66_720.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sdVvMT7s/HBO-FAMILY.png",HBO FAMILY
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-101_720.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KcD7ZZC4/SPACE.jpg",CANAL SPACE
