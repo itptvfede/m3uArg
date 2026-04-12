@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="PREMIUM2",TN NOTICIAS
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/102.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="gooiptv",TN NOTICIAS
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/102.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="ARGENTINA",TN NOTICIAS
 http://45.225.68.1:8532/Live/7a9ada6cbf9d3655c8cd09c0c3a3e016/tn_720.m3u8
