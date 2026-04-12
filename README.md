@@ -26,6 +26,9 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-70_720.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KcD7ZZC4/SPACE.jpg" group-title="CINE",CANAL SPACE
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-69_720.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HT8zqBVy/tnt.png" group-title="CINE",TNT CINE
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-66_720.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png" group-title="VARIOS",PELIS OP1
 https://stream-cdn-iad3.vaughnsoft.net/play/live_superpelis.flv?android_vs.ts
@@ -83,8 +86,8 @@ https://stream-cdn-iad3.vaughnsoft.net/play/live_juan_13tv.flv?android_vs.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HT8zqBVy/tnt.png",TNT CINE
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-66_720.m3u8
+
+
 
 
 
