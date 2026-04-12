@@ -35,6 +35,10 @@ http://45.225.68.1:8532/Live/7a9ada6cbf9d3655c8cd09c0c3a3e016/online-24-7_480.m3
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-94_720.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMVTCvDc/TYC.jpg8" group-title="deportes",TYC
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-90_720.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://logo.png" group-title="FULLHD",FOX SPORTS HD
@@ -71,11 +75,9 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-66_720.m
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-69_720.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jwxp4RXR/ESPN.png",ESPN 1 AR
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-94_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TMVTCvDc/TYC.jpg8",TYC SPORTS
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-90_720.m3u8
+
+
 
 
 
