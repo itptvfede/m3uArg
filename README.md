@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/def123/STAR.png" group-title="premium",STAR CHANNEL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="PREMIUM",TN NOTICIAS
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/102.m3u8
 
 
