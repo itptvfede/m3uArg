@@ -25,7 +25,9 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-101_720.
 https://stream-cdn-iad3.vaughnsoft.net/play/live_superpelis.flv?android_vs.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png" group-title="VARIOS",PELIS OP2
-https://stream-cdn-iad3.vaughnsoft.net/play/live_superpelis.flv?android_vs.ts
+https://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_moe.flv?android_vs.ts
+
+
 
 
 #EXTINF:-1 tvg-logo="https://logo.png" group-title="FULLHD",FOX SPORTS HD
