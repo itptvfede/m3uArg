@@ -1,8 +1,9 @@
 #EXTM3U
 
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/def123/STAR.png" group-title="PREMIUM",STAR CHANNEL
-https://stream4.example.com/star.m3u8
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/102.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="ARGENTINA",TN NOTICIAS
