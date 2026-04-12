@@ -6,6 +6,10 @@
 http://45.225.68.1:8532/Live/7a9ada6cbf9d3655c8cd09c0c3a3e016/tn_720.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://logo-cine.png" group-title="CINE",HBO HD
+http://link.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png",PELIS 24/7 OP1
 https://stream-cdn-iad3.vaughnsoft.net/play/live_superpelis.flv?android_vs.ts
 
