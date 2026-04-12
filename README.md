@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="gooiptv",TN NOTICIAS
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/102.m3u8
 
