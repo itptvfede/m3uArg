@@ -6,7 +6,7 @@
 http://45.225.68.1:8532/Live/7a9ada6cbf9d3655c8cd09c0c3a3e016/tn_720.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://logo-cine.png" group-title="CINE",HBO HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sdVvMT7s/HBO-FAMILY.png" group-title="CINE",HBO HD
 http://link.m3u8
 
 
