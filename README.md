@@ -69,8 +69,20 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02_720.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="gooiptv",TN NOTICIAS
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/102.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R4PrL0LF/fmh-family.jpg" group-title="gooiptv",HBO FAMILY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sdVvMT7s/HBO-FAMILY.png" group-title="gooiptv",HBO FAMILY
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/17411.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMgCSGFs/images.jpg" group-title="gooiptv",TNT CINE
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/15.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tpL936kW/HISTORY.jpg" group-title="gooiptv",HISTORY
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/126930.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZRsZkpfb/ESPN-PREMIUM.jpg" group-title="gooiptv",ESPN PREMIUM
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/145.m3u8
+
 
 
 
@@ -127,7 +139,7 @@ http://link.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sdVvMT7s/HBO-FAMILY.png",HBO FAMILY OP2
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YTp3cKP8/foxsports.png",FOX SPORTS OP2
@@ -141,8 +153,8 @@ http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/132.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TMgCSGFs/images.jpg",TNT CINE OP2
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/15.m3u8
+
+
 
 
 
@@ -155,8 +167,6 @@ http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/278.m3u8
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/154.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZRsZkpfb/ESPN-PREMIUM.jpg",ESPN PREMIUM OP2
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/145.ts
 
 
 
@@ -164,8 +174,10 @@ http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/145.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tpL936kW/HISTORY.jpg",HISTORY OP2
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/126930.m3u8
+
+
+
+
 
 
 
