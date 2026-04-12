@@ -14,7 +14,8 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-10_720.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sdVvMT7s/HBO-FAMILY.png" group-title="CINE",HBO FAMILY
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-101_720.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/def123/STAR.png" group-title="PREMIUM",STAR CHANNEL
+https://stream4.example.com/star.m3u8
 
 
 
