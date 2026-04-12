@@ -14,6 +14,12 @@ http://link.m3u8
 http://link.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://logo.png" group-title="VARIOS",Canal Random
+http://link.m3u8
+
+#EXTINF:-1 tvg-logo="https://logo.png" group-title="FULLHD",FOX SPORTS HD
+http://link.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png",PELIS 24/7 OP1
 https://stream-cdn-iad3.vaughnsoft.net/play/live_superpelis.flv?android_vs.ts
 
