@@ -1,10 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="deportes",TN NOTICIAS
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/102.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="gooiptv",TN NOTICIAS
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/102.m3u8
 
@@ -35,6 +30,9 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rKScDcBn/LOSSIMPSONS.png" group-title="VARIOS",LOS SIMPSONS OP2
 http://45.225.68.1:8532/Live/7a9ada6cbf9d3655c8cd09c0c3a3e016/online-24-7_480.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jwxp4RXR/ESPN.png" group-title="deportes",ESPN 1 AR
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-94_720.m3u8
 
 
 
