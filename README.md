@@ -1,13 +1,9 @@
 #EXTM3U
 
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x88F763F/TELEFE.jpg" group-title="ARGENTINA",TELEFE
 http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/telefe.playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="gooiptv",TN NOTICIAS
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/102.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="ARGENTINA",TN NOTICIAS
 http://45.225.68.1:8532/Live/7a9ada6cbf9d3655c8cd09c0c3a3e016/tn_720.m3u8
@@ -74,6 +70,10 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02_720.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="gooiptv",TN NOTICIAS
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/102.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="gooiptv",TN NOTICIAS
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/102.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sdVvMT7s/HBO-FAMILY.png" group-title="gooiptv",HBO FAMILY
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/17411.m3u8
 
@@ -88,62 +88,6 @@ http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/126930.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZRsZkpfb/ESPN-PREMIUM.jpg" group-title="gooiptv",ESPN PREMIUM
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/145.m3u8
 
-
-
-#EXTINF:-1 group-title="FULLHD",TN NOTICIAS
-http://181.13.252.102:8000/play/a058/index.m3u8?hls
-
-#EXTINF:-1 group-title="FULLHD",CANAL 26 NOTICIAS
-http://181.13.252.102:8000/play/a01r/index.m3u8?hls
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YTp3cKP8/foxsports.png",FOX SPORTS OP2
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/11852.m3u8
 
@@ -151,24 +95,17 @@ http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/11852.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qLqyfM3m/images.jpg",DIRECTV SPORTS OP2
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/132.m3u8
 
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hxMRpgzj/cl-el-trece-internacional-m.png",ELTRECE INTERNACIONAL OP2
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/278.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/60Pc35yJ/tnt-sports.jpg",TNT SPORTS OP2
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/154.m3u8
 
+#EXTINF:-1 group-title="FULLHD",TN NOTICIAS
+http://181.13.252.102:8000/play/a058/index.m3u8?hls
 
+#EXTINF:-1 group-title="FULLHD",CANAL 26 NOTICIAS
+http://181.13.252.102:8000/play/a01r/index.m3u8?hls
 
 
 
