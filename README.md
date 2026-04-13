@@ -110,6 +110,8 @@ http://181.13.252.102:8000/play/a01o/index.m3u8
 
 
 
+EXTINF:-1 group-title="FULLHD",PRUEBA
+http://74.208.30.121/a172/tracks-v1a1/mono.m3u8
 
 
 
