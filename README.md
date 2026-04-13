@@ -99,10 +99,27 @@ http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/278.m3u8
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/154.m3u8
 
 #EXTINF:-1 group-title="FULLHD",TN NOTICIAS
-http://181.13.252.102:8000/play/a058/index.m3u8?hls
+http://181.13.252.102:8000/play/a058/index.m3u8
 
 #EXTINF:-1 group-title="FULLHD",CANAL 26 NOTICIAS
-http://181.13.252.102:8000/play/a01r/index.m3u8?hls
+http://181.13.252.102:8000/play/a01r/index.m3u8
+
+
+#EXTINF:-1 group-title="FULLHD",A24
+http://181.13.252.102:8000/play/a01o/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
