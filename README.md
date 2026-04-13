@@ -1,10 +1,5 @@
 #EXTM3U
 
-
-EXTINF:-1 group-title="FULLHD",PRUEBA
-http://74.208.30.121/a172/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x88F763F/TELEFE.jpg" group-title="ARGENTINA",TELEFE
 http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/telefe.playlist.m3u8
 
@@ -97,7 +92,7 @@ http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/11852.m3u8
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/132.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hxMRpgzj/cl-el-trece-internacional-m.png",ELTRECE INTERNACIONAL OP2
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/278.m3u8
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/75.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/60Pc35yJ/tnt-sports.jpg",TNT SPORTS OP2
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/154.m3u8
@@ -114,8 +109,8 @@ http://181.13.252.102:8000/play/a01o/index.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x88F763F/TELEFE.jpg" group-title="ARGENTINA",TELEFE
+http://74.208.30.121/a172/tracks-v1a1/mono.m3u8
 
 
 
