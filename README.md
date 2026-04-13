@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+EXTINF:-1 group-title="FULLHD",PRUEBA
+http://74.208.30.121/a172/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x88F763F/TELEFE.jpg" group-title="ARGENTINA",TELEFE
@@ -110,10 +112,6 @@ http://181.13.252.102:8000/play/a01r/index.m3u8
 #EXTINF:-1 group-title="FULLHD",A24
 http://181.13.252.102:8000/play/a01o/index.m3u8
 
-
-
-EXTINF:-1 group-title="FULLHD",PRUEBA
-http://74.208.30.121/a172/tracks-v1a1/mono.m3u8
 
 
 
