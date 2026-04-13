@@ -84,11 +84,8 @@ http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/126930.m3u8
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/145.m3u8
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://logo.png" group-title="FULLHD",FOX SPORTS HD
-http://link.m3u8
+#EXTINF:-1 tvg-logo="https://logo.png" group-title="FULLHD",TN NOTICIAS 
+http://181.13.252.102:8000/play/a058/index.m3u8?hls
 
 
 
