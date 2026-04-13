@@ -67,25 +67,22 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-04_720.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZRsZkpfb/ESPN-PREMIUM.jpg" group-title="deportes",ESPN PREMIUM
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="gooiptv",TN NOTICIAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="gooiptv",TN NOTICIAS OP2
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/102.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="gooiptv",TN NOTICIAS
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/102.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sdVvMT7s/HBO-FAMILY.png" group-title="gooiptv",HBO FAMILY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sdVvMT7s/HBO-FAMILY.png" group-title="gooiptv",HBO FAMILY OP2
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/17411.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TMgCSGFs/images.jpg" group-title="gooiptv",TNT CINE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMgCSGFs/images.jpg" group-title="gooiptv",TNT CINE OP2
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/15.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tpL936kW/HISTORY.jpg" group-title="gooiptv",HISTORY
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tpL936kW/HISTORY.jpg" group-title="gooiptv",HISTORY OP2
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/126930.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZRsZkpfb/ESPN-PREMIUM.jpg" group-title="gooiptv",ESPN PREMIUM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZRsZkpfb/ESPN-PREMIUM.jpg" group-title="gooiptv",ESPN PREMIUM OP2
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/145.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YTp3cKP8/foxsports.png",FOX SPORTS OP2
