@@ -1,6 +1,11 @@
 #EXTM3U
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x88F763F/TELEFE.jpg" group-title="ARGENTINA",TELEFE
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/telefe.playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="gooiptv",TN NOTICIAS
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/102.m3u8
 
