@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1
-group-title="ARGENTINA",EVENTO ESPECIAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x88F763F/TELEFE.jpg" group-title="ARGENTINA",BARCELONA VS ATHETICO MADRID
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/520031.m3u8
 
 
