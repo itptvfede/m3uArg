@@ -109,13 +109,10 @@ http://181.13.252.102:8000/play/a058/index.m3u8
 #EXTINF:-1 group-title="FULLHD",CANAL 26 NOTICIAS
 http://181.13.252.102:8000/play/a01r/index.m3u8
 
-
 #EXTINF:-1 group-title="FULLHD",A24
 http://181.13.252.102:8000/play/a01o/index.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x88F763F/TELEFE.jpg" group-title="ARGENTINA",NEOTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/676MhQmY/neotv.jpg" group-title="ARGENTINA",NEOTV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
