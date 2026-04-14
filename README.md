@@ -2,7 +2,7 @@
 
 
 #EXTINF:-2 tvg-logo="https://i.ibb.co/x88F763F/TELEFE.jpg" group-title="ARGENTINA",BARCELONA VS ATHETICO MADRID
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/520031.m3u8
+http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/529074.m3u8
 
 
 
