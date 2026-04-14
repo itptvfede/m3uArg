@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-2 tvg-logo="https://i.ibb.co/x88F763F/TELEFE.jpg" group-title="ARGENTINA",BARCELONA VS ATHETICO MADRID
+#EXTINF:-1 group-title="Eventos Especial DIRECTV Sports",⚽ Evento Especial |14/04 | 19:00-24:00
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/529074.m3u8
 
 
