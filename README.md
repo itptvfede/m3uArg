@@ -1,10 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Eventos Especial DIRECTV Sports",⚽ Evento Especial |14/04 | 19:00-24:00
-http://201.217.246.42:44310/Live/03fdb23d632ee0a05e1fbb871c0191ff/ciudadmagazine_720.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x88F763F/TELEFE.jpg" group-title="ARGENTINA",TELEFE
 http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/telefe.playlist.m3u8
 
@@ -46,7 +42,8 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rKScDcBn/LOSSIMPSONS.png" group-title="VARIOS",LOS SIMPSONS OP2
-http://45.225.68.1:8532/Live/7a9ada6cbf9d3655c8cd09c0c3a3e016/online-24-7_480.m3u8
+https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_media.flv?android_vs.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VW40VmQm/ELTRECE.jpg" group-title="VARIOS",ELTRECE
 https://stream-cdn-iad3.vaughnsoft.net/play/live_juan_13tv.flv?android_vs.ts
