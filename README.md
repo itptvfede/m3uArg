@@ -2,8 +2,7 @@
 
 
 #EXTINF:-1 group-title="Eventos Especial DIRECTV Sports",⚽ Evento Especial |14/04 | 19:00-24:00
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/529074.m3u8
-
+http://201.217.246.42:44310/Live/03fdb23d632ee0a05e1fbb871c0191ff/ciudadmagazine_720.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x88F763F/TELEFE.jpg" group-title="ARGENTINA",TELEFE
