@@ -6,8 +6,7 @@ http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/telefe.playlist.m3
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="ARGENTINA",TN NOTICIAS
-http://170.0.93.62:326/Live/c74929f46c9a2332ffb826d744ef718c/tn.720.30559.ts
-
+http://201.217.246.42:44310/Live/03fdb23d632ee0a05e1fbb871c0191ff/tn.720.30612.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x88F763F/TELEFE.jpg" group-title="ARGENTINA",TELEFE
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-10_720.m3u8
