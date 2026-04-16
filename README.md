@@ -46,7 +46,7 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rKScDcBn/LOSSIMPSONS.png" group-title="VARIOS",LOS SIMPSONS OP2
-https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_media.flv?android_vs.ts
+https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VW40VmQm/ELTRECE.jpg" group-title="VARIOS",ELTRECE
