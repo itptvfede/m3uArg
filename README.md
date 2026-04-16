@@ -36,7 +36,7 @@ https://stream-cdn-iad3.vaughnsoft.net/play/live_superpelis.flv?android_vs.ts
 https://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_moe.flv?android_vs.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rKScDcBn/LOSSIMPSONS.png" group-title="VARIOS",LOS SIMPSONS OP1
-https://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
+https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rKScDcBn/LOSSIMPSONS.png" group-title="VARIOS",LOS SIMPSONS OP2
