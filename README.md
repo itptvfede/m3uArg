@@ -18,7 +18,7 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-10_720.m
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5x8t5G6g/C5N.jpg" group-title="ARGENTINA",C5N
-http://45.170.41.14:9037/Live/2df0b58cab71dd47ba0d4040bf73ddca/c5n.playlist.m3u8
+http://201.217.246.42:44310/Live/03fdb23d632ee0a05e1fbb871c0191ff/c5n_480.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sdVvMT7s/HBO-FAMILY.png" group-title="CINE",HBO FAMILY
