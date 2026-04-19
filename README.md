@@ -3,7 +3,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="ARGENTINA",MAGAZINE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rkkj1kKC/magazine.png" group-title="ARGENTINA",MAGAZINE
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/70.m3u8
 
 
