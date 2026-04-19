@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="evento1" tvg-name="Aldosivi vs Racing Club 19/04 13:30-17:00" tvg-logo="https://cdn-icons-png.flaticon.com/512/2273/2273140.png" group-title="EVENTOS",Aldosivi vs Racing Club
-http://tu-servidor.com/live/stream1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="ARGENTINA",MAGAZINE
