@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZRsZkpfb/ESPN-PREMIUM.jpg" group-title="deportes",ESPN PREMIUM
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60Pc35yJ/tnt-sports.jpg" group-title="deportes",TNT SPORTS
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-04_720.m3u8
 
 
 
@@ -62,14 +67,6 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-94_720.m
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMVTCvDc/TYC.jpg8" group-title="deportes",TYC
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-90_720.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/60Pc35yJ/tnt-sports.jpg" group-title="deportes",TNT SPORTS
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-04_720.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZRsZkpfb/ESPN-PREMIUM.jpg" group-title="deportes",ESPN PREMIUM
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="gooiptv",TN NOTICIAS OP2
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/102.m3u8
