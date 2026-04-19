@@ -1,9 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:-2 tvg-id="evento1" tvg-name="Instituto vs Estudiantes de La Plata 18/04 19:30-21:45" tvg-logo="https://cdn-icons-png.flaticon.com/512/2273/2273140.png" group-title="EVENTOS",Independiente vs Defensa y Justicia 18/04 19:30
-http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="ARGENTINA",MAGAZINE
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/70.m3u8
 
