@@ -8,8 +8,7 @@ http://stream-cdn-iad3.vaughnsoft.net/play/live_juan_13tv.flv?android_vs.m3u8
 
 
 
-#EXTINF:-1 group-title="FULLHD",EL CHAVO 24/7
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/185005.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="ARGENTINA",TN NOTICIAS
