@@ -69,7 +69,7 @@ https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VW40VmQm/ELTRECE.jpg" group-title="VARIOS",ELTRECE
-https://stream-cdn-iad3.vaughnsoft.net/play/live_juan_13tv.flv?android_vs.m3u8
+http://stream-cdn-iad3.vaughnsoft.net/play/live_juan_13tv.flv?android_vs.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/676MhQmY/neotv.jpg" group-title="ARGENTINA",NEOTV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
