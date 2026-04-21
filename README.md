@@ -7,10 +7,6 @@ http://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_v
 http://stream-cdn-iad3.vaughnsoft.net/play/live_juan_13tv.flv?android_vs.m3u8
 
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="ARGENTINA",TN NOTICIAS
 http://201.217.246.42:44310/Live/03fdb23d632ee0a05e1fbb871c0191ff/tn.playlist.m3u8
 
@@ -74,30 +70,6 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-40_480.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="gooiptv",TN NOTICIAS OP2
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/102.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sdVvMT7s/HBO-FAMILY.png" group-title="gooiptv",HBO FAMILY OP2
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/17411.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TMgCSGFs/images.jpg" group-title="gooiptv",TNT CINE OP2
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/15.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tpL936kW/HISTORY.jpg" group-title="gooiptv",HISTORY OP2
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/126930.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZRsZkpfb/ESPN-PREMIUM.jpg" group-title="gooiptv",ESPN PREMIUM OP2
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/145.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qLqyfM3m/images.jpg",DIRECTV SPORTS OP2
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/132.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/60Pc35yJ/tnt-sports.jpg",TNT SPORTS OP2
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/154.m3u8
 
 
 
