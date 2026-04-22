@@ -66,10 +66,6 @@ https://livetrx01.vodgc.net:443/live-01-07-ciudad.vodgc.net/tracks-v4a1/mono.m3u
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/d854bbbc-f7ce-4eaf-b00d-e777562c28d8:SCL2/variant/ac6a0eb54fb7504b47e9fcfcfad19375/bandwidth/371000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rkkj1kKC/magazine.png" group-title="ARGENTINA",MAGAZINE
-https://45.5.119.43:4000/play/a051/54828990.m3u8
-
-
 
 
 
