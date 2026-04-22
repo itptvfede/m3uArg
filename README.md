@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rKScDcBn/LOSSIMPSONS.png" group-title="VARIOS",LOS SIMPSONS OP1
 http://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png" group-title="VARIOS",PELIS OP1
+http://stream-cdn-iad3.vaughnsoft.net/play/live_superpelis.flv?android_vs.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png" group-title="VARIOS",PELIS OP2
 http://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_moe.flv?android_vs.ts
 
@@ -34,7 +37,6 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-90_720.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jwxp4RXR/ESPN.png" group-title="deportes",ESPN 1 AR
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-94_720.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sdVvMT7s/HBO-FAMILY.png" group-title="CINE",HBO FAMILY
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-101_720.m3u8
 
@@ -48,14 +50,8 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-69_720.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HT8zqBVy/tnt.png" group-title="CINE",TNT CINE
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-66_720.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png" group-title="VARIOS",PELIS OP1
-https://stream-cdn-iad3.vaughnsoft.net/play/live_superpelis.flv?android_vs.ts
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/676MhQmY/neotv.jpg" group-title="ARGENTINA",NEOTV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tpL936kW/HISTORY.jpg" group-title="VARIOS",HISTORY
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-40_480.m3u8
