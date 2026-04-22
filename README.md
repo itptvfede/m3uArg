@@ -19,9 +19,6 @@ http://201.217.246.42:44310/Live/03fdb23d632ee0a05e1fbb871c0191ff/c5n_480.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x88F763F/TELEFE.jpg" group-title="ARGENTINA",TELEFE
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-10_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rkkj1kKC/magazine.png" group-title="ARGENTINA",MAGAZINE
-http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/70.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hxMRpgzj/cl-el-trece-internacional-m.png",ELTRECE INTERNACIONAL OP2
 http://liketv.pro/live/federicosala@gmail.com/GwXxyebEf5/75.m3u8
 
