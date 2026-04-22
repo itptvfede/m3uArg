@@ -63,8 +63,7 @@ https://livetrx01.vodgc.net:443/live-01-07-ciudad.vodgc.net/tracks-v4a1/mono.m3u
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LMmNTMK/AMERICATV.jpg" group-title="ARGENTINA",AMERICA PRUEBA
-https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/d854bbbc-f7ce-4eaf-b00d-e777562c28d8:SCL2/variant/ac6a0eb54fb7504b47e9fcfcfad19375/bandwidth/371000.m3u8
-
+http://201.217.246.42:44310/Live/19d2e5247eea03812c48e8ead05e9532/local-17.playlist.m3u8
 
 
 
