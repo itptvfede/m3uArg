@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rKScDcBn/LOSSIMPSONS.png" group-title="VARIOS",LOS SIMPSONS OP1
 http://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png" group-title="VARIOS",PELIS OP2
+http://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_moe.flv?android_vs.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VW40VmQm/ELTRECE.jpg" group-title="VARIOS",ELTRECE
 http://stream-cdn-iad3.vaughnsoft.net/play/live_juan_13tv.flv?android_vs.m3u8
 
@@ -35,12 +38,6 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-90_720.m
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-94_720.m3u8
 
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sdVvMT7s/HBO-FAMILY.png" group-title="CINE",HBO FAMILY
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-101_720.m3u8
 
@@ -57,9 +54,6 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-66_720.m
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png" group-title="VARIOS",PELIS OP1
 https://stream-cdn-iad3.vaughnsoft.net/play/live_superpelis.flv?android_vs.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png" group-title="VARIOS",PELIS OP2
-https://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_moe.flv?android_vs.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/676MhQmY/neotv.jpg" group-title="ARGENTINA",NEOTV
