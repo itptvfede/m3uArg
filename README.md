@@ -62,7 +62,7 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-40_480.m
 https://livetrx01.vodgc.net:443/live-01-07-ciudad.vodgc.net/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="ARGENTINA",TN NOTICIAS
-http://live-01-01-tn.vodgc.net:443/TN24/index_TN24_360.m3u8
+https://livetrx01-tn.vodgc.net:443/TN24/index_TN24_360.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="ARGENTINA",AMERICA PRUEBA
