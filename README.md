@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rKScDcBn/LOSSIMPSONS.png" group-title="VARIOS",FUTURAMA
-https://stream-cdn-iad3.vaughnsoft.net/play/live_futurama_mania_.flv?android_vs.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDHvr3T8/FUTURAMA.jpg" group-title="VARIOS",FUTURAMA
+http://stream-cdn-iad3.vaughnsoft.net/play/live_futurama_mania_.flv?android_vs.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rKScDcBn/LOSSIMPSONS.png" group-title="VARIOS",LOS SIMPSONS 
