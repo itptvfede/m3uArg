@@ -67,7 +67,7 @@ https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/d854bbb
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkkj1kKC/magazine.png" group-title="ARGENTINA",MAGAZINE
-http://45.5.119.43:4000/play/a051/54828990.m3u8
+https://45.5.119.43:4000/play/a051/54828990.m3u8
 
 
 
