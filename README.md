@@ -62,7 +62,8 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-40_480.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkkj1kKC/magazine.png" group-title="ARGENTINA",MAGAZINE
-https://livetrx01.vodgc.net:443/live-01-07-ciudad.vodgc.net/tracks-v4a1/mono.m3u8
+http://201.217.246.42:44310/Live/19d2e5247eea03812c48e8ead05e9532/ciudadmagazine_720.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LMmNTMK/AMERICATV.jpg" group-title="ARGENTINA",AMERICA PRUEBA
