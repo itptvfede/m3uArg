@@ -6,8 +6,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="ARGENTINA",TN NOTICIAS
-http://201.217.246.42:44310/Live/03fdb23d632ee0a05e1fbb871c0191ff/tn.playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/67cs6J8f/ARG12.png" group-title="ARGENTINA",ARGENTINA 12
