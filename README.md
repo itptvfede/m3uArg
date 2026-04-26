@@ -2,8 +2,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png" group-title="VARIOS",PELIS OP1
-http://stream-cdn-iad3.vaughnsoft.net/play/live_superpelis.flv?android_vs.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png" group-title="VARIOS",PELIS OP2
 http://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_moe.flv?android_vs.ts
