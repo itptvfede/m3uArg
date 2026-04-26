@@ -8,10 +8,6 @@ http://stream-cdn-iad3.vaughnsoft.net/play/live_superpelis.flv?android_vs.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png" group-title="VARIOS",PELIS OP2
 http://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_moe.flv?android_vs.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMBHcFnB/24-7.png" group-title="VARIOS",PELIS OP3
-http://stream-cdn-iad3.vaughnsoft.net/play/live_juancine_tv.flv
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="ARGENTINA",TN NOTICIAS
 http://201.217.246.42:44310/Live/03fdb23d632ee0a05e1fbb871c0191ff/tn.playlist.m3u8
 
