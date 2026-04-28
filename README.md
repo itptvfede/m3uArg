@@ -12,6 +12,7 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-21_480.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VW40VmQm/ELTRECE.jpg" group-title="VARIOS",ELTRECE
 http://stream-cdn-iad3.vaughnsoft.net/play/live_juan_13tv.flv?android_vs.ts
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKrc3X03/Peli.png" group-title="VARIOS",PELICULAS 24/7
 http://stream-cdn-iad3.vaughnsoft.net/play/live_juancho2009.flv
 
