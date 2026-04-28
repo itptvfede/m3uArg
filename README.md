@@ -62,6 +62,8 @@ http://201.217.246.42:44310/Live/19d2e5247eea03812c48e8ead05e9532/local-17.playl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/676MhQmY/neotv.jpg" group-title="ARGENTINA",NEOTV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/676MhQmY/neotv.jpg" group-title="ARGENTINA",TN PRUEBA
+http://201.217.246.42:44310/Live/345be2d828f668ebd831419b28fff674/tn.playlist.m3u8
 
 
 
