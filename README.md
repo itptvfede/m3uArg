@@ -3,6 +3,10 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rKScDcBn/LOSSIMPSONS.png" group-title="VARIOS",LOS SIMPSONS 
 http://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDHvr3T8/FUTURAMA.jpg" group-title="VARIOS",FUTURAMA
+http://stream-cdn-iad3.vaughnsoft.net/play/live_futurama_mania_.flv?android_vs.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/67cs6J8f/ARG12.png" group-title="ARGENTINA",ARGENTINA 12
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-21_480.m3u8
 
