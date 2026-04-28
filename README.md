@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rKScDcBn/LOSSIMPSONS.png" group-title="VARIOS",LOS SIMPSONS 
-http://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.ts
+http://stream-cdn-iad2.vaughnsoft.net/play/live_simpson_maniahd193.flv?android_vs.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDHvr3T8/FUTURAMA.jpg" group-title="VARIOS",FUTURAMA
 http://stream-cdn-iad3.vaughnsoft.net/play/live_futurama_mania_.flv?android_vs.ts
