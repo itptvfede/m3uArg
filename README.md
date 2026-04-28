@@ -13,8 +13,10 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-21_480.m
 http://stream-cdn-iad3.vaughnsoft.net/play/live_juan_13tv.flv?android_vs.ts
 
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ntnFyhx/file-00000000ad3471f58535679dad92100c.png" group-title="VARIOS",PELIS OP4
 https://stream-cdn-iad3.vaughnsoft.net/play/live_criticando_pelis3.flv
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5x8t5G6g/C5N.jpg" group-title="ARGENTINA",C5N
