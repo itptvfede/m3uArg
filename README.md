@@ -69,7 +69,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 http://201.217.246.42:44310/Live/03fdb23d632ee0a05e1fbb871c0191ff/tn.playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="ARGENTINA",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XZj0985q/discovery.jpg" group-title="ARGENTINA",DISCOVERY CHANNEL
 http://201.217.246.42:44310/Live/78962ce1b23157a4a687923131f6e1ce/local-44.720.105944.ts
 
 
