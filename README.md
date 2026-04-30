@@ -80,6 +80,3 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8?uid=18f2cd7
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rGcZTtmj/26.jpg" group-title="ARGENTINA",PELI PRUEBA
-https://r1.dropcdn.io/hls2/02/00008/3m1a4lqtjl8h_n/index-v1-a1.m3u8?t=410D_O5Yd4JjU4-2JXPoYqIcLAlw8udjdOZPmfF0D08&s=1777583632&e=14400&v=1151755&srv=ds2i&i=0.0&sp=3000
-
