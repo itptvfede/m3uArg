@@ -78,7 +78,5 @@ https://g3.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HTS38mkr/TVP.png" group-title="ARGENTINA",TVP
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="ARGENTINA",TN NOTICIAS PRUEBA
-https://live-01-01-tn.vodgc.net:443/TN24/index_TN24_360.m3u8
+http://live-01-01-tn.vodgc.net:443/TN24/index_TN24_360.m3u8
