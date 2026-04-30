@@ -78,3 +78,6 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rGcZTtmj/26.jpg" group-title="ARGENTINA",CANAL 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8?uid=18f2cd7a4fd923ed327756f8dad7a078
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rGcZTtmj/26.jpg" group-title="ARGENTINA",prueba
+https://proxy.deno.dev/?url=http://201.217.246.42:44310/Live/19d2e5247eea03812c48e8ead05e9532/ciudadmagazine_720.m3u8
