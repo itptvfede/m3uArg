@@ -79,5 +79,7 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8?uid=18f2cd7a4fd923ed327756f8dad7a078
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rGcZTtmj/26.jpg" group-title="ARGENTINA",prueba
-https://proxy.deno.dev/?url=http://201.217.246.42:44310/Live/19d2e5247eea03812c48e8ead05e9532/ciudadmagazine_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rGcZTtmj/26.jpg" group-title="ARGENTINA",PELI PRUEBA
+https://r1.dropcdn.io/hls2/02/00008/3m1a4lqtjl8h_n/index-v1-a1.m3u8?t=410D_O5Yd4JjU4-2JXPoYqIcLAlw8udjdOZPmfF0D08&s=1777583632&e=14400&v=1151755&srv=ds2i&i=0.0&sp=3000
+
