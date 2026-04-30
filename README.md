@@ -42,20 +42,17 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-101_720.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kpgs86sf/SONY-CHANNEL.png" group-title="CINE",SONY CHANNEL
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-70_720.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KcD7ZZC4/SPACE.jpg" group-title="CINE",CANAL SPACE
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-69_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HT8zqBVy/tnt.png" group-title="CINE",TNT CINE
-http://38.134.250.110:8000/play/a009/98157064.m3u8
+http://201.217.246.42:44310/Live/78962ce1b23157a4a687923131f6e1ce/local-66.playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tpL936kW/HISTORY.jpg" group-title="VARIOS",HISTORY
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-40_480.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkkj1kKC/magazine.png" group-title="ARGENTINA",MAGAZINE
 http://201.217.246.42:44310/Live/19d2e5247eea03812c48e8ead05e9532/ciudadmagazine_720.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LMmNTMK/AMERICATV.jpg" group-title="ARGENTINA",AMERICA 
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -77,8 +74,6 @@ https://g3.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HTS38mkr/TVP.png" group-title="ARGENTINA",TVP
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rGcZTtmj/26.jpg" group-title="ARGENTINA",CANAL 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8?uid=18f2cd7a4fd923ed327756f8dad7a078
