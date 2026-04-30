@@ -79,3 +79,6 @@ http://201.217.246.42:44310/Live/78962ce1b23157a4a687923131f6e1ce/local-44_720.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XZj0985q/discovery.jpg" group-title="ARGENTINA",A24
 https://g3.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_240p.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XZj0985q/discovery.jpg" group-title="ARGENTINA",TVP
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
