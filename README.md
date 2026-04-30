@@ -27,7 +27,7 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-10_720.m
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x88F763F/TELEFE.jpg" group-title="ARGENTINA",CANAL 9 RESISTENCIA
 http://201.217.246.42:44310/Live
-http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/chunklist_w2023381010_b2044100_sleng.m3u8
+https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/chunklist_w320428107_b644100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZRsZkpfb/ESPN-PREMIUM.jpg" group-title="deportes",ESPN PREMIUM
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-02_720.m3u8
