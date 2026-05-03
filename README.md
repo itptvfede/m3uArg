@@ -1,13 +1,7 @@
 #EXTM3U
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/67cs6J8f/ARG12.png" group-title="ARGENTINA",ARGENTINA 12
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-21_480.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5x8t5G6g/C5N.jpg" group-title="ARGENTINA",C5N
 http://201.217.246.42:44310/Live/03fdb23d632ee0a05e1fbb871c0191ff/c5n_480.m3u8
@@ -73,7 +67,6 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8?uid=18f2cd7
 http://201.217.246.42:44310/Live/78962ce1b23157a4a687923131f6e1ce/CronicaTv_480.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nM5KF28P/CRONICATV.jpg" group-title="ARGENTINA",BITME
-http://190.61.114.186:8000/play/a01h/12019944.m3u8
+
 
 
