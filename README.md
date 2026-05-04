@@ -60,8 +60,6 @@ https://g3.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HTS38mkr/TVP.png" group-title="ARGENTINA",TVP
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rGcZTtmj/26.jpg" group-title="ARGENTINA",CANAL 26
-https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8?uid=18f2cd7a4fd923ed327756f8dad7a078
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nM5KF28P/CRONICATV.jpg" group-title="ARGENTINA",CRONICATV
 http://201.217.246.42:44310/Live/78962ce1b23157a4a687923131f6e1ce/CronicaTv_480.m3u8
