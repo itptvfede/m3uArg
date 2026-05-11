@@ -45,8 +45,6 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkkj1kKC/magazine.png" group-title="ARGENTINA",MAGAZINE OP WEB
 https://livetrx01.vodgc.net:443/live-01-07-ciudad.vodgc.net/tracks-v4a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/676MhQmY/neotv.jpg" group-title="ARGENTINA",NEOTV
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="ARGENTINA",TN NOTICIAS
 http://201.217.246.42:44310/Live/03fdb23d632ee0a05e1fbb871c0191ff/tn.playlist.m3u8
