@@ -39,8 +39,7 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-40_480.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkkj1kKC/magazine.png" group-title="ARGENTINA",MAGAZINE
 http://201.217.246.42:44310/Live/19d2e5247eea03812c48e8ead05e9532/ciudadmagazine_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LMmNTMK/AMERICATV.jpg" group-title="ARGENTINA",AMERICA 
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkkj1kKC/magazine.png" group-title="ARGENTINA",MAGAZINE OP WEB
 https://livetrx01.vodgc.net:443/live-01-07-ciudad.vodgc.net/tracks-v4a1/mono.m3u8
