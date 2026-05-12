@@ -45,8 +45,7 @@ http://201.217.246.42:44310/Live/19d2e5247eea03812c48e8ead05e9532/ciudadmagazine
 https://livetrx01.vodgc.net:443/live-01-07-ciudad.vodgc.net/tracks-v4a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B5QJr2g3/TN.png" group-title="ARGENTINA",TN NOTICIAS
-http://201.217.246.42:44310/Live/03fdb23d632ee0a05e1fbb871c0191ff/tn.playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XZj0985q/discovery.jpg" group-title="ARGENTINA",DISCOVERY CHANNEL
 http://201.217.246.42:44310/Live/78962ce1b23157a4a687923131f6e1ce/local-44_720.m3u8
