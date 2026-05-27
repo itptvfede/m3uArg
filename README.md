@@ -1,7 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/67cs6J8f/ARG12.png" group-title="ARGENTINA",ARGENTINA 12
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-21_480.m3u8
+https://c4-limit.cuevana4br.com/0082cc9ce94c71f0b7c54177d1c00102/b238603771d248e7ac9e7070bf825b32-microframe-ld.m3u8?hdnts=exp=1780414251_acl=/0082cc9ce94c71f0b7c54177d1c00102/*_hmac=90b8bd5d8e4151f281c4310324b0b88543bc7e0a6122ded8b362b92b3491fba7
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5x8t5G6g/C5N.jpg" group-title="ARGENTINA",C5N
 http://201.217.246.42:44310/Live/03fdb23d632ee0a05e1fbb871c0191ff/c5n_480.m3u8
