@@ -1,8 +1,9 @@
 #EXTM3U
 
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",PELI PRUEBA
-https://ddg1154wqxd.cloudatacdn.com/u5kj7oiy5da3sdgge4olgjysdxoxijbqdmzakyhztl5j2d4h6f3vrnpbjq7a/xgtnihytwa~Jr1pk75nwu?token=o6x44l2cyv89t1seqowr2rfy&expiry=1781299218632
+https://r1.dropcdn.io/hls2/02/00026/145r60tejcz3_o/master.m3u8?t=YjSEyP4UF8qpwHWqdbsI4ao5gne4iGpzcfBzfj7AaRE&s=1781299377&e=14400&v=3353671&srv=ds2i&i=0.3&sp=3000
 
 
 
