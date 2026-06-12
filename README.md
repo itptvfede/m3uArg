@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",PELI PRUEBA
-https://ds1.dropcdn.io/hls2/01/00025/oyqqoyhzt22j_o/master.m3u8?t=yyyWONYmFx1oB91uYfzByjGfvpyd4hEbU6_I4JYkDYo&s=1781293725&e=14400&v=3278136&i=0.3&sp=3000
+https://ebij8ni1d.mxcontent.net/v2/wlk4ogvjto6gp7.mp4?s=XxfTNP0DEca2_4Fwx_HAHg&e=1781316000&_t=1781296757
 
 
 
