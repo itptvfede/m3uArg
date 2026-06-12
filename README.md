@@ -3,7 +3,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",PELI PRUEBA
-https://p4.vimeos.zip/hls2/02/00010/i9wzp9v409vh_,n,h,.urlset/master.m3u8?t=IiEFRj2_HyPBtducug0YrDA1GYXfDmM-IYuX4sfF4Ns&s=1781288317&e=43200&v=260563408&srv=s1&i=0.3&sp=0&fr=i9wzp9v409vh&r=e
+https://ds1.dropcdn.io/hls2/01/00025/oyqqoyhzt22j_o/master.m3u8?t=yyyWONYmFx1oB91uYfzByjGfvpyd4hEbU6_I4JYkDYo&s=1781293725&e=14400&v=3278136&i=0.3&sp=3000
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",HBO FAMILY PRUEBA
