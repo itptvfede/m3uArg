@@ -1,9 +1,8 @@
 #EXTM3U
 
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",PELI PRUEBA
-https://vd373.okcdn.ru/?expires=1781381622917&srcIp=190.124.153.58&pr=10&srcAg=CHROME_ANDROID&ms=95.163.35.86&type=0&sig=AyRK2tMP5kg&ct=0&urls=185.226.52.29&clientType=0&zs=43&id=5454874413637
+https://ddg1154wqxd.cloudatacdn.com/u5kj7oiy5da3sdgge4olgjysdxoxijbqdmzakyhztl5j2d4h6f3vrnpbjq7a/xgtnihytwa~Jr1pk75nwu?token=o6x44l2cyv89t1seqowr2rfy&expiry=1781299218632
 
 
 
