@@ -1,9 +1,9 @@
 #EXTM3U
 
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",PELI PRUEBA
 https://ds1.dropcdn.io/hls2/01/00025/oyqqoyhzt22j_o/master.m3u8?t=yyyWONYmFx1oB91uYfzByjGfvpyd4hEbU6_I4JYkDYo&s=1781293725&e=14400&v=3278136&i=0.3&sp=3000
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",HBO FAMILY PRUEBA
