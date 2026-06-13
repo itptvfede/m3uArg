@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",PELI PRUEBA
-https://edge1-waw-sprintcdn.r66nv9ed.com/hls2/08/10530/w9gqdnue3ovn_x/master.m3u8?t=-ZUw8msP1aXsXwsSH_2suaXqR4iwZCRvBP6BDV4npxU&s=1781313457&e=10800&f=52650303&srv=1070&asn=&sp=5500&p=0
+https://ugc-cdn-caching-n3dykgb0psbvigeweq.cloudwindow-route.com/engine/hls2/01/17407/ipar8fv8k6c1_,n,.urlset/master.m3u8?t=20t9jJ2BbTCNkgtfkvftZaC0rN6i6E3umDPp7jmegi0&s=1781314301&e=14400&f=87036036&node=zXGMiz1sWXdxYQgKybz3KDQHYomsDJS9PQuwgdh8DZ4=&i=0.1&sp=2500&asn=28015&q=n&rq=fF5sIlDaOoVh1VMHn9RDzDWQ8AGJ3tQSzTgEM6eZ
 
 
 
