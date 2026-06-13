@@ -1,10 +1,8 @@
 #EXTM3U
 
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",PELI PRUEBA2
 http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187174.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",PELI PRUEBA
 https://ugc-cdn-caching-n3ad05wdiiynz8qnwf.cloudwindow-route.com:443/engine/hls2/01/17470/tfqgsg2q96gw_,o,.urlset/index-v1-a1.m3u8?t=0J9ZutbC4bZZneqDEnb1XVnzvcc7p9MPtYs01h_hrIY&s=1781378254&e=14400&f=87351778&node=sEtQkiS7ki9qqPRIo+kmCSv+IzY3mN75uXYaoLNbl5M=&i=0.1&sp=2500&asn=28015&q=o&rq=PYKXfNsWEPARJGXseSkT0bZCoVuoULCA1FnlDP1d
