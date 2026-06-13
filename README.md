@@ -1,9 +1,7 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",PELI PRUEBA
-https://ugc-cdn-caching-n3dykgb0psbvigeweq.cloudwindow-route.com/engine/hls2/01/17407/ipar8fv8k6c1_,n,.urlset/master.m3u8?t=20t9jJ2BbTCNkgtfkvftZaC0rN6i6E3umDPp7jmegi0&s=1781314301&e=14400&f=87036036&node=zXGMiz1sWXdxYQgKybz3KDQHYomsDJS9PQuwgdh8DZ4=&i=0.1&sp=2500&asn=28015&q=n&rq=fF5sIlDaOoVh1VMHn9RDzDWQ8AGJ3tQSzTgEM6eZ
-
+https://znomc6azq2dc.auroravisioncreative.store:443/o0iqqhz9to4p/hls3/01/03028/uolk37qopp7c_,n,h,.urlset/iframes-f1-v1-a1.txt
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",HBO FAMILY PRUEBA
