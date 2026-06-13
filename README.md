@@ -2,9 +2,9 @@
 
 
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",PELI PRUEBA
 https://hlswish.com/stream/vbRNnPgTa9bYwv714Om9NQ/kjhhiuahiuhgihdf/1781351984/72741366/master.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",HBO FAMILY PRUEBA
