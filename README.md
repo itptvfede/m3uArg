@@ -3,7 +3,9 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",PELI PRUEBA
-https://s1.vimeos.net/hls2/02/00010/0utk7o9g49x8_n/index-v1-a1.m3u8?t=6o-9ztm0BY1_ZHRSF9fw6_OJKYdIvD1x9Da6C_sz01U&s=1781309154&e=43200&v=260821575&i=0.0&sp=0&fr=0utk7o9g49x8&r=e
+https://enc8.goodstream.one/hls2/04/00089/f1jxo64ts3ax_,l,n,h,x,.urlset/master.m3u8?t=u59jGqAGqrQm2Hb9dnClsHMxv1xjCrx_kfNXzphG_V8&s=1781310581&e=43200&v=312573959&srv=s5&i=0.3&sp=0&fr=f1jxo64ts3ax
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbmzGTSw/A24.png" group-title="ARGENTINA",HBO FAMILY PRUEBA
 http://miotv.cc:8080/live/RESTREAMCRUEL/T7464747/187174.m3u8
