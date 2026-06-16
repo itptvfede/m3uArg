@@ -27,6 +27,5 @@ https://ugc-cdn-caching-n3ad05wdiiynz8qnwf.cloudwindow-route.com:443/engine/hls2
 
 
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/67cs6J8f/ARG12.png" group-title="ARGENTINA",TYC EVENTOS
-https://st.streamtpday1.xyz/global/tycsports/index.m3u8?token=b52f3d9edb2fa528f025073683a2ae10dd92e81b-1e-1781677212-1781623212&ip=190.124.153.58
+http://8.243.126.131:8000/play/a04y/index.m3u8?hls
