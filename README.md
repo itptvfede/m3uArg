@@ -6,6 +6,5 @@ http://simida.cjmpxylza.com/vod/87F9F0430A704A68B67215CF5EF75ECC_media.ts?dev_id
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="PELICULA",SON COMO ÑÑIÑO
-http://149.102.226.58:11521/vod/AAD11D82D5FE4DA3BBA51A41E76B5E4E_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D149.102.226.58:11521%26app_id%3Dcom.android.msandroid%26trans_id%3DrnRVYhbsN0oM_SDuo90Qxc%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784603281%26token%3Da7cd7710d1adeb110fbfded91498b6d2&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DAAD11D82D5FE4DA3BBA51A41E76B5E4E%26expired%3D1784603281%26token%3Dc8cd89f61af1095c460c32504529df42
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5z0sZKn/C5N.png" group-title="PELICULA",SON COMO ÑIÑOS
+http://149.102.226.58:11521/vod/AAD11D82D5FE4DA3BBA51A41E76B5E4E_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D149.102.226.58:11521%26app_id%3Dcom.android.msandroid%26trans_id%3DiNWKypwiotJ_chchhnURNdTM%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784603678%26token%3Da5e319e3c9a4c98aa6f3b53e09b24ee4&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DAAD11D82D5FE4DA3BBA51A41E76B5E4E%26expired%3D1784603678%26token%3D4731ebb2782ddfb3ca487edc4731f23d
