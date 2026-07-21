@@ -1,7 +1,6 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HDX3fQpS/Soncomo-i-o.jpg" group-title="PELICULA",vecino cercano del   3 er tipo 2012
+#EXTINF:-1 tvg-logo="https://i.ibb.co/20Vngfnm/D-NQ-NP-985555-MLA88294488532-072025-O.webp" group-title="PELICULA",vecino cercano del   3 er tipo 2012
 http://simida.cjmpxylza.com/vod/B1DD05729F194EDE84B959B459588172_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D149.102.226.58:11521%26app_id%3Dcom.android.msandroid%26trans_id%3DsSkY73ig1byU_b0KyBrOB6yGO%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784657648%26token%3Dababebc9b8106e943ca8f64e248233f7&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DB1DD05729F194EDE84B959B459588172%26expired%3D1784657648%26token%3D21d96646b9a0a2a0170610e40ffb9739
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDX3fQpS/Soncomo-i-o.jpg" group-title="PELICULA",son como ñiños 2010
