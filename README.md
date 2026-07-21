@@ -6,8 +6,5 @@ http://149.102.226.58:11521/vod/AAD11D82D5FE4DA3BBA51A41E76B5E4E_media.ts?conten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p66bLHcQ/mario.jpg" group-title="PELICULA",super mario galaxy 2026
 http://simida.cjmpxylza.com/vod/87F9F0430A704A68B67215CF5EF75ECC_media.ts?dev_id=6f66c66a255ed0259d84e9c1f5334752&user_id=925322774&trans_id=1V2JaRpSM4q_CO6u8FfIksx&expired=1784246219&app_id=com.android.msandroid&app_ver=49902&host=simida.cjmpxylza.com&media_code=87F9F0430A704A68B67215CF5EF75ECC&auth_id=925322774_com.android.msandroid__0&client_ip=190.124.153.58&token=01c5179f&sign2_method=sign_o3&instance=0&start_moment=1784231842809&sign2=6c19d46530f03fcdef4ffbf952bb96f1
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p66bLHcQ/mario.jpg" group-title="PELICULA",villano 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p66bLHcQ/mario.jpg" group-title="PELICULA",Mi Villano Favorito 2010
 http://69.162.109.134:12835/vod/276042110684420A862F43EA6B6CC89C_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D69.162.109.134:12835%26app_id%3Dcom.android.msandroid%26trans_id%3DvxXNwSphEpqe_QUQp7q2IBO3w%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784612068%26token%3D54ed2b02c26ece9b59d5604e9d3b9cd1&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D276042110684420A862F43EA6B6CC89C%26expired%3D1784612068%26token%3Df41a0ab0697b1bc92fe2a1ac8b7c31d0
