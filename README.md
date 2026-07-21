@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hRb5rjv9/1987.jpg" group-title="PELICULA",Depredador 1987
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRb5rjv9/1987.jpg" group-title="PELICULA",Una Pareja Explosiva 1998
 http://simida.cjmpxylza.com/vod/241C033955464886A35EED9781396AE8_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.151.149.14:29651%26app_id%3Dcom.android.msandroid%26trans_id%3DMxgVDhVaDlnh_xM9U1zN5LG4%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784677665%26token%3D671892744505455fd9a2bde483b6554a&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D241C033955464886A35EED9781396AE8%26expired%3D1784677665%26token%3Da0c74b8e127b98d6eb548f3cd8269805
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRb5rjv9/1987.jpg" group-title="PELICULA",Depredador 1987
