@@ -1,7 +1,6 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cc61qVqy/alon2.jpg" group-title="PELICULA",Depredador 1987
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRb5rjv9/1987.jpg" group-title="PELICULA",Depredador 1987
 http://simida.cjmpxylza.com/vod/203BBEEC9B75498B8EDCE81759117982_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.151.149.166:19751%26app_id%3Dcom.android.msandroid%26trans_id%3D5R5eRdeGFm8m_SfAQHhFRyDXj%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784668175%26token%3D9ab6ded6dea08f76899a84d8865718d4&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D203BBEEC9B75498B8EDCE81759117982%26expired%3D1784668175%26token%3D248f40550c78b146b9d22171fa2cf8c5
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cc61qVqy/alon2.jpg" group-title="PELICULA",Mi pobre angelito 1990
