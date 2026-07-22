@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DDfgHB3K/diablo2.jpg" group-title="PELICULA",El diablo viste a la moda 2
-2026 ‧
-http://simida.cjmpxylza.com/vod//1239E775BD224DDC8C5D4F4BF8EED126_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.151.149.170:17619%26app_id%3Dcom.android.msandroid%26trans_id%3DnH0wbBFL7PGy_u3yhaMVHQY4o%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D3f1a4e62f53d4874e11dda56242c03ab%26auth_id%3D940434466_com.android.msandroid__0%26user_id%3D940434466%26expired%3D1784743762%26token%3Df911412b94f978e96cbac3f08b5b4c7a&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D1239E775BD224DDC8C5D4F4BF8EED126%26expired%3D1784743762%26token%3D4a1265f7918c8ab7ba681d7bf180bba2
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d4TPqxXW/explosiva.jpg" group-title="PELICULA",Una Pareja Explosiva 1998
 http://simida.cjmpxylza.com/vod/241C033955464886A35EED9781396AE8_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.151.149.14:29651%26app_id%3Dcom.android.msandroid%26trans_id%3DMxgVDhVaDlnh_xM9U1zN5LG4%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784677665%26token%3D671892744505455fd9a2bde483b6554a&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D241C033955464886A35EED9781396AE8%26expired%3D1784677665%26token%3Da0c74b8e127b98d6eb548f3cd8269805
 
@@ -27,3 +23,6 @@ http://simida.cjmpxylza.com/vod/87F9F0430A704A68B67215CF5EF75ECC_media.ts?dev_id
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fk99z5VL/images.jpg" group-title="PELICULA",Mi Villano Favorito 2010
 http://simida.cjmpxylza.com/vod/276042110684420A862F43EA6B6CC89C_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D69.162.109.134:12835%26app_id%3Dcom.android.msandroid%26trans_id%3DvxXNwSphEpqe_QUQp7q2IBO3w%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784612068%26token%3D54ed2b02c26ece9b59d5604e9d3b9cd1&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D276042110684420A862F43EA6B6CC89C%26expired%3D1784612068%26token%3Df41a0ab0697b1bc92fe2a1ac8b7c31d0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fk99z5VL/images.jpg" group-title="PELICULA",Mi Villano Favorito 2010
+http://simida.cjmpxylza.com/vod//1239E775BD224DDC8C5D4F4BF8EED126_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.151.149.170:17619%26app_id%3Dcom.android.msandroid%26trans_id%3DnH0wbBFL7PGy_u3yhaMVHQY4o%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D3f1a4e62f53d4874e11dda56242c03ab%26auth_id%3D940434466_com.android.msandroid__0%26user_id%3D940434466%26expired%3D1784743762%26token%3Df911412b94f978e96cbac3f08b5b4c7a&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D1239E775BD224DDC8C5D4F4BF8EED126%26expired%3D1784743762%26token%3D4a1265f7918c8ab7ba681d7bf180bba2
