@@ -1,7 +1,11 @@
 #EXTM3U
 
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d4TPqxXW/explosiva.jpg" group-title="PELICULA",Una Pareja Explosiva 1998
 http://simida.cjmpxylza.com/vod/241C033955464886A35EED9781396AE8_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.151.149.14:29651%26app_id%3Dcom.android.msandroid%26trans_id%3DMxgVDhVaDlnh_xM9U1zN5LG4%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784677665%26token%3D671892744505455fd9a2bde483b6554a&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D241C033955464886A35EED9781396AE8%26expired%3D1784677665%26token%3Da0c74b8e127b98d6eb548f3cd8269805
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRb5rjv9/1987.jpg" group-title="PELICULA",Depredador 1987
 http://simida.cjmpxylza.com/vod/203BBEEC9B75498B8EDCE81759117982_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.151.149.166:19751%26app_id%3Dcom.android.msandroid%26trans_id%3D5R5eRdeGFm8m_SfAQHhFRyDXj%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784668175%26token%3D9ab6ded6dea08f76899a84d8865718d4&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D203BBEEC9B75498B8EDCE81759117982%26expired%3D1784668175%26token%3D248f40550c78b146b9d22171fa2cf8c5
@@ -23,6 +27,7 @@ http://simida.cjmpxylza.com/vod/87F9F0430A704A68B67215CF5EF75ECC_media.ts?dev_id
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fk99z5VL/images.jpg" group-title="PELICULA",Mi Villano Favorito 2010
 http://simida.cjmpxylza.com/vod/276042110684420A862F43EA6B6CC89C_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D69.162.109.134:12835%26app_id%3Dcom.android.msandroid%26trans_id%3DvxXNwSphEpqe_QUQp7q2IBO3w%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784612068%26token%3D54ed2b02c26ece9b59d5604e9d3b9cd1&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D276042110684420A862F43EA6B6CC89C%26expired%3D1784612068%26token%3Df41a0ab0697b1bc92fe2a1ac8b7c31d0
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DDfgHB3K/diablo2.jpg" group-title="PELICULA",El diablo viste a la moda 2
 2026
