@@ -3,7 +3,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bgVVvvdr/diablo.jpg" group-title="PELICULA",El diablo viste a la moda 2 2026 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bgVVvvdr/diablo.jpg" group-title="PELICULA",El diablo viste a la moda 2 20
 http://simida.cjmpxylza.com/vod/2D2D4C6653E34F4DBA7977AC44AA875D_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D149.102.226.58:11521%26app_id%3Dcom.android.msandroid%26trans_id%3DxWg1HrEQUhTM_CtbDLqTOuzLT%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D3f1a4e62f53d4874e11dda56242c03ab%26auth_id%3D940434466_com.android.msandroid__0%26user_id%3D940434466%26expired%3D1784777453%26token%3D1078ac75be0365e4899c0ec57139e615&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D2D2D4C6653E34F4DBA7977AC44AA875D%26expired%3D1784777453%26token%3Ddb63b8fa7f69c3c4955a46903d7218e5
 
 
