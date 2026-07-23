@@ -3,13 +3,13 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bgVVvvdr/diablo.jpg" group-title="PELICULA",El diablo viste a la moda 2 2026 
 http://simida.cjmpxylza.com/vod//1239E775BD224DDC8C5D4F4BF8EED126_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.151.149.170:17619%26app_id%3Dcom.android.msandroid%26trans_id%3DnH0wbBFL7PGy_u3yhaMVHQY4o%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D3f1a4e62f53d4874e11dda56242c03ab%26auth_id%3D940434466_com.android.msandroid__0%26user_id%3D940434466%26expired%3D1784743762%26token%3Df911412b94f978e96cbac3f08b5b4c7a&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D1239E775BD224DDC8C5D4F4BF8EED126%26expired%3D1784743762%26token%3D4a1265f7918c8ab7ba681d7bf180bba2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d4TPqxXW/explosiva.jpg" group-title="PELICULA",Una Pareja Explosiva 1998
+#EXTINF:-2 tvg-logo="https://i.ibb.co/d4TPqxXW/explosiva.jpg" group-title="PELICULA",Una Pareja Explosiva 1998
 http://simida.cjmpxylza.com/vod/241C033955464886A35EED9781396AE8_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.151.149.14:29651%26app_id%3Dcom.android.msandroid%26trans_id%3DMxgVDhVaDlnh_xM9U1zN5LG4%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784677665%26token%3D671892744505455fd9a2bde483b6554a&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D241C033955464886A35EED9781396AE8%26expired%3D1784677665%26token%3Da0c74b8e127b98d6eb548f3cd8269805
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hRb5rjv9/1987.jpg" group-title="PELICULA",Depredador 1987
+#EXTINF:-3 tvg-logo="https://i.ibb.co/hRb5rjv9/1987.jpg" group-title="PELICULA",Depredador 1987
 http://simida.cjmpxylza.com/vod/203BBEEC9B75498B8EDCE81759117982_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.151.149.166:19751%26app_id%3Dcom.android.msandroid%26trans_id%3D5R5eRdeGFm8m_SfAQHhFRyDXj%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784668175%26token%3D9ab6ded6dea08f76899a84d8865718d4&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D203BBEEC9B75498B8EDCE81759117982%26expired%3D1784668175%26token%3D248f40550c78b146b9d22171fa2cf8c5
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cc61qVqy/alon2.jpg" group-title="PELICULA",Mi pobre angelito 1990
+#EXTINF:-4 tvg-logo="https://i.ibb.co/cc61qVqy/alon2.jpg" group-title="PELICULA",Mi pobre angelito 1990
 http://simida.cjmpxylza.com/vod/80E4797DBF6E45E1A5CD26A417C08BAC_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.172.127.58:12399%26app_id%3Dcom.android.msandroid%26trans_id%3DUPaDSQxMFbl8_vPSEhcKtYFCt%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784660532%26token%3D6b2a8e8fcd6a340c636106ca97dda695&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D80E4797DBF6E45E1A5CD26A417C08BAC%26expired%3D1784660532%26token%3Ddc9e54c59a28b902ebac805341558e46
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/93NZC4s6/ardillss.jpg" group-title="PELICULA",Alvin y las ardillas: Aventura sobre ruedas 2015
@@ -32,15 +32,13 @@ http://simida.cjmpxylza.com/vod/276042110684420A862F43EA6B6CC89C_media.ts?conten
 
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zWf3t2bx/joe.jpg" group-title="PELICULA",El departamento de Joe
-1996
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bgVVvvdr/diablo.jpg" group-title="PELICULA",El diablo viste a la moda 2 20
 http://simida.cjmpxylza.com/vod/2D2D4C6653E34F4DBA7977AC44AA875D_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D149.102.226.58:11521%26app_id%3Dcom.android.msandroid%26trans_id%3DxWg1HrEQUhTM_CtbDLqTOuzLT%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D3f1a4e62f53d4874e11dda56242c03ab%26auth_id%3D940434466_com.android.msandroid__0%26user_id%3D940434466%26expired%3D1784777453%26token%3D1078ac75be0365e4899c0ec57139e615&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D2D2D4C6653E34F4DBA7977AC44AA875D%26expired%3D1784777453%26token%3Ddb63b8fa7f69c3c4955a46903d7218e5
+
+
+
+
+
 
 
 
