@@ -38,6 +38,9 @@ http://simida.cjmpxylza.com/vod/88AB4A23210F48BFB9E92B619DE6999B_media.ts?conten
 
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W7YBBjL/ladron.jpg" group-title="PELICULA",una pandilla de altura 2002
 http://simida.cjmpxylza.com/vod/557C9D2D62094407AF9A1BC11D4EF0D4_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D38.15.142.26:21589%26app_id%3Dcom.android.msandroid%26trans_id%3DTSY3PdfNroYO_rPYdgAXWqqd%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1784934883%26token%3D664d09ff7159347e555143f978b97815&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D557C9D2D62094407AF9A1BC11D4EF0D4%26expired%3D1784934883%26token%3Df22a3f07180ae5b3022f5415da15d276
 
