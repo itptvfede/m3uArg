@@ -36,7 +36,7 @@ http://simida.cjmpxylza.com/vod/EDB56BB7321648BEA3A55325CBC86CD7_media.ts?conten
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W7YBBjL/ladron.jpg" group-title="PELICULA",de ladron a policia 1998
-https://vod3.cf.dmcdn.net/sec2(UAINQmoEnetDSrrY8c5by-HUbMgCwBK38WpBvcvotonYfTKgw2ktaO_u33ZaKl7fUmq_xEykh-fa635cCLmthHtl5-aLm0-AAgtfKViDZ4cr-qu4-wtnl9132uLEhF-rnJN07RSiZh33tPBozpEBRXCQOZ_XyjBjStAyMiZkt09WJDGMHEG9me6jak-QGelKt0L2vMdHky29Sn3g1Uf0gg)/video/fmp4/630448282/h264_aac_hq/3/manifest.m3u8#cell=cf3
+https://vod3.cf.dmcdn.net/sec2(MbizFbx3EqwXr4Tnulb9wSbRllhaPgSBXzAf35BO1Pgc_eSO_qLGGwabnkq8VnMAsRRPoeY0DVAul5PmMmaH0bKUF8_bB5_AdXYy8tHmMoyn0KWV0kdb6EwYyo0UR27mjZ29goKJTGskJ3el1rdWl6q-Qi5nL4gACs_wfKnoYMzPJMQxz9uALYMEA-EK0hvOu9UutHccK9gN7MpCYqazew)/video/fmp4/630448282/h264_aac_hq/3/manifest.m3u8#cell=cf3
 
 
 
