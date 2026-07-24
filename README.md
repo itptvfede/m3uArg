@@ -35,12 +35,8 @@ http://simida.cjmpxylza.com/vod/EDB56BB7321648BEA3A55325CBC86CD7_media.ts?conten
 
 
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W7YBBjL/ladron.jpg" group-title="PELICULA",de ladron a policia 1998
-https://r1.dropcdn.io/hls2/02/00017/o5uuy9ppzola_o/master.m3u8?t=OExS2APvTFEDmdddZoUOp7iEYfDQMV_rs9Mu9UzDWkQ&s=1784927715&e=14400&v=20669458&srv=ds1i&i=0.0&sp=3000
-
-
-
+https://a-delivery27.mxcontent.net/v2/r6d0dmmqcv9mgml.mp4?s=oBixpo8TDkeyVHIUiSG1fQ&e=1784949586&_t=1784931819
 
 
 
