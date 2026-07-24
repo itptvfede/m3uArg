@@ -27,11 +27,17 @@ http://simida.cjmpxylza.com/vod/87F9F0430A704A68B67215CF5EF75ECC_media.ts?dev_id
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fk99z5VL/images.jpg" group-title="PELICULA",Mi Villano Favorito 2010
 http://simida.cjmpxylza.com/vod/276042110684420A862F43EA6B6CC89C_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D69.162.109.134:12835%26app_id%3Dcom.android.msandroid%26trans_id%3DvxXNwSphEpqe_QUQp7q2IBO3w%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784612068%26token%3D54ed2b02c26ece9b59d5604e9d3b9cd1&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D276042110684420A862F43EA6B6CC89C%26expired%3D1784612068%26token%3Df41a0ab0697b1bc92fe2a1ac8b7c31d0
 
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zWf3t2bx/joe.jpg" group-title="PELICULA",El departamento de Joe 1996
 http://simida.cjmpxylza.com/vod/2D2D4C6653E34F4DBA7977AC44AA875D_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D149.102.226.58:11521%26app_id%3Dcom.android.msandroid%26trans_id%3DxWg1HrEQUhTM_CtbDLqTOuzLT%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D3f1a4e62f53d4874e11dda56242c03ab%26auth_id%3D940434466_com.android.msandroid__0%26user_id%3D940434466%26expired%3D1784777453%26token%3D1078ac75be0365e4899c0ec57139e615&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D2D2D4C6653E34F4DBA7977AC44AA875D%26expired%3D1784777453%26token%3Ddb63b8fa7f69c3c4955a46903d7218e5
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zWf3t2bx/joe.jpg" group-title="PELICULA",mayor problema
+http://simida.cjmpxylza.com/vod/EDB56BB7321648BEA3A55325CBC86CD7_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D149.102.226.58:11521%26app_id%3Dcom.android.msandroid%26trans_id%3D8dyKK0S4mGH_1XN8l4FbJ13%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3Dd22a23c03d5a90c3dd596b0e657e35ff%26auth_id%3D941861470_com.android.msandroid__0%26user_id%3D941861470%26expired%3D1784927013%26token%3D4e2017ae60c0b790185bda816a732ff0&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DEDB56BB7321648BEA3A55325CBC86CD7%26expired%3D1784927013%26token%3D0dc3abc819b58518f5bdc39f1049f28f
 
 
 
