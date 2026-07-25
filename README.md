@@ -47,8 +47,7 @@ http://simida.cjmpxylza.com/vod/506FD9FCAC644A54B2A6099C40D0076B_media.ts?conten
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QxmZPx4/jump.jpg" group-title="PELICULA",un sueño posible 2009
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W45pYsFq/sue-o.jpg" group-title="PELICULA",un sueño posible 2009
 http://simida.cjmpxylza.com/vod/EBFFE860BE2B4BAA9C55C61799D865CE_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D64.31.33.212:14399%26app_id%3Dcom.android.msandroid%26trans_id%3DMuEDEJSrAphY_PYAkrFvWj8YR%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1784957595%26token%3D60ac827ef6ab36485110c20bf4dc0755&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DEBFFE860BE2B4BAA9C55C61799D865CE%26expired%3D1784957595%26token%3Ddf8c2e8961f7266321911961a222f1e1
 
 
