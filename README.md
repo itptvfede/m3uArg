@@ -34,8 +34,8 @@ http://simida.cjmpxylza.com/vod/2D2D4C6653E34F4DBA7977AC44AA875D_media.ts?conten
 http://simida.cjmpxylza.com/vod/EDB56BB7321648BEA3A55325CBC86CD7_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D149.102.226.58:11521%26app_id%3Dcom.android.msandroid%26trans_id%3D8dyKK0S4mGH_1XN8l4FbJ13%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3Dd22a23c03d5a90c3dd596b0e657e35ff%26auth_id%3D941861470_com.android.msandroid__0%26user_id%3D941861470%26expired%3D1784927013%26token%3D4e2017ae60c0b790185bda816a732ff0&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DEDB56BB7321648BEA3A55325CBC86CD7%26expired%3D1784927013%26token%3D0dc3abc819b58518f5bdc39f1049f28f
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W7YBBjL/ladron.jpg" group-title="PELICULA",de ladron a policia
-https://stream.mux.com/RSschGvuzuhcJC7QG51t1b0135GIpRfeNEM8X7qzh02rA.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W7YBBjL/ladron.jpg" group-title="PELICULA",AMOR CIEGO
+http://69.162.109.134:12835/vod/FCB13964EB57416A8CC7AD370E90FBAE_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D69.162.109.134:12835%26app_id%3Dcom.android.msandroid%26trans_id%3DAxaJPDl7qpSS_Ceeyrja6eMzK%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1784952557%26token%3Dfe053d7670898da80c257cf6a030ae48&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DFCB13964EB57416A8CC7AD370E90FBAE%26expired%3D1784952557%26token%3Da8c1c2e2c4e5e3107e59188cc2862f19
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DgtMjk9V/altura.jpg" group-title="PELICULA",una pandilla de altura 2002
