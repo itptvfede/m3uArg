@@ -34,10 +34,8 @@ http://simida.cjmpxylza.com/vod/2D2D4C6653E34F4DBA7977AC44AA875D_media.ts?conten
 http://simida.cjmpxylza.com/vod/EDB56BB7321648BEA3A55325CBC86CD7_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D149.102.226.58:11521%26app_id%3Dcom.android.msandroid%26trans_id%3D8dyKK0S4mGH_1XN8l4FbJ13%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3Dd22a23c03d5a90c3dd596b0e657e35ff%26auth_id%3D941861470_com.android.msandroid__0%26user_id%3D941861470%26expired%3D1784927013%26token%3D4e2017ae60c0b790185bda816a732ff0&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DEDB56BB7321648BEA3A55325CBC86CD7%26expired%3D1784927013%26token%3D0dc3abc819b58518f5bdc39f1049f28f
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W7YBBjL/ladron.jpg" group-title="PELICULA",de ladron a policia 1998
-https://manifest-oci-us-ashburn-1-vop1.fastly.mux.com/jiIaEQokr9pSLgNez2ivteJUYoPWx4pmYjabLRgj53qbzSVnMjpSkJLlkmg22F02YEAh2Xa003PgDYUtBPTNFxDjKA6cxDeZR01/rendition.m3u8?cdn=cloudflare&expires=1785542400&skid=default&signature=NmE2ZDM3YWFfODY1MzMwZDZhN2RhYmZiYzljMTBhODI4ODg4M2EyMmM2MGM4N2FmMzQxMWJjYTlhYWU5NjgwMzExNDE1M2Y1MQ==
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W7YBBjL/ladron.jpg" group-title="PELICULA",de ladron a policia
+https://stream.mux.com/RSschGvuzuhcJC7QG51t1b0135GIpRfeNEM8X7qzh02rA.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DgtMjk9V/altura.jpg" group-title="PELICULA",una pandilla de altura 2002
