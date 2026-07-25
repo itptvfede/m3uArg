@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bgVVvvdr/diablo.jpg" group-title="PELICULA",El diablo viste a la moda 2 2026 
 http://simida.cjmpxylza.com/vod/1239E775BD224DDC8C5D4F4BF8EED126_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.151.149.170:17619%26app_id%3Dcom.android.msandroid%26trans_id%3DnH0wbBFL7PGy_u3yhaMVHQY4o%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D3f1a4e62f53d4874e11dda56242c03ab%26auth_id%3D940434466_com.android.msandroid__0%26user_id%3D940434466%26expired%3D1784743762%26token%3Df911412b94f978e96cbac3f08b5b4c7a&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D1239E775BD224DDC8C5D4F4BF8EED126%26expired%3D1784743762%26token%3D4a1265f7918c8ab7ba681d7bf180bba2
 
@@ -52,13 +51,11 @@ http://simida.cjmpxylza.com/vod/EBFFE860BE2B4BAA9C55C61799D865CE_media.ts?conten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84bCSj5F/nacer.jpg" group-title="PELICULA",nacer para morir 2003
 http://simida.cjmpxylza.com/vod/9DE072304DDF4A4597ABAB62A882216F_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D64.31.43.91:35948%26app_id%3Dcom.android.msandroid%26trans_id%3DQhm0g8lrJyuA_KX0VnYPvYca%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1784958633%26token%3D5fe1ea2cefaac35ec3cc46d043cc89d4&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D9DE072304DDF4A4597ABAB62A882216F%26expired%3D1784958633%26token%3D9077cad624cafbd4c89467c0b7f60da8
 
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9kZNkgSJ/Good-Burger-2.jpg" group-title="PELICULA",El diablo viste a la moda 2 2026 
 http://simida.cjmpxylza.com/vod/76D5D7B241994A539CDF118A809E764E_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D69.162.109.134:12835%26app_id%3Dcom.android.msandroid%26trans_id%3DbPmyRlfQ0GNv_nc1blOnElhSE%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1784959651%26token%3D1ea3ad825fe1be963f6146e3e58e2c70&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D76D5D7B241994A539CDF118A809E764E%26expired%3D1784959651%26token%3Df72a164acb9d0839de89a2619b515674
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9kZNkgSJ/Good-Burger-2.jpg" group-title="PELICULA", Shanghai Kid 2000
+https://ugc-cdn-caching-n3scznumvogk1pqoif.cloudwindow-route.com/engine/hls2-c/01/13863/nnuaz2p49slg_,n,.urlset/master.m3u8?t=8O1qfL0PzT9y97Mbh0PUqN6KZZ39BuWVYfaGuBFff0k&s=1784990308&e=14400&f=69318873&node=ryy+oDJd5avrQ7UTDiJo0nGFTHDeqBkDi9dytMm86MU=&i=0.1&sp=2500&asn=28015&q=n&rq=4oo12nnHF6xYXLJCepbCnYeyCJpTU1DIDD52oV4P
 
 
