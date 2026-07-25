@@ -56,7 +56,7 @@ http://simida.cjmpxylza.com/vod/9DE072304DDF4A4597ABAB62A882216F_media.ts?conten
 http://simida.cjmpxylza.com/vod/76D5D7B241994A539CDF118A809E764E_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D69.162.109.134:12835%26app_id%3Dcom.android.msandroid%26trans_id%3DbPmyRlfQ0GNv_nc1blOnElhSE%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1784959651%26token%3D1ea3ad825fe1be963f6146e3e58e2c70&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D76D5D7B241994A539CDF118A809E764E%26expired%3D1784959651%26token%3Df72a164acb9d0839de89a2619b515674
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9kZNkgSJ/Good-Burger-2.jpg" group-title="PELICULA", Shanghai Kid 2000
-https://ugc-cdn-caching-n3scznumvogk1pqoif.cloudwindow-route.com/engine/hls2-c/01/13863/nnuaz2p49slg_,n,.urlset/master.m3u8?t=8O1qfL0PzT9y97Mbh0PUqN6KZZ39BuWVYfaGuBFff0k&s=1784990308&e=14400&f=69318873&node=ryy+oDJd5avrQ7UTDiJo0nGFTHDeqBkDi9dytMm86MU=&i=0.1&sp=2500&asn=28015&q=n&rq=4oo12nnHF6xYXLJCepbCnYeyCJpTU1DIDD52oV4P
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9kZNkgSJ/Good-Burger-2.jpg" group-title="PELICULA", Shanghai Kid 
+http://simida.cjmpxylza.com/vod/2DAACC9835B54CABAEE67E4A19BAFDAE_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D149.102.226.58:11521%26app_id%3Dcom.android.msandroid%26trans_id%3DBPi8a5OoLHaY_03tA1ftLlD4C%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1785031439%26token%3De077ae92304fea3effaf0557e2a6c7f6&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D2DAACC9835B54CABAEE67E4A19BAFDAE%26expired%3D1785031439%26token%3D85678e68cb02662e027d56f759800dc8
 
 
