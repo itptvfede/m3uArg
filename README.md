@@ -35,7 +35,7 @@ http://simida.cjmpxylza.com/vod/EDB56BB7321648BEA3A55325CBC86CD7_media.ts?conten
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W7YBBjL/ladron.jpg" group-title="PELICULA",AMOR CIEGO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZpCsP9Ln/amor.jpg" group-title="PELICULA",AMOR CIEGO 2001
 http://simida.cjmpxylza.com/vod/FCB13964EB57416A8CC7AD370E90FBAE_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D69.162.109.134:12835%26app_id%3Dcom.android.msandroid%26trans_id%3DAxaJPDl7qpSS_Ceeyrja6eMzK%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1784952557%26token%3Dfe053d7670898da80c257cf6a030ae48&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DFCB13964EB57416A8CC7AD370E90FBAE%26expired%3D1784952557%26token%3Da8c1c2e2c4e5e3107e59188cc2862f19
 
 
