@@ -42,13 +42,14 @@ http://simida.cjmpxylza.com/vod/557C9D2D62094407AF9A1BC11D4EF0D4_media.ts?conten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W7YBBjL/ladron.jpg" group-title="PELICULA",de ladron a policia 1999
 https://ugc-cdn-caching-n3kdpfeltfbaarvaut.cloudwindow-route.com/engine/hls2/01/16401/it5y244lcx02_,n,.urlset/master.m3u8?t=EwlLZxI4X5-r1yqtsFR1TsWhcWGAcMWOtVUDiVdNuSA&s=1784939106&e=14400&f=82006474&node=SD0+m0x1L89aTmhkEqTYKrtQUeZm3cC68w4sRMuLE6g=&i=0.1&sp=2500&asn=28015&q=n&rq=FtsUidIBZTDyKK8skN9xes35KKPhe22pIdmTQ4cZ
 
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QxmZPx4/jump.jpg" group-title="PELICULA",¡Salta! 2007
 http://simida.cjmpxylza.com/vod/506FD9FCAC644A54B2A6099C40D0076B_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D69.162.75.171:13162%26app_id%3Dcom.android.msandroid%26trans_id%3DuICi3GJCGVh_FH7aYK1S7mRR%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1784956576%26token%3Dd038453d781bdb2719ffd1e13888713f&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D506FD9FCAC644A54B2A6099C40D0076B%26expired%3D1784956576%26token%3D871e3a02853c2a5edcf95fb25a216458
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QxmZPx4/jump.jpg" group-title="PELICULA",un sueño posible 2009
+http://simida.cjmpxylza.com/vod/EBFFE860BE2B4BAA9C55C61799D865CE_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D64.31.33.212:14399%26app_id%3Dcom.android.msandroid%26trans_id%3DMuEDEJSrAphY_PYAkrFvWj8YR%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1784957595%26token%3D60ac827ef6ab36485110c20bf4dc0755&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DEBFFE860BE2B4BAA9C55C61799D865CE%26expired%3D1784957595%26token%3Ddf8c2e8961f7266321911961a222f1e1
 
 
 
