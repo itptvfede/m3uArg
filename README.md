@@ -58,6 +58,10 @@ http://simida.cjmpxylza.com/vod/2DAACC9835B54CABAEE67E4A19BAFDAE_media.ts?conten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vMMLtZn/mega.jpg" group-title="PELICULA", Megamind 2010
 http://simida.cjmpxylza.com/vod/ACB7FCDBF5A2495FA8D1522467391F05_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D38.15.142.26:21589%26app_id%3Dcom.android.msandroid%26trans_id%3DVLxCIuM7LQYv_WwLtFFGNdwIX%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1785185862%26token%3D11251a0f918314fadc3700dbb4cd9b8d&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DACB7FCDBF5A2495FA8D1522467391F05%26expired%3D1785185862%26token%3Dc479e78e6f5d120b25921d17e5608219
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz6Hrds0/hormiga.jpg" group-title="PELICULA", Hormiguitaz 1998
 http://simida.cjmpxylza.com/vod/5364C91B69F04CCEAF49C4BECFEA23CF_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D149.102.226.58:11521%26app_id%3Dcom.android.msandroid%26trans_id%3Dv1wffLDWJkUP_UxaA2Gjc4s5h%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1785186678%26token%3D8a0c8b792ae3d14b9b515be4a6f30042&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D5364C91B69F04CCEAF49C4BECFEA23CF%26expired%3D1785186678%26token%3D07c6609095b76ff6bb6e0a28efe8104b
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz6Hrds0/hormiga.jpg" group-title="PELICULA", Hormiguitaz 1998
+http://simida.cjmpxylza.com/vod/7D8C04636E114F90A1266780A9652EC8_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.123:25265%26app_id%3Dcom.android.msandroid%26trans_id%3DvX2MEKPpXNDn_nEuM9gk624S%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1785210917%26token%3D0e55aa4aba64c5542b10e2a7da063726&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D7D8C04636E114F90A1266780A9652EC8%26expired%3D1785210917%26token%3D6027abf8842a214eeac7da7f936392f0
