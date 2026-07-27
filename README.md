@@ -58,7 +58,6 @@ http://simida.cjmpxylza.com/vod/2DAACC9835B54CABAEE67E4A19BAFDAE_media.ts?conten
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SXcwnf1T/kid.jpg" group-title="PELICULA", Megamind 2010
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vMMLtZn/mega.jpg" group-title="PELICULA", Megamind 2010
 http://simida.cjmpxylza.com/vod/ACB7FCDBF5A2495FA8D1522467391F05_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D38.15.142.26:21589%26app_id%3Dcom.android.msandroid%26trans_id%3DVLxCIuM7LQYv_WwLtFFGNdwIX%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1785185862%26token%3D11251a0f918314fadc3700dbb4cd9b8d&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DACB7FCDBF5A2495FA8D1522467391F05%26expired%3D1785185862%26token%3Dc479e78e6f5d120b25921d17e5608219
 
