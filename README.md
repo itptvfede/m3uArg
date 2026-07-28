@@ -64,8 +64,5 @@ http://simida.cjmpxylza.com/vod/5364C91B69F04CCEAF49C4BECFEA23CF_media.ts?conten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/849SrK22/Shrek.jpg" group-title="PELICULA", Shrek 2001
 http://simida.cjmpxylza.com/vod/7D8C04636E114F90A1266780A9652EC8_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.123:25265%26app_id%3Dcom.android.msandroid%26trans_id%3DvX2MEKPpXNDn_nEuM9gk624S%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1785210917%26token%3D0e55aa4aba64c5542b10e2a7da063726&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D7D8C04636E114F90A1266780A9652EC8%26expired%3D1785210917%26token%3D6027abf8842a214eeac7da7f936392f0
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/849SrK22/Shrek.jpg" group-title="PELICULA", pelotas en juego
+#EXTINF:-1 tvg-logo="https://i.ibb.co/849SrK22/Shrek.jpg" group-title="PELICULA", Pelotas en juego 2004
 http://simida.cjmpxylza.com/vod/02BF3E41E7A34EE086B73036DD486AA5_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.146:31081%26app_id%3Dcom.android.msandroid%26trans_id%3Du53h8AKCWF5_BSwrKI3pYIOq%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1785271461%26token%3D2fd8c692bf084d9a62903485f421c6bc&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D02BF3E41E7A34EE086B73036DD486AA5%26expired%3D1785271461%26token%3D17cac64f35d539c61efd2a6721671c2f
