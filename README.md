@@ -79,5 +79,5 @@ http://simida.cjmpxylza.com/vod/80E4797DBF6E45E1A5CD26A417C08BAC_media.ts?conten
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cc61qVqy/alon2.jpg" group-title="PELICULA", volver al futuro 1985
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4dbHPHT/volver.jpg" group-title="PELICULA", volver al futuro 1985
 http://simida.cjmpxylza.com/vod/EDCD2B2FA5C04890BA883B304ACD96E1_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D23.94.245.115:27830%26app_id%3Dcom.android.msandroid%26trans_id%3DBjYJGbRF98BS_wlU1Laiw0dv%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1785391959%26token%3D9021ab38c1c7bbd6efc79e892ba05bbb&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DEDCD2B2FA5C04890BA883B304ACD96E1%26expired%3D1785391959%26token%3De84f083e3300af427a2edcded26a4a3f
