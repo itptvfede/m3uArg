@@ -18,8 +18,7 @@ http://simida.cjmpxylza.com/vod/AAD11D82D5FE4DA3BBA51A41E76B5E4E_media.ts?conten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p66bLHcQ/mario.jpg" group-title="PELICULA",super mario galaxy 2026
 http://simida.cjmpxylza.com/vod/87F9F0430A704A68B67215CF5EF75ECC_media.ts?dev_id=6f66c66a255ed0259d84e9c1f5334752&user_id=925322774&trans_id=1V2JaRpSM4q_CO6u8FfIksx&expired=1784246219&app_id=com.android.msandroid&app_ver=49902&host=simida.cjmpxylza.com&media_code=87F9F0430A704A68B67215CF5EF75ECC&auth_id=925322774_com.android.msandroid__0&client_ip=190.124.153.58&token=01c5179f&sign2_method=sign_o3&instance=0&start_moment=1784231842809&sign2=6c19d46530f03fcdef4ffbf952bb96f1
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Fk99z5VL/images.jpg" group-title="PELICULA",Mi Villano Favorito 2010
-http://simida.cjmpxylza.com/vod/276042110684420A862F43EA6B6CC89C_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D69.162.109.134:12835%26app_id%3Dcom.android.msandroid%26trans_id%3DvxXNwSphEpqe_QUQp7q2IBO3w%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784612068%26token%3D54ed2b02c26ece9b59d5604e9d3b9cd1&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D276042110684420A862F43EA6B6CC89C%26expired%3D1784612068%26token%3Df41a0ab0697b1bc92fe2a1ac8b7c31d0
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zWf3t2bx/joe.jpg" group-title="PELICULA",El departamento de Joe 1996
 http://simida.cjmpxylza.com/vod/2D2D4C6653E34F4DBA7977AC44AA875D_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D149.102.226.58:11521%26app_id%3Dcom.android.msandroid%26trans_id%3DxWg1HrEQUhTM_CtbDLqTOuzLT%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D3f1a4e62f53d4874e11dda56242c03ab%26auth_id%3D940434466_com.android.msandroid__0%26user_id%3D940434466%26expired%3D1784777453%26token%3D1078ac75be0365e4899c0ec57139e615&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D2D2D4C6653E34F4DBA7977AC44AA875D%26expired%3D1784777453%26token%3Ddb63b8fa7f69c3c4955a46903d7218e5
@@ -89,11 +88,13 @@ http://simida.cjmpxylza.com/vod/4127A10228974E6C83D7730A4F34B7A1_media.ts?conten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d4TPqxXW/explosiva.jpg" group-title="PELICULA",Una Pareja Explosiva 1998
 http://simida.cjmpxylza.com/vod/241C033955464886A35EED9781396AE8_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.151.149.14:29651%26app_id%3Dcom.android.msandroid%26trans_id%3DMxgVDhVaDlnh_xM9U1zN5LG4%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784677665%26token%3D671892744505455fd9a2bde483b6554a&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D241C033955464886A35EED9781396AE8%26expired%3D1784677665%26token%3Da0c74b8e127b98d6eb548f3cd8269805
 
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRb5rjv9/1987.jpg" group-title="PELICULA",Depredador 1987
 http://simida.cjmpxylza.com/vod/203BBEEC9B75498B8EDCE81759117982_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.151.149.166:19751%26app_id%3Dcom.android.msandroid%26trans_id%3D5R5eRdeGFm8m_SfAQHhFRyDXj%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784668175%26token%3D9ab6ded6dea08f76899a84d8865718d4&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D203BBEEC9B75498B8EDCE81759117982%26expired%3D1784668175%26token%3D248f40550c78b146b9d22171fa2cf8c5
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fk99z5VL/images.jpg" group-title="PELICULA",Mi Villano Favorito 2010
+http://simida.cjmpxylza.com/vod/276042110684420A862F43EA6B6CC89C_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D69.162.109.134:12835%26app_id%3Dcom.android.msandroid%26trans_id%3DvxXNwSphEpqe_QUQp7q2IBO3w%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784612068%26token%3D54ed2b02c26ece9b59d5604e9d3b9cd1&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D276042110684420A862F43EA6B6CC89C%26expired%3D1784612068%26token%3Df41a0ab0697b1bc92fe2a1ac8b7c31d0
 
