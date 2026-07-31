@@ -86,7 +86,12 @@ http://simida.cjmpxylza.com/vod/1D68481E23B54BCEBF3454311AEE8C4F_media.ts?conten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7tNnGdKW/pica.jpg" group-title="PELICULA", Los Picapiedra en Viva Rock Vegas 2000
 http://simida.cjmpxylza.com/vod/15F07EC17A324884B3B305BA0A220182_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D23.94.245.115:27830%26app_id%3Dcom.android.msandroid%26trans_id%3Du9OY1CtWEBsM_9JfE5VkRvm2x%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785536432%26token%3D31b27100f0168f183dea6a58bc38b147&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D15F07EC17A324884B3B305BA0A220182%26expired%3D1785536432%26token%3De33927447582adcb2d664a2eb27fdcfc
 
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qLZSpkJk/HORTON.jpg" group-title="PELICULA", Horton 2008
 http://simida.cjmpxylza.com/vod/A7A5A821E53C4F6395C204CA670F4C15_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.150:13938%26app_id%3Dcom.android.msandroid%26trans_id%3DzXcvgo0ye0Rg_dmA6PrJYifND%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785537725%26token%3D203103fff22084cde055e47cc2a89bd9&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DA7A5A821E53C4F6395C204CA670F4C15%26expired%3D1785537725%26toke
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qLZSpkJk/HORTON.jpg" group-title="PELICULA", era hielo
+http://simida.cjmpxylza.com/vod/4127A10228974E6C83D7730A4F34B7A1_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.123:25265%26app_id%3Dcom.android.msandroid%26trans_id%3D89DVaI2w4phm_n0BPGD6hxKPM%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785550628%26token%3D4063295e7ed57970807a0b521cd91583&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D4127A10228974E6C83D7730A4F34B7A1%26expired%3D1785550628%26token%3Da3b8c30348b27e5ebb5b60abba1fc7c7
+
