@@ -92,6 +92,7 @@ http://simida.cjmpxylza.com/vod/A7A5A821E53C4F6395C204CA670F4C15_media.ts?conten
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qLZSpkJk/HORTON.jpg" group-title="PELICULA", era hielo
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBV6sCd3/hiel9-1.jpg" group-title="PELICULA", era hielo 1 2002
 http://simida.cjmpxylza.com/vod/4127A10228974E6C83D7730A4F34B7A1_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.123:25265%26app_id%3Dcom.android.msandroid%26trans_id%3D89DVaI2w4phm_n0BPGD6hxKPM%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785550628%26token%3D4063295e7ed57970807a0b521cd91583&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D4127A10228974E6C83D7730A4F34B7A1%26expired%3D1785550628%26token%3Da3b8c30348b27e5ebb5b60abba1fc7c7
 
