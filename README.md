@@ -97,7 +97,7 @@ http://simida.cjmpxylza.com/vod/76D5D7B241994A539CDF118A809E764E_media.ts?conten
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Fk99z5VL/images.jpg" group-title="PELICULA",botas: el último deseo 2022
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6WhdypG/gato.jpg" group-title="PELICULA",botas: el último deseo 2022
 http://simida.cjmpxylza.com/vod/27E97D6DB24D4694B8AF3C8022B9FFB8_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.172.127.58:12399%26app_id%3Dcom.android.msandroid%26trans_id%3Dj0bHTBh9pLz_vJ9uBU11otG0%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785566628%26token%3D6982c8714bca5d4b54efed84565f9da6&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D27E97D6DB24D4694B8AF3C8022B9FFB8%26expired%3D1785566628%26token%3D00904db57e6cde13ae55f553d07a2e2a
 
 
