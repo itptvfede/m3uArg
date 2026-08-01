@@ -1,10 +1,14 @@
 #EXTM3U
 
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bgVVvvdr/diablo.jpg" group-title="PELICULA",El diablo viste a la moda 2 2026 
 http://simida.cjmpxylza.com/vod/1239E775BD224DDC8C5D4F4BF8EED126_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.151.149.170:17619%26app_id%3Dcom.android.msandroid%26trans_id%3DnH0wbBFL7PGy_u3yhaMVHQY4o%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D3f1a4e62f53d4874e11dda56242c03ab%26auth_id%3D940434466_com.android.msandroid__0%26user_id%3D940434466%26expired%3D1784743762%26token%3Df911412b94f978e96cbac3f08b5b4c7a&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D1239E775BD224DDC8C5D4F4BF8EED126%26expired%3D1784743762%26token%3D4a1265f7918c8ab7ba681d7bf180bba2
 
+
 #EXTINF:-4 tvg-logo="https://i.ibb.co/cc61qVqy/alon2.jpg" group-title="PELICULA",Mi pobre angelito 1990
 http://simida.cjmpxylza.com/vod/80E4797DBF6E45E1A5CD26A417C08BAC_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.172.127.58:12399%26app_id%3Dcom.android.msandroid%26trans_id%3DUPaDSQxMFbl8_vPSEhcKtYFCt%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784660532%26token%3D6b2a8e8fcd6a340c636106ca97dda695&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D80E4797DBF6E45E1A5CD26A417C08BAC%26expired%3D1784660532%26token%3Ddc9e54c59a28b902ebac805341558e46
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/93NZC4s6/ardillss.jpg" group-title="PELICULA",Alvin y las ardillas: Aventura sobre ruedas 2015
 http://simida.cjmpxylza.com/vod/6AF30EFB3B5A4E0BA61BE7696D1E950F_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D64.31.43.91:35948%26app_id%3Dcom.android.msandroid%26trans_id%3Dq6Jij302vWcU_IokF57jSot0v%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784659460%26token%3Defa215024b568cd9908066652b9338ca&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D6AF30EFB3B5A4E0BA61BE7696D1E950F%26expired%3D1784659460%26token%3D4819db72cc3f527cf48e8459fdbc6ad2
@@ -92,8 +96,6 @@ http://simida.cjmpxylza.com/vod/276042110684420A862F43EA6B6CC89C_media.ts?conten
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9kZNkgSJ/Good-Burger-2.jpg" group-title="PELICULA",Good Burger 2 2023
 http://simida.cjmpxylza.com/vod/76D5D7B241994A539CDF118A809E764E_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D69.162.109.134:12835%26app_id%3Dcom.android.msandroid%26trans_id%3DbPmyRlfQ0GNv_nc1blOnElhSE%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1784959651%26token%3D1ea3ad825fe1be963f6146e3e58e2c70&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D76D5D7B241994A539CDF118A809E764E%26expired%3D1784959651%26token%3Df72a164acb9d0839de89a2619b515674
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p6WhdypG/gato.jpg" group-title="PELICULA",Gato con botas: el último deseo
