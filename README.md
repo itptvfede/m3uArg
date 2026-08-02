@@ -3,7 +3,6 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bgVVvvdr/diablo.jpg" group-title="PELICULA",El diablo viste a la moda 2 2026 
 http://simida.cjmpxylza.com/vod/1239E775BD224DDC8C5D4F4BF8EED126_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.151.149.170:17619%26app_id%3Dcom.android.msandroid%26trans_id%3DnH0wbBFL7PGy_u3yhaMVHQY4o%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D3f1a4e62f53d4874e11dda56242c03ab%26auth_id%3D940434466_com.android.msandroid__0%26user_id%3D940434466%26expired%3D1784743762%26token%3Df911412b94f978e96cbac3f08b5b4c7a&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D1239E775BD224DDC8C5D4F4BF8EED126%26expired%3D1784743762%26token%3D4a1265f7918c8ab7ba681d7bf180bba2
 
-
 #EXTINF:-4 tvg-logo="https://i.ibb.co/cc61qVqy/alon2.jpg" group-title="PELICULA",Mi pobre angelito 1990
 http://simida.cjmpxylza.com/vod/80E4797DBF6E45E1A5CD26A417C08BAC_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.172.127.58:12399%26app_id%3Dcom.android.msandroid%26trans_id%3DUPaDSQxMFbl8_vPSEhcKtYFCt%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784660532%26token%3D6b2a8e8fcd6a340c636106ca97dda695&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D80E4797DBF6E45E1A5CD26A417C08BAC%26expired%3D1784660532%26token%3Ddc9e54c59a28b902ebac805341558e46
 
@@ -95,9 +94,13 @@ http://simida.cjmpxylza.com/vod/276042110684420A862F43EA6B6CC89C_media.ts?conten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9kZNkgSJ/Good-Burger-2.jpg" group-title="PELICULA",Good Burger 2 2023
 http://simida.cjmpxylza.com/vod/76D5D7B241994A539CDF118A809E764E_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D69.162.109.134:12835%26app_id%3Dcom.android.msandroid%26trans_id%3DbPmyRlfQ0GNv_nc1blOnElhSE%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1784959651%26token%3D1ea3ad825fe1be963f6146e3e58e2c70&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D76D5D7B241994A539CDF118A809E764E%26expired%3D1784959651%26token%3Df72a164acb9d0839de89a2619b515674
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p6WhdypG/gato.jpg" group-title="PELICULA",el gato con bota el último deseo 2022
 http://simida.cjmpxylza.com/vod/27E97D6DB24D4694B8AF3C8022B9FFB8_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.172.127.58:12399%26app_id%3Dcom.android.msandroid%26trans_id%3Dj0bHTBh9pLz_vJ9uBU11otG0%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785566628%26token%3D6982c8714bca5d4b54efed84565f9da6&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D27E97D6DB24D4694B8AF3C8022B9FFB8%26expired%3D1785566628%26token%3D00904db57e6cde13ae55f553d07a2e2a
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fk99z5VL/images.jpg" group-title="PELICULA",Mi Villano Favorito 
+http://simida.cjmpxylza.com/vod/672528E05A174F96874BFACA8CA12E4F_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.172.127.58:12399%26app_id%3Dcom.android.msandroid%26trans_id%3D7MRunGf4fdOy_2PtRDEJwul9%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785708721%26token%3D34272ffac4a857e4fbaa4e6c72574d76&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D672528E05A174F96874BFACA8CA12E4F%26expired%3D1785708721%26token%3D51b4f2f8390c887bf76f1260900486cf
 
 
 
