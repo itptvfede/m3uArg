@@ -1,5 +1,11 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93NZC4s6/ardillss.jpg" group-title="PELICULA",Alvin y las ardillas: Aventura sobre ruedas 2015
+http://simida.cjmpxylza.com/vod/6AF30EFB3B5A4E0BA61BE7696D1E950F_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D64.31.43.91:35948%26app_id%3Dcom.android.msandroid%26trans_id%3Dq6Jij302vWcU_IokF57jSot0v%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784659460%26token%3Defa215024b568cd9908066652b9338ca&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D6AF30EFB3B5A4E0BA61BE7696D1E950F%26expired%3D1784659460%26token%3D4819db72cc3f527cf48e8459fdbc6ad2
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4nTSvyxf/hotel.jpg" group-title="PELICULA",Hotel Transylvania 2012
 http://simida.cjmpxylza.com/vod/C46563666AB34381807865550314EA4C_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.151.149.146:26085%26app_id%3Dcom.android.msandroid%26trans_id%3DBPBEAmYobao5_vEFse1OpBkn%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785786735%26token%3Ddc256a3ae9cdcc6c313bb456a8f31766&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DC46563666AB34381807865550314EA4C%26expired%3D1785786735%26token%3D1a2eb31228ff25aca3e99ee99ba30e4b
 
@@ -80,7 +86,6 @@ http://simida.cjmpxylza.com/vod/15F07EC17A324884B3B305BA0A220182_media.ts?conten
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qLZSpkJk/HORTON.jpg" group-title="PELICULA", Horton 2008
 http://simida.cjmpxylza.com/vod/A7A5A821E53C4F6395C204CA670F4C15_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.150:13938%26app_id%3Dcom.android.msandroid%26trans_id%3DzXcvgo0ye0Rg_dmA6PrJYifND%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785537725%26token%3D203103fff22084cde055e47cc2a89bd9&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DA7A5A821E53C4F6395C204CA670F4C15%26expired%3D1785537725%26toke
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TBV6sCd3/hiel9-1.jpg" group-title="PELICULA", era hielo 1 2002
 http://simida.cjmpxylza.com/vod/4127A10228974E6C83D7730A4F34B7A1_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.123:25265%26app_id%3Dcom.android.msandroid%26trans_id%3D89DVaI2w4phm_n0BPGD6hxKPM%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785550628%26token%3D4063295e7ed57970807a0b521cd91583&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D4127A10228974E6C83D7730A4F34B7A1%26expired%3D1785550628%26token%3Da3b8c30348b27e5ebb5b60abba1fc7c7
