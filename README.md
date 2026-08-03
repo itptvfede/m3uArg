@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G4Nv6GmM/comando.jpg" group-title="PELICULA",Commando 1985
 http://simida.cjmpxylza.com/vod/45E50198870441E59D06C01DBDF8B7C0_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.124:17908%26app_id%3Dcom.android.msandroid%26trans_id%3DYuMGmyLUay5Q_4UaE2JxvNcE%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785791777%26token%3D1f91190a1642b65657d07c87dc7ff48b&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D45E50198870441E59D06C01DBDF8B7C0%26expired%3D1785791777%26token%3D1c720a018e7eda2a5654567780ff1a11
 
