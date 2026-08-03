@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4nTSvyxf/hotel.jpg" group-title="PELICULA",Hotel Transylvania 2012
 http://simida.cjmpxylza.com/vod/C46563666AB34381807865550314EA4C_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.151.149.146:26085%26app_id%3Dcom.android.msandroid%26trans_id%3DBPBEAmYobao5_vEFse1OpBkn%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785786735%26token%3Ddc256a3ae9cdcc6c313bb456a8f31766&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DC46563666AB34381807865550314EA4C%26expired%3D1785786735%26token%3D1a2eb31228ff25aca3e99ee99ba30e4b
 
