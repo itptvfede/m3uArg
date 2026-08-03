@@ -39,8 +39,6 @@ http://simida.cjmpxylza.com/vod/EBFFE860BE2B4BAA9C55C61799D865CE_media.ts?conten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84bCSj5F/nacer.jpg" group-title="PELICULA",nacer para morir 2003
 http://simida.cjmpxylza.com/vod/9DE072304DDF4A4597ABAB62A882216F_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D64.31.43.91:35948%26app_id%3Dcom.android.msandroid%26trans_id%3DQhm0g8lrJyuA_KX0VnYPvYca%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1784958633%26token%3D5fe1ea2cefaac35ec3cc46d043cc89d4&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D9DE072304DDF4A4597ABAB62A882216F%26expired%3D1784958633%26token%3D9077cad624cafbd4c89467c0b7f60da8
 
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SXcwnf1T/kid.jpg" group-title="PELICULA", Shanghai noon 2000
 http://simida.cjmpxylza.com/vod/2DAACC9835B54CABAEE67E4A19BAFDAE_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D149.102.226.58:11521%26app_id%3Dcom.android.msandroid%26trans_id%3DBPi8a5OoLHaY_03tA1ftLlD4C%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1785031439%26token%3De077ae92304fea3effaf0557e2a6c7f6&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D2DAACC9835B54CABAEE67E4A19BAFDAE%26expired%3D1785031439%26token%3D85678e68cb02662e027d56f759800dc8
 
@@ -87,15 +85,18 @@ http://simida.cjmpxylza.com/vod/203BBEEC9B75498B8EDCE81759117982_media.ts?conten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fk99z5VL/images.jpg" group-title="PELICULA",Mi Villano Favorito 2010
 http://simida.cjmpxylza.com/vod/276042110684420A862F43EA6B6CC89C_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D69.162.109.134:12835%26app_id%3Dcom.android.msandroid%26trans_id%3DvxXNwSphEpqe_QUQp7q2IBO3w%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784612068%26token%3D54ed2b02c26ece9b59d5604e9d3b9cd1&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D276042110684420A862F43EA6B6CC89C%26expired%3D1784612068%26token%3Df41a0ab0697b1bc92fe2a1ac8b7c31d0
 
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9kZNkgSJ/Good-Burger-2.jpg" group-title="PELICULA",Good Burger 2 2023
 http://simida.cjmpxylza.com/vod/76D5D7B241994A539CDF118A809E764E_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D69.162.109.134:12835%26app_id%3Dcom.android.msandroid%26trans_id%3DbPmyRlfQ0GNv_nc1blOnElhSE%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1784959651%26token%3D1ea3ad825fe1be963f6146e3e58e2c70&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D76D5D7B241994A539CDF118A809E764E%26expired%3D1784959651%26token%3Df72a164acb9d0839de89a2619b515674
 
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p6WhdypG/gato.jpg" group-title="PELICULA",el gato con bota el último deseo 2022
 http://simida.cjmpxylza.com/vod/27E97D6DB24D4694B8AF3C8022B9FFB8_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.172.127.58:12399%26app_id%3Dcom.android.msandroid%26trans_id%3Dj0bHTBh9pLz_vJ9uBU11otG0%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785566628%26token%3D6982c8714bca5d4b54efed84565f9da6&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D27E97D6DB24D4694B8AF3C8022B9FFB8%26expired%3D1785566628%26token%3D00904db57e6cde13ae55f553d07a2e2a
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5WXSnc28/quiren.jpg" group-title="PELICULA",¡Quieren volverme loco! 2005
 http://simida.cjmpxylza.com/vod/672528E05A174F96874BFACA8CA12E4F_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.172.127.58:12399%26app_id%3Dcom.android.msandroid%26trans_id%3D7MRunGf4fdOy_2PtRDEJwul9%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785708721%26token%3D34272ffac4a857e4fbaa4e6c72574d76&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D672528E05A174F96874BFACA8CA12E4F%26expired%3D1785708721%26token%3D51b4f2f8390c887bf76f1260900486cf
