@@ -1,10 +1,7 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5WXSnc28/quiren.jpg" group-title="PELICULA", Quieren volverme loco! 2005
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5WXSnc28/quiren.jpg" group-title="PELICULA", ¡Quieren volverme loco! 2005
 http://simida.cjmpxylza.com/vod/672528E05A174F96874BFACA8CA12E4F_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.172.127.58:12399%26app_id%3Dcom.android.msandroid%26trans_id%3D7MRunGf4fdOy_2PtRDEJwul9%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785708721%26token%3D34272ffac4a857e4fbaa4e6c72574d76&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D672528E05A174F96874BFACA8CA12E4F%26expired%3D1785708721%26token%3D51b4f2f8390c887bf76f1260900486cf
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bgVVvvdr/diablo.jpg" group-title="PELICULA",El diablo viste a la moda 2 2026 
 http://simida.cjmpxylza.com/vod/1239E775BD224DDC8C5D4F4BF8EED126_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.151.149.170:17619%26app_id%3Dcom.android.msandroid%26trans_id%3DnH0wbBFL7PGy_u3yhaMVHQY4o%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D3f1a4e62f53d4874e11dda56242c03ab%26auth_id%3D940434466_com.android.msandroid__0%26user_id%3D940434466%26expired%3D1784743762%26token%3Df911412b94f978e96cbac3f08b5b4c7a&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D1239E775BD224DDC8C5D4F4BF8EED126%26expired%3D1784743762%26token%3D4a1265f7918c8ab7ba681d7bf180bba2
@@ -98,6 +95,6 @@ http://simida.cjmpxylza.com/vod/76D5D7B241994A539CDF118A809E764E_media.ts?conten
 http://simida.cjmpxylza.com/vod/27E97D6DB24D4694B8AF3C8022B9FFB8_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.172.127.58:12399%26app_id%3Dcom.android.msandroid%26trans_id%3Dj0bHTBh9pLz_vJ9uBU11otG0%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785566628%26token%3D6982c8714bca5d4b54efed84565f9da6&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D27E97D6DB24D4694B8AF3C8022B9FFB8%26expired%3D1785566628%26token%3D00904db57e6cde13ae55f553d07a2e2a
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5WXSnc28/quiren.jpg" group-title="PELICULA",¡Quieren volverme loco! 2005
+  
 
 
