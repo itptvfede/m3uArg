@@ -1,9 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/93NZC4s6/ardillss.jpg" group-title="PELICULA",Alvin y las ardillas: Aventura sobre ruedas 2015
-http://simida.cjmpxylza.com/vod/6AF30EFB3B5A4E0BA61BE7696D1E950F_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D64.31.43.91:35948%26app_id%3Dcom.android.msandroid%26trans_id%3Dq6Jij302vWcU_IokF57jSot0v%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784659460%26token%3Defa215024b568cd9908066652b9338ca&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D6AF30EFB3B5A4E0BA61BE7696D1E950F%26expired%3D1784659460%26token%3D4819db72cc3f527cf48e8459fdbc6ad2
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93NZC4s6/ardillss.jpg" group-title="PELICULA",Alvin y las ardillas: Aventura sobre ruedas
+http://simida.cjmpxylza.com/vod/87AC9BFB612F496EA77BFB3973F39957_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D208.115.229.195:16238%26app_id%3Dcom.android.msandroid%26trans_id%3DckWdj7AdQKSh_XPXGD3azEOrJ%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785712360%26token%3D5952a2d00ee9056bcaab4cc6260410c2&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D87AC9BFB612F496EA77BFB3973F39957%26expired%3D1785712360%26token%3D288d7223beb48200261e775142b7ba94
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5WXSnc28/quiren.jpg" group-title="PELICULA", ¡Quieren volverme loco! 2005
 http://simida.cjmpxylza.com/vod/672528E05A174F96874BFACA8CA12E4F_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.172.127.58:12399%26app_id%3Dcom.android.msandroid%26trans_id%3D7MRunGf4fdOy_2PtRDEJwul9%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785708721%26token%3D34272ffac4a857e4fbaa4e6c72574d76&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D672528E05A174F96874BFACA8CA12E4F%26expired%3D1785708721%26token%3D51b4f2f8390c887bf76f1260900486cf
