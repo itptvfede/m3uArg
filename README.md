@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/93NZC4s6/ardillss.jpg" group-title="PELICULA",La máscara 1994
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5W2p2M39/mascara.jpg" group-title="PELICULA",La máscara 1994
 http://simida.cjmpxylza.com/vod/A78F277E0B2D485586088FAF94633916_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.151.149.146:26085%26app_id%3Dcom.android.msandroid%26trans_id%3DkiV3WBczGGG5_WzXvws0vQg9%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785880543%26token%3D79c9f792b2bb6f3e2563c0ce2db300fd&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DA78F277E0B2D485586088FAF94633916%26expired%3D1785880543%26token%3Dcf2719702511f06e47bf6cc1e2b114f8
 
 
