@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxC7tCKz/ENTRENAR-1.jpg" group-title="PELICULA",Alvin y las ardillas: Cómo entrenar a tu dragón 2010
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KxC7tCKz/ENTRENAR-1.jpg" group-title="PELICULA",Cómo entrenar a tu dragón 2010
 http://simida.cjmpxylza.com/vod/3ACDF0260CDF4BC3A21813B0239E11C9_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.119:32838%26app_id%3Dcom.android.msandroid%26trans_id%3Dd1zu1Bf0HBhE_dGBQPeWvF69n%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785873409%26token%3D9fcbb3af77d987d21f2d253412a901e4&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D3ACDF0260CDF4BC3A21813B0239E11C9%26expired%3D1785873409%26token%3D29d6291ad93bfe7d520b9be777929733
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G4Nv6GmM/comando.jpg" group-title="PELICULA",Commando 1985
