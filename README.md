@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XkG9BPZX/Jumanji.jpg" group-title="PELICULA",Jumanji 1995
-http://simida.cjmpxylza.com/vod/6AF30EFB3B5A4E0BA61BE7696D1E950F_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D64.31.43.91:35948%26app_id%3Dcom.android.msandroid%26trans_id%3Dq6Jij302vWcU_IokF57jSot0v%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784659460%26token%3Defa215024b568cd9908066652b9338ca&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D6AF30EFB3B5A4E0BA61BE7696D1E950F%26expired%3D1784659460%26token%3D4819db72cc3f527cf48e8459fdbc6ad2
+http://simida.cjmpxylza.com/vod/E3A8020601C84F66B039C8673ED6D9E3_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D63.143.33.219:15135%26app_id%3Dcom.android.msandroid%26trans_id%3DRVFgp0HzfBtD_xHj7cYVaEvUM%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785879025%26token%3D7241f7fb62c6c86f48ec50f3288c8e9a&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DE3A8020601C84F66B039C8673ED6D9E3%26expired%3D1785879025%26token%3D8ff3e7b35580257d4b5ac348305a9b2a
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KxC7tCKz/ENTRENAR-1.jpg" group-title="PELICULA",Cómo entrenar a tu dragón 2010
