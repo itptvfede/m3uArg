@@ -1,7 +1,6 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/93NZC4s6/ardillss.jpg" group-title="PELICULA",Mi villano favorito 2 2010
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q71CSDCb/VILLANO2.jpg" group-title="PELICULA",Mi villano favorito 2 2010
 http://simida.cjmpxylza.com/vod/55BD69D6DE4E4E339CA3B02B8A9FE87A_media.ts?dev_id=664537acdf92391cb1333d2479ee69a3&user_id=946241698&trans_id=yJuxmubxyDaK_BOtwSjjfDMa&expired=1785908196&app_id=com.android.msandroid&app_ver=49902&host=yuwc.swzablvpm.com&media_code=55BD69D6DE4E4E339CA3B02B8A9FE87A&auth_id=946241698_com.android.msandroid__0&client_ip=190.124.153.58&token=24907c7f&sign2_method=sign_o3&instance=0&start_moment=1785893950801&sign2=40ee7cfd0db87d7b9785d5aac813df4f
 
 
