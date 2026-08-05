@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/93NZC4s6/ardillss.jpg" group-title="PELICULA",Volver al futuro II 1989
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6JX2ffmj/volver-2.jpg" group-title="PELICULA",Volver al futuro II 1989
 http://simida.cjmpxylza.com/vod/5D55B26D5D884034B2D53599969102C4_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D208.115.207.18:22507%26app_id%3Dcom.android.msandroid%26trans_id%3D8Vy1v6Rja8J_lVDlEB15y5rw%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785979185%26token%3D3435f3f347fe7d8702469ec17fcc2736&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D5D55B26D5D884034B2D53599969102C4%26expired%3D1785979185%26token%3D32bc80abd4a1c10cb4aff7e4c3e299c6
 
 
