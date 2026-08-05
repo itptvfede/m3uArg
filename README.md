@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/93NZC4s6/ardillss.jpg" group-title="PELICULA",Alvin y las ardillas: Aventura sobre ruedas 2015
-http://simida.cjmpxylza.com/vod/6AF30EFB3B5A4E0BA61BE7696D1E950F_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D64.31.43.91:35948%26app_id%3Dcom.android.msandroid%26trans_id%3Dq6Jij302vWcU_IokF57jSot0v%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784659460%26token%3Defa215024b568cd9908066652b9338ca&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D6AF30EFB3B5A4E0BA61BE7696D1E950F%26expired%3D1784659460%26token%3D4819db72cc3f527cf48e8459fdbc6ad2
+http://simida.cjmpxylza.com/vod/55BD69D6DE4E4E339CA3B02B8A9FE87A_media.ts?dev_id=664537acdf92391cb1333d2479ee69a3&user_id=946241698&trans_id=yJuxmubxyDaK_BOtwSjjfDMa&expired=1785908196&app_id=com.android.msandroid&app_ver=49902&host=yuwc.swzablvpm.com&media_code=55BD69D6DE4E4E339CA3B02B8A9FE87A&auth_id=946241698_com.android.msandroid__0&client_ip=190.124.153.58&token=24907c7f&sign2_method=sign_o3&instance=0&start_moment=1785893950801&sign2=40ee7cfd0db87d7b9785d5aac813df4f
 
 
 
