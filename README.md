@@ -3,7 +3,6 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xc2vMjx/laberinto.jpg" group-title="PELICULA",El corredor del laberinto: Las pruebas 2015
 http://simida.cjmpxylza.com/vod/E6F61C4575D846E48879C99259FEF048_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D104.129.1.123:12399%26app_id%3Dcom.android.msandroid%26trans_id%3DF9ff4gnVxKTC_p32MHd2hzX13%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1786051742%26token%3Dad13a50bfaf6986591439bddb8b70e61&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DE6F61C4575D846E48879C99259FEF048%26expired%3D1786051742%26token%3D5d60a37dc1f01cee9caad8d15d052554
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6JX2ffmj/volver-2.jpg" group-title="PELICULA",Volver al futuro II 1989
 http://simida.cjmpxylza.com/vod/5D55B26D5D884034B2D53599969102C4_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D208.115.207.18:22507%26app_id%3Dcom.android.msandroid%26trans_id%3D8Vy1v6Rja8J_lVDlEB15y5rw%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785979185%26token%3D3435f3f347fe7d8702469ec17fcc2736&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D5D55B26D5D884034B2D53599969102C4%26expired%3D1785979185%26token%3D32bc80abd4a1c10cb4aff7e4c3e299c6
 
@@ -28,7 +27,7 @@ http://simida.cjmpxylza.com/vod/45E50198870441E59D06C01DBDF8B7C0_media.ts?conten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRm6H57X/robo.jpg" group-title="PELICULA",El robo del siglo 2020
 http://simida.cjmpxylza.com/vod/9B57CD385CEA47A89D8FCDB31A45F553_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.124:17908%26app_id%3Dcom.android.msandroid%26trans_id%3Dk9zUDxDzDa0I_arvLHuHtkg7l%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785789268%26token%3D12ca7a1513100e8ae29213415a5a245c&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D9B57CD385CEA47A89D8FCDB31A45F553%26expired%3D1785789268%26token%3Da4e22ba1b17cd57f7d83c04eccb233ff
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4nTSvyxf/hotel.jpg" group-title="PELICULA",Hotel Transylvania 2012
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4nTSvyxf/hotel.jpg" group-title="PELICULA",Hotel Transylvania: transformanía 2022
 http://simida.cjmpxylza.com/vod/C46563666AB34381807865550314EA4C_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.151.149.146:26085%26app_id%3Dcom.android.msandroid%26trans_id%3DBPBEAmYobao5_vEFse1OpBkn%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785786735%26token%3Ddc256a3ae9cdcc6c313bb456a8f31766&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DC46563666AB34381807865550314EA4C%26expired%3D1785786735%26token%3D1a2eb31228ff25aca3e99ee99ba30e4b
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BdcGVbY/dinusario1.jpg" group-title="PELICULA",Parque jurásico 1993
