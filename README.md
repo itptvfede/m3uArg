@@ -1,6 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0y4j0v9S/leyenda.jpg" group-title="KarateKid: Leyendas 2025
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93NZC4s6/ardillss.jpg" group-title="PELICULA",Alvin y las ardillas: Aventura sobre ruedas 2015
 http://simida.cjmpxylza.com/vod/77DE8E0C65AD4355AC634AEBB6827C65_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.124:17908%26app_id%3Dcom.android.msandroid%26trans_id%3Da6vvCaUpHV0N_ImKSyqC4e0Ku%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1786079928%26token%3D75cc20b092c78a2ff0585d23ba45d5d5&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D77DE8E0C65AD4355AC634AEBB6827C65%26expired%3D1786079928%26token%3D6b4286f841a3a923b09ac9621fbbb3ab
 
 
@@ -37,11 +38,14 @@ http://simida.cjmpxylza.com/vod/9B57CD385CEA47A89D8FCDB31A45F553_media.ts?conten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nsHW58wY/hotel-4.jpg" group-title="PELICULA",Hotel Transylvania 4: transformanía 2022
 http://simida.cjmpxylza.com/vod/C46563666AB34381807865550314EA4C_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.151.149.146:26085%26app_id%3Dcom.android.msandroid%26trans_id%3DBPBEAmYobao5_vEFse1OpBkn%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785786735%26token%3Ddc256a3ae9cdcc6c313bb456a8f31766&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DC46563666AB34381807865550314EA4C%26expired%3D1785786735%26token%3D1a2eb31228ff25aca3e99ee99ba30e4b
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BdcGVbY/dinusario1.jpg" group-title="PELICULA",Parque jurásico 1993
 http://simida.cjmpxylza.com/vod/87AC9BFB612F496EA77BFB3973F39957_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D208.115.229.195:16238%26app_id%3Dcom.android.msandroid%26trans_id%3DckWdj7AdQKSh_XPXGD3azEOrJ%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785712360%26token%3D5952a2d00ee9056bcaab4cc6260410c2&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D87AC9BFB612F496EA77BFB3973F39957%26expired%3D1785712360%26token%3D288d7223beb48200261e775142b7ba94
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5WXSnc28/quiren.jpg" group-title="PELICULA", ¡Quieren volverme loco! 2005
 http://simida.cjmpxylza.com/vod/672528E05A174F96874BFACA8CA12E4F_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.172.127.58:12399%26app_id%3Dcom.android.msandroid%26trans_id%3D7MRunGf4fdOy_2PtRDEJwul9%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785708721%26token%3D34272ffac4a857e4fbaa4e6c72574d76&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D672528E05A174F96874BFACA8CA12E4F%26expired%3D1785708721%26token%3D51b4f2f8390c887bf76f1260900486cf
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bgVVvvdr/diablo.jpg" group-title="PELICULA",El diablo viste a la moda 2 2026 
 http://simida.cjmpxylza.com/vod/1239E775BD224DDC8C5D4F4BF8EED126_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.151.149.170:17619%26app_id%3Dcom.android.msandroid%26trans_id%3DnH0wbBFL7PGy_u3yhaMVHQY4o%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D3f1a4e62f53d4874e11dda56242c03ab%26auth_id%3D940434466_com.android.msandroid__0%26user_id%3D940434466%26expired%3D1784743762%26token%3Df911412b94f978e96cbac3f08b5b4c7a&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D1239E775BD224DDC8C5D4F4BF8EED126%26expired%3D1784743762%26token%3D4a1265f7918c8ab7ba681d7bf180bba2
