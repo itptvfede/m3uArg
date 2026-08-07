@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0y4j0v9S/leyenda.jpg" group-title="Karate Kid: Leyendas 2025
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0y4j0v9S/leyenda.jpg" group-title="KarateKid: Leyendas 2025
 http://simida.cjmpxylza.com/vod/77DE8E0C65AD4355AC634AEBB6827C65_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.124:17908%26app_id%3Dcom.android.msandroid%26trans_id%3Da6vvCaUpHV0N_ImKSyqC4e0Ku%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1786079928%26token%3D75cc20b092c78a2ff0585d23ba45d5d5&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D77DE8E0C65AD4355AC634AEBB6827C65%26expired%3D1786079928%26token%3D6b4286f841a3a923b09ac9621fbbb3ab
 
 
