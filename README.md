@@ -1,11 +1,7 @@
 #EXTM3U
 
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KzbhYdNc/hada1.jpg" group-title="PELICULA",¡Gol! 2005
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bR7tBk9Q/Gol.jpg" group-title="PELICULA",¡Gol! 2005
 http://simida.cjmpxylza.com/vod/1FBE6991E7BC4A2DBC6B80D4F3BEF0D9_media.ts?dev_id=664537acdf92391cb1333d2479ee69a3&user_id=946241698&trans_id=j7TqnrswPJS_4kKdu4KIiCU&expired=1786166921&app_id=com.android.msandroid&app_ver=49902&host=yuwc.swzablvpm.com&media_code=1FBE6991E7BC4A2DBC6B80D4F3BEF0D9&auth_id=946241698_com.android.msandroid__0&client_ip=190.124.153.58&token=82a94786&sign2_method=sign_o3&instance=0&start_moment=1786152551838&sign2=8743c98672217dd237600bbbd5cfb554
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KzbhYdNc/hada1.jpg" group-title="PELICULA",Hada por accidente  2010
 http://simida.cjmpxylza.com/vod/1FBE6991E7BC4A2DBC6B80D4F3BEF0D9_media.ts?dev_id=664537acdf92391cb1333d2479ee69a3&user_id=946241698&trans_id=j7TqnrswPJS_4kKdu4KIiCU&expired=1786166921&app_id=com.android.msandroid&app_ver=49902&host=yuwc.swzablvpm.com&media_code=1FBE6991E7BC4A2DBC6B80D4F3BEF0D9&auth_id=946241698_com.android.msandroid__0&client_ip=190.124.153.58&token=82a94786&sign2_method=sign_o3&instance=0&start_moment=1786152551838&sign2=8743c98672217dd237600bbbd5cfb554
