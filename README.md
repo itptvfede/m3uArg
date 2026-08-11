@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bR7tBk9Q/Gol.jpg" group-title="PELICULA",SON COMO ÑIÑOS 2
-http://simida.cjmpxylza.com/vod/FFC91EB8DA2B4A549018FAADC48372E3_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D69.162.92.107:22683%26app_id%3Dcom.android.msandroid%26trans_id%3DDiOBRjvv8qcB_zEbvoxwLCubJ%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1786213133%26token%3D104f20baa59c50fa24769a3dd413fdf9&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DFFC91EB8DA2B4A549018FAADC48372E3%26expired%3D1786213133%26token%3De9eba93c8bed992c47a6a00ec8eaf808
+http://simida.cjmpxylza.com/vod/8C0A88FC67594D0B9BB7F828AFFBE85A_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D149.102.226.58:11521%26app_id%3Dcom.android.msandroid%26trans_id%3DDJyvOqUk7oft_W7RwTCqQwFRI%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1786502658%26token%3Dedf2f5477adf760290af0e8a91aeebf0&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D8C0A88FC67594D0B9BB7F828AFFBE85A%26expired%3D1786502658%26toke
 
 
 
