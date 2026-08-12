@@ -1,7 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/93NZC4s6/ardillss.jpg" group-title="PELICULA",Son como niños 2 20
-http://simida.cjmpxylza.com/vod/8C0A88FC67594D0B9BB7F828AFFBE85A_media.ts?dev_id=664537acdf92391cb1333d2479ee69a3&user_id=946241698&trans_id=OxcUMBxhU9ua_5ggCzc0pYIMG&expired=1786512902&app_id=com.android.msandroid&app_ver=49902&host=deuw.hetvomaug.com&media_code=8C0A88FC67594D0B9BB7F828AFFBE85A&auth_id=946241698_com.android.msandroid__0&client_ip=45.178.2.242&token=dffa72c0&sign2_method=sign_o3&instance=0&start_moment=1786498559378&sign2=c8fe2fd26f187dfde0aec3182a921809
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93NZC4s6/ardillss.jpg" group-title="PELICULA",yo robot
+http://98.98.163.146:31081/vod/AE2E8B22E2EA49988F69BFC52CF1B35D_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.146:31081%26app_id%3Dcom.android.msandroid%26trans_id%3DFUzwnEgRVilG_nEcUDnCKM9fY%26app_version%3D49902%26client_ip%3D45.178.2.242%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1786513395%26token%3Dd3719f8a13c08d917b26cc48cba204a2&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DAE2E8B22E2EA49988F69BFC52CF1B35D%26expired%3D1786513395%26token%3Dc4f3152521560e42ddad417bcae72fbd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bR7tBk9Q/Gol.jpg" group-title="PELICULA",¡Gol! 2005
