@@ -1,10 +1,7 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XTkRpv0/momia1.jpg" group-title="PELICULA",La momia 1999
-http://simida.cjmpxylza.com/vod/3F31101AE0574D209BC3C610ED057FE7_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D69.162.116.242:35657%26app_id%3Dcom.android.msandroid%26trans_id%3DKWFYQHRq6fmc_qBHszB6FK3zq%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1786556611%26token%3D96bc1825152806abad1364ddfb8d3f3f&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D3F31101AE0574D209BC3C610ED057FE7%26expired%3D1786556611%26token%3D4b8d6c87873e7e0c77673327abaa2f29
-
-
+http://simida.cjmpxylza.com/vod/A52542496DCD4B83A1C2C90147BEDA1F_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.123:25265%26app_id%3Dcom.android.msandroid%26trans_id%3DQrV9YopbDx7_7fVdsC8IfC91%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1786570818%26token%3D05df2e02c4eda534d6f449c12d77896e&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DA52542496DCD4B83A1C2C90147BEDA1F%26expired%3D1786570818%26token%3D93a730b8d99efbcbac40b59b518c4c24
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jj9qRjN2/poli1.jpg" group-title="PELICULA",Loca academia de policía  1984
 http://simida.cjmpxylza.com/vod/3F31101AE0574D209BC3C610ED057FE7_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D69.162.116.242:35657%26app_id%3Dcom.android.msandroid%26trans_id%3DKWFYQHRq6fmc_qBHszB6FK3zq%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1786556611%26token%3D96bc1825152806abad1364ddfb8d3f3f&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D3F31101AE0574D209BC3C610ED057FE7%26expired%3D1786556611%26token%3D4b8d6c87873e7e0c77673327abaa2f29
