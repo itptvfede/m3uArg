@@ -1,5 +1,11 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBKH08Mn/robot.jpg" group-title="PELICULA",ñiño
+http://simida.cjmpxylza.com/vod/AE2E8B22E2EA49988F69BFC52CF1B35D_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.146:31081%26app_id%3Dcom.android.msandroid%26trans_id%3DFUzwnEgRVilG_nEcUDnCKM9fY%26app_version%3D49902%26client_ip%3D45.178.2.242%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1786513395%26token%3Dd3719f8a13c08d917b26cc48cba204a2&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DAE2E8B22E2EA49988F69BFC52CF1B35D%26expired%3D1786513395%26token%3Dc4f3152521560e42ddad417bcae72fbd
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pBKH08Mn/robot.jpg" group-title="PELICULA",yo robot
 http://simida.cjmpxylza.com/vod/AE2E8B22E2EA49988F69BFC52CF1B35D_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.146:31081%26app_id%3Dcom.android.msandroid%26trans_id%3DFUzwnEgRVilG_nEcUDnCKM9fY%26app_version%3D49902%26client_ip%3D45.178.2.242%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1786513395%26token%3Dd3719f8a13c08d917b26cc48cba204a2&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DAE2E8B22E2EA49988F69BFC52CF1B35D%26expired%3D1786513395%26token%3Dc4f3152521560e42ddad417bcae72fbd
 
