@@ -1,7 +1,8 @@
 #EXTM3U
+
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/93NZC4s6/ardillss.jpg" group-title="PELICULA",Alvin y las ardillas: Aventura sobre ruedas 2015
-http://simida.cjmpxylza.com/vod/6AF30EFB3B5A4E0BA61BE7696D1E950F_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D64.31.43.91:35948%26app_id%3Dcom.android.msandroid%26trans_id%3Dq6Jij302vWcU_IokF57jSot0v%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784659460%26token%3Defa215024b568cd9908066652b9338ca&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D6AF30EFB3B5A4E0BA61BE7696D1E950F%26expired%3D1784659460%26token%3D4819db72cc3f527cf48e8459fdbc6ad2
+http://simida.cjmpxylza.com/vod/8C0A88FC67594D0B9BB7F828AFFBE85A_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D149.102.226.58:11521%26app_id%3Dcom.android.msandroid%26trans_id%3DDJyvOqUk7oft_W7RwTCqQwFRI%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1786502658%26token%3Dedf2f5477adf760290af0e8a91aeebf0&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D8C0A88FC67594D0B9BB7F828AFFBE85A%26expired%3D1786502658%26token%3Dfe3a93a1c35d6af6bf10a649d64717dc
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bR7tBk9Q/Gol.jpg" group-title="PELICULA",¡Gol! 2005
