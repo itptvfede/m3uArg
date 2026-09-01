@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F4Fnd0k8/canta-2.jpg" group-title="PELICULA",Al diablo con el diablo 2000
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hJBZ4dmL/al-diablo.jpg" group-title="PELICULA",Al diablo con el diablo 2000
 http://simida.cjmpxylza.com/vod/54E80EDDC7884FA885CFFD585B218ACB_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.150:13938%26app_id%3Dcom.android.msandroid%26trans_id%3DHgf8yEmYYPd3_1b80sCQUTwAb%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1788235486%26token%3Daaab8a6e41618e15b68bd611560083e2&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D54E80EDDC7884FA885CFFD585B218ACB%26expired%3D1788235486%26token%3Db06604c5712339206bf20784141364f6
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F4Fnd0k8/canta-2.jpg" group-title="PELICULA",Sing 2: ¡Ven Y Canta De Nuevo! 2021
