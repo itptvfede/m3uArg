@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hJBZ4dmL/al-diablo.jpg" group-title="PELICULA",Garfield: Fuera de Casa 2024
+http://simida.cjmpxylza.com/vod/75CCD63055FF4174902860143BA092B5_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.150:13938%26app_id%3Dcom.android.msandroid%26trans_id%3DjXzOCRHq9eg_0YlELJXWOQRm%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1788236625%26token%3Df61b17dfc0c5735ce825db274a93ef1b&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D75CCD63055FF4174902860143BA092B5%26expired%3D1788236625%26token%3Dea7516ed6074fb31278294e253a6ab94
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hJBZ4dmL/al-diablo.jpg" group-title="PELICULA",Al diablo con el diablo 2000
 http://simida.cjmpxylza.com/vod/75CCD63055FF4174902860143BA092B5_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.150:13938%26app_id%3Dcom.android.msandroid%26trans_id%3DjXzOCRHq9eg_0YlELJXWOQRm%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1788236625%26token%3Df61b17dfc0c5735ce825db274a93ef1b&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D75CCD63055FF4174902860143BA092B5%26expired%3D1788236625%26token%3Dea7516ed6074fb31278294e253a6ab94
 
