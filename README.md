@@ -9,11 +9,14 @@ http://simida.cjmpxylza.com/vod/4E488B23A8D648A1AFEEDF9F6112FB48_media.ts?conten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hJ9yPdRZ/CLIP.jpg" group-title="PELICULA",Click: Perdiendo el control 2006
 http://simida.cjmpxylza.com/vod/5BD155C5265F4C3589B88278AEB489B2_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D64.31.7.133:12400%26app_id%3Dcom.android.msandroid%26trans_id%3DsiHf0PpddorD_ABJBJYBF8j13%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1788978490%26token%3Dc6958f7174df9e07d88521acc1b20e85&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D5BD155C5265F4C3589B88278AEB489B2%26expired%3D1788978490%26token%3D2d9790fc607d3954bb97224de4e303bf
 
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dwz9Cp7S/mascara.jpg" group-title="PELICULA",El hombre de la máscara de hierro 1998 
 http://simida.cjmpxylza.com/vod/C2DF35AFA44D4A57A88E5DAE974BED01_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D64.31.33.212:14399%26app_id%3Dcom.android.msandroid%26trans_id%3DwHnRzLePo8Rp_B6i9vvcaWl8t%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1788584295%26token%3Dfb48b40bcc863bbb8497ec071c800ea8&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DC2DF35AFA44D4A57A88E5DAE974BED01%26expired%3D1788584295%26token%3D206afafaabfe32d9a6262a944746b50a
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XZbqKmtZ/garfiel.jpg" group-title="PELICULA",Garfield: Fuera de Casa 2024
 http://simida.cjmpxylza.com/vod/8AB87C3D0B2943278D95BD7CD58F3BB6_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.117:30879%26app_id%3Dcom.android.msandroid%26trans_id%3Dws1UM4Ilk69W_PCytDS8M4wkz%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1788477929%26token%3Da8cee0943acb1fb2388658dc32bc548b&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D8AB87C3D0B2943278D95BD7CD58F3BB6%26expired%3D1788477929%26token%3D92697a72c17c7ec739ecd9a53d3c83d0
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hJBZ4dmL/al-diablo.jpg" group-title="PELICULA",Al diablo con el diablo 2000
