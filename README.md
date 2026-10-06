@@ -1,5 +1,11 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svrFqcMn/ladron.jpg" group-title="PELICULA",DE LADRON A POLICIA 1999
+http://simida.cjmpxylza.com/vod/4E488B23A8D648A1AFEEDF9F6112FB48_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D64.31.33.212:14399%26app_id%3Dcom.android.msandroid%26trans_id%3DTd4VONp914z2_0eWaizHvwA1%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1789447443%26token%3Ddd798f079eff6821c8283da288753e40&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D4E488B23A8D648A1AFEEDF9F6112FB48%26expired%3D1789447443%26token%3D4e2fa9e8aa9a01373f0a0b1c2c5f60a1
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hJ9yPdRZ/CLIP.jpg" group-title="PELICULA",Click: Perdiendo el control 2006
 http://simida.cjmpxylza.com/vod/5BD155C5265F4C3589B88278AEB489B2_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D64.31.7.133:12400%26app_id%3Dcom.android.msandroid%26trans_id%3DsiHf0PpddorD_ABJBJYBF8j13%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1788978490%26token%3Dc6958f7174df9e07d88521acc1b20e85&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D5BD155C5265F4C3589B88278AEB489B2%26expired%3D1788978490%26token%3D2d9790fc607d3954bb97224de4e303bf
 
