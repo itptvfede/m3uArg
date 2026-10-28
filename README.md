@@ -48,7 +48,6 @@ http://simida.cjmpxylza.com/vod/CF661DD5F5C2480DBC8266F30714C729_media.ts?conten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DDTh0k0H/Shrek-2-2004.jpg" group-title="PELICULA", Shrek 2 2004
 http://simida.cjmpxylza.com/vod/472580AE907F43E080B46955F9A0FC18_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.151.149.14:29651%26app_id%3Dcom.android.msandroid%26trans_id%3DPB4jwxpmhdg_JEeICbiGpUDU%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1786639858%26token%3D55984e3ca4d5e12be9d509259b38e0c4&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D472580AE907F43E080B46955F9A0FC18%26expired%3D1786639858%26token%3D6539a306037d1d384e6609da48970b29
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XTkRpv0/momia1.jpg" group-title="PELICULA",La momia 1999
 http://simida.cjmpxylza.com/vod/A52542496DCD4B83A1C2C90147BEDA1F_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.123:25265%26app_id%3Dcom.android.msandroid%26trans_id%3DQrV9YopbDx7_7fVdsC8IfC91%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1786570818%26token%3D05df2e02c4eda534d6f449c12d77896e&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DA52542496DCD4B83A1C2C90147BEDA1F%26expired%3D1786570818%26token%3D93a730b8d99efbcbac40b59b518c4c24
 
@@ -95,7 +94,6 @@ http://simida.cjmpxylza.com/vod/E3A8020601C84F66B039C8673ED6D9E3_media.ts?conten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KxC7tCKz/ENTRENAR-1.jpg" group-title="PELICULA",Cómo entrenar a tu dragón 2010
 http://simida.cjmpxylza.com/vod/3ACDF0260CDF4BC3A21813B0239E11C9_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.119:32838%26app_id%3Dcom.android.msandroid%26trans_id%3Dd1zu1Bf0HBhE_dGBQPeWvF69n%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785873409%26token%3D9fcbb3af77d987d21f2d253412a901e4&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D3ACDF0260CDF4BC3A21813B0239E11C9%26expired%3D1785873409%26token%3D29d6291ad93bfe7d520b9be777929733
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4RJLLSDM/COMMANDO-1985.jpg" group-title="PELICULA",COMMANDO 1985
 http://simida.cjmpxylza.com/vod/45E50198870441E59D06C01DBDF8B7C0_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.124:17908%26app_id%3Dcom.android.msandroid%26trans_id%3DYuMGmyLUay5Q_4UaE2JxvNcE%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785791777%26token%3D1f91190a1642b65657d07c87dc7ff48b&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D45E50198870441E59D06C01DBDF8B7C0%26expired%3D1785791777%26token%3D1c720a018e7eda2a5654567780ff1a11
 
@@ -105,14 +103,11 @@ http://simida.cjmpxylza.com/vod/9B57CD385CEA47A89D8FCDB31A45F553_media.ts?conten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nsHW58wY/hotel-4.jpg" group-title="PELICULA",Hotel Transylvania 4: transformanía 2022
 http://simida.cjmpxylza.com/vod/C46563666AB34381807865550314EA4C_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.151.149.146:26085%26app_id%3Dcom.android.msandroid%26trans_id%3DBPBEAmYobao5_vEFse1OpBkn%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785786735%26token%3Ddc256a3ae9cdcc6c313bb456a8f31766&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DC46563666AB34381807865550314EA4C%26expired%3D1785786735%26token%3D1a2eb31228ff25aca3e99ee99ba30e4b
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BdcGVbY/dinusario1.jpg" group-title="PELICULA",Parque jurásico 1993
 http://simida.cjmpxylza.com/vod/87AC9BFB612F496EA77BFB3973F39957_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D208.115.229.195:16238%26app_id%3Dcom.android.msandroid%26trans_id%3DckWdj7AdQKSh_XPXGD3azEOrJ%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785712360%26token%3D5952a2d00ee9056bcaab4cc6260410c2&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D87AC9BFB612F496EA77BFB3973F39957%26expired%3D1785712360%26token%3D288d7223beb48200261e775142b7ba94
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5WXSnc28/quiren.jpg" group-title="PELICULA", ¡Quieren volverme loco! 2005
 http://simida.cjmpxylza.com/vod/672528E05A174F96874BFACA8CA12E4F_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.172.127.58:12399%26app_id%3Dcom.android.msandroid%26trans_id%3D7MRunGf4fdOy_2PtRDEJwul9%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785708721%26token%3D34272ffac4a857e4fbaa4e6c72574d76&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D672528E05A174F96874BFACA8CA12E4F%26expired%3D1785708721%26token%3D51b4f2f8390c887bf76f1260900486cf
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bgVVvvdr/diablo.jpg" group-title="PELICULA",El diablo viste a la moda 2 2026 
 http://simida.cjmpxylza.com/vod/1239E775BD224DDC8C5D4F4BF8EED126_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.151.149.170:17619%26app_id%3Dcom.android.msandroid%26trans_id%3DnH0wbBFL7PGy_u3yhaMVHQY4o%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D3f1a4e62f53d4874e11dda56242c03ab%26auth_id%3D940434466_com.android.msandroid__0%26user_id%3D940434466%26expired%3D1784743762%26token%3Df911412b94f978e96cbac3f08b5b4c7a&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D1239E775BD224DDC8C5D4F4BF8EED126%26expired%3D1784743762%26token%3D4a1265f7918c8ab7ba681d7bf180bba2
@@ -126,7 +121,8 @@ http://simida.cjmpxylza.com/vod/6AF30EFB3B5A4E0BA61BE7696D1E950F_media.ts?conten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MxBpTh6x/vecino.jpg" group-title="PELICULA",vecino cercano del   3 er tipo 2012
 http://simida.cjmpxylza.com/vod/B1DD05729F194EDE84B959B459588172_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D149.102.226.58:11521%26app_id%3Dcom.android.msandroid%26trans_id%3DsSkY73ig1byU_b0KyBrOB6yGO%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784657648%26token%3Dababebc9b8106e943ca8f64e248233f7&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DB1DD05729F194EDE84B959B459588172%26expired%3D1784657648%26token%3D21d96646b9a0a2a0170610e40ffb9739
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HDX3fQpS/Soncomo-i-o.jpg" group-title="PELICULA",son como ñiños 2010
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rGGVZV7d/SON-COMO-I-OS-2010.jpg" group-title="PELICULA",SON COMO ÑIÑOS 2010
 http://simida.cjmpxylza.com/vod/AAD11D82D5FE4DA3BBA51A41E76B5E4E_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D149.102.226.58:11521%26app_id%3Dcom.android.msandroid%26trans_id%3DTWskYFUuYOOR_yg2LrmuYndau%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784655960%26token%3D6a789e9b844b159e418db2b9ab0fa334&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DAAD11D82D5FE4DA3BBA51A41E76B5E4E%26expired%3D1784655960%26token%3D7fc82c69f8d4ba841018923f0714a528
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p66bLHcQ/mario.jpg" group-title="PELICULA",super mario galaxy 2026
