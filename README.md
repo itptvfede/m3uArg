@@ -1,14 +1,10 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R17KjKJ/locos-2.jpg" group-title="PELICULA",Los locos Addams 1991
 http://simida.cjmpxylza.com/vod/ADBBF81FC4564F4EB20D7966D231FC06_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.151.149.182:15001%26app_id%3Dcom.android.msandroid%26trans_id%3DSb8U8Njw37v3_qSrWxzvB50x%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3Dcf520fbc150ccba60a99f2e9ed2dd3ca%26auth_id%3D965901016_com.android.msandroid__0%26user_id%3D965901016%26expired%3D1792471407%26token%3D8580488a38d3114960689a07c40d5a22&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DADBBF81FC4564F4EB20D7966D231FC06%26expired%3D1792471407%26token%3Dc442bd8cc3f205d0bb6264b0ac43f5da
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/svrFqcMn/ladron.jpg" group-title="PELICULA",DE LADRON@ A POLICIA 1999
 http://simida.cjmpxylza.com/vod/88AB4A23210F48BFB9E92B619DE6999B_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.117:30879%26app_id%3Dcom.android.msandroid%26trans_id%3DuSGGijVpaWP1_0S00nRuXvV2a%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3Dcf520fbc150ccba60a99f2e9ed2dd3ca%26auth_id%3D965901016_com.android.msandroid__0%26user_id%3D965901016%26expired%3D1791322576%26token%3Da659d655c08068612ce40de3496b1e03&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D88AB4A23210F48BFB9E92B619DE6999B%26expired%3D1791322576%26token%3D22aa698dd72ec62a00ca9e9eb5b0f16e
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hJ9yPdRZ/CLIP.jpg" group-title="PELICULA",Click: Perdiendo el control 2006
 http://simida.cjmpxylza.com/vod/5BD155C5265F4C3589B88278AEB489B2_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D64.31.7.133:12400%26app_id%3Dcom.android.msandroid%26trans_id%3DsiHf0PpddorD_ABJBJYBF8j13%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1788978490%26token%3Dc6958f7174df9e07d88521acc1b20e85&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D5BD155C5265F4C3589B88278AEB489B2%26expired%3D1788978490%26token%3D2d9790fc607d3954bb97224de4e303bf
@@ -99,7 +95,8 @@ http://simida.cjmpxylza.com/vod/E3A8020601C84F66B039C8673ED6D9E3_media.ts?conten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KxC7tCKz/ENTRENAR-1.jpg" group-title="PELICULA",Cómo entrenar a tu dragón 2010
 http://simida.cjmpxylza.com/vod/3ACDF0260CDF4BC3A21813B0239E11C9_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.119:32838%26app_id%3Dcom.android.msandroid%26trans_id%3Dd1zu1Bf0HBhE_dGBQPeWvF69n%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785873409%26token%3D9fcbb3af77d987d21f2d253412a901e4&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D3ACDF0260CDF4BC3A21813B0239E11C9%26expired%3D1785873409%26token%3D29d6291ad93bfe7d520b9be777929733
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G4Nv6GmM/comando.jpg" group-title="PELICULA",Commando 1985
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RJLLSDM/COMMANDO-1985.jpg" group-title="PELICULA",COMMANDO 1985
 http://simida.cjmpxylza.com/vod/45E50198870441E59D06C01DBDF8B7C0_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.124:17908%26app_id%3Dcom.android.msandroid%26trans_id%3DYuMGmyLUay5Q_4UaE2JxvNcE%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785791777%26token%3D1f91190a1642b65657d07c87dc7ff48b&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D45E50198870441E59D06C01DBDF8B7C0%26expired%3D1785791777%26token%3D1c720a018e7eda2a5654567780ff1a11
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tTkwm3wb/robo.jpg" group-title="PELICULA",El robo del siglo 2020
