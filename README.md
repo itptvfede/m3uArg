@@ -3,7 +3,6 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N47218G/I-ERA-A-PRUEBA-DE-BALAS-2005.jpg" group-title="PELICULA",ÑIÑERA A PRUEBA DE BALAS 2005
 http://simida.cjmpxylza.com/vod/D840331D2B5640F880B6C5C94C481205_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D149.34.250.107:26470%26app_id%3Dcom.android.msandroid%26trans_id%3DODPNrsbECmvP_1GgL7jOEFpeg%26app_version%3D43404%26client_ip%3D190.124.153.58%26dev_id%3Dc76586d89eed9685ab3f29046ebb7642%26auth_id%3D979769766_com.android.msandroid__0%26user_id%3D979769766%26expired%3D1793236010%26token%3D33b002854b11546702c761a14c4ec382&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DD840331D2B5640F880B6C5C94C481205%26expired%3D1793236010%26token%3Df8494f7ff6d1789c509a0f9d753b72f9
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MxJSKFHT/DE-MENDIGO-A-MILLONARIO-1983.jpg" group-title="PELICULA",DE MENDIGO A MILLONARIO 1983
 http://simida.cjmpxylza.com/vod/F70C36CE5DB7427B958111EF1FBE7D3F_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D149.102.226.57:21412%26app_id%3Dcom.android.msandroid%26trans_id%3DA8kGiouWmuxh_VO9Xp5CW0UMQ%26app_version%3D43404%26client_ip%3D190.124.153.58%26dev_id%3Dc76586d89eed9685ab3f29046ebb7642%26auth_id%3D979769766_com.android.msandroid__0%26user_id%3D979769766%26expired%3D1793226665%26token%3Dabaac53f819c9961e9df011d940857c2&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DF70C36CE5DB7427B958111EF1FBE7D3F%26expired%3D1793226665%26token%3D67d18495003bb965f301710b5770873c
 
@@ -163,7 +162,8 @@ http://simida.cjmpxylza.com/vod/2DAACC9835B54CABAEE67E4A19BAFDAE_media.ts?conten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vMMLtZn/mega.jpg" group-title="PELICULA", Megamind 2010
 http://simida.cjmpxylza.com/vod/ACB7FCDBF5A2495FA8D1522467391F05_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D38.15.142.26:21589%26app_id%3Dcom.android.msandroid%26trans_id%3DVLxCIuM7LQYv_WwLtFFGNdwIX%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1785185862%26token%3D11251a0f918314fadc3700dbb4cd9b8d&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DACB7FCDBF5A2495FA8D1522467391F05%26expired%3D1785185862%26token%3Dc479e78e6f5d120b25921d17e5608219
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz6Hrds0/hormiga.jpg" group-title="PELICULA", Hormiguitaz 1998
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5gmb65v4/HORMIGUITAZ-1998.jpg" group-title="PELICULA",HORMIGUITAZ 1998
 http://simida.cjmpxylza.com/vod/5364C91B69F04CCEAF49C4BECFEA23CF_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D149.102.226.58:11521%26app_id%3Dcom.android.msandroid%26trans_id%3Dv1wffLDWJkUP_UxaA2Gjc4s5h%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1785186678%26token%3D8a0c8b792ae3d14b9b515be4a6f30042&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D5364C91B69F04CCEAF49C4BECFEA23CF%26expired%3D1785186678%26token%3D07c6609095b76ff6bb6e0a28efe8104b
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/849SrK22/Shrek.jpg" group-title="PELICULA", Shrek 2001
