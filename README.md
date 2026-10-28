@@ -1,10 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R17KjKJ/locos-2.jpg" group-title="CLASICAS",Los locos Addams 1991
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R17KjKJ/locos-2.jpg" group-title="PELICULA",Los locos Addams 1991
 http://simida.cjmpxylza.com/vod/ADBBF81FC4564F4EB20D7966D231FC06_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D107.151.149.182:15001%26app_id%3Dcom.android.msandroid%26trans_id%3DSb8U8Njw37v3_qSrWxzvB50x%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3Dcf520fbc150ccba60a99f2e9ed2dd3ca%26auth_id%3D965901016_com.android.msandroid__0%26user_id%3D965901016%26expired%3D1792471407%26token%3D8580488a38d3114960689a07c40d5a22&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DADBBF81FC4564F4EB20D7966D231FC06%26expired%3D1792471407%26token%3Dc442bd8cc3f205d0bb6264b0ac43f5da
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/svrFqcMn/ladron.jpg" group-title="PELICULA",DE LADRON@ A POLICIA 1999
 http://simida.cjmpxylza.com/vod/88AB4A23210F48BFB9E92B619DE6999B_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.117:30879%26app_id%3Dcom.android.msandroid%26trans_id%3DuSGGijVpaWP1_0S00nRuXvV2a%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3Dcf520fbc150ccba60a99f2e9ed2dd3ca%26auth_id%3D965901016_com.android.msandroid__0%26user_id%3D965901016%26expired%3D1791322576%26token%3Da659d655c08068612ce40de3496b1e03&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D88AB4A23210F48BFB9E92B619DE6999B%26expired%3D1791322576%26token%3D22aa698dd72ec62a00ca9e9eb5b0f16e
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hJ9yPdRZ/CLIP.jpg" group-title="PELICULA",Click: Perdiendo el control 2006
