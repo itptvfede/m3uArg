@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R17KjKJ/locos-2.jpg" group-title="PELICULA",DE MENDIGO A MILLONARIO 1983
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MxJSKFHT/DE-MENDIGO-A-MILLONARIO-1983.jpg" group-title="PELICULA",DE MENDIGO A MILLONARIO 1983
 http://simida.cjmpxylza.com/vod/F70C36CE5DB7427B958111EF1FBE7D3F_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D149.102.226.57:21412%26app_id%3Dcom.android.msandroid%26trans_id%3DA8kGiouWmuxh_VO9Xp5CW0UMQ%26app_version%3D43404%26client_ip%3D190.124.153.58%26dev_id%3Dc76586d89eed9685ab3f29046ebb7642%26auth_id%3D979769766_com.android.msandroid__0%26user_id%3D979769766%26expired%3D1793226665%26token%3Dabaac53f819c9961e9df011d940857c2&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DF70C36CE5DB7427B958111EF1FBE7D3F%26expired%3D1793226665%26token%3D67d18495003bb965f301710b5770873c
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R17KjKJ/locos-2.jpg" group-title="PELICULA",Los locos Addams 1991
