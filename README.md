@@ -66,7 +66,6 @@ http://simida.cjmpxylza.com/vod/8C0A88FC67594D0B9BB7F828AFFBE85A_media.ts?conten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pBKH08Mn/robot.jpg" group-title="PELICULA",YO ROBOT 2004
 http://simida.cjmpxylza.com/vod/AE2E8B22E2EA49988F69BFC52CF1B35D_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.146:31081%26app_id%3Dcom.android.msandroid%26trans_id%3DFUzwnEgRVilG_nEcUDnCKM9fY%26app_version%3D49902%26client_ip%3D45.178.2.242%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1786513395%26token%3Dd3719f8a13c08d917b26cc48cba204a2&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DAE2E8B22E2EA49988F69BFC52CF1B35D%26expired%3D1786513395%26token%3Dc4f3152521560e42ddad417bcae72fbd
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bR7tBk9Q/Gol.jpg" group-title="PELICULA",¡Gol! 2005
 http://simida.cjmpxylza.com/vod/FFC91EB8DA2B4A549018FAADC48372E3_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D69.162.92.107:22683%26app_id%3Dcom.android.msandroid%26trans_id%3DDiOBRjvv8qcB_zEbvoxwLCubJ%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1786213133%26token%3D104f20baa59c50fa24769a3dd413fdf9&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DFFC91EB8DA2B4A549018FAADC48372E3%26expired%3D1786213133%26token%3De9eba93c8bed992c47a6a00ec8eaf808
 
@@ -181,7 +180,7 @@ http://simida.cjmpxylza.com/vod/EDCD2B2FA5C04890BA883B304ACD96E1_media.ts?conten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pBnBmFSF/EL-CABALLERO-NEGRO-2001.jpg" group-title="PELICULA",EL CABALLERO NEGRO 2001
 http://simida.cjmpxylza.com/vod/1D68481E23B54BCEBF3454311AEE8C4F_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D208.115.229.195:16238%26app_id%3Dcom.android.msandroid%26trans_id%3D81QdFA0epNR_YuyIa8QcWPSw%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1785458510%26token%3Db9e2a31bb98e9ef8c59bf12cf4298343&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D1D68481E23B54BCEBF3454311AEE8C4F%26expired%3D1785458510%26token%3D683567b9249197ba894f1927167db663
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7tNnGdKW/pica.jpg" group-title="PELICULA", Los Picapiedra en Viva Rock Vegas 2000
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tNnGdKW/pica.jpg" group-title="PELICULA",LOS PICAPIEDRA EN  VIVA ROCK VEGAS 2000
 http://simida.cjmpxylza.com/vod/15F07EC17A324884B3B305BA0A220182_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D23.94.245.115:27830%26app_id%3Dcom.android.msandroid%26trans_id%3Du9OY1CtWEBsM_9JfE5VkRvm2x%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1785536432%26token%3D31b27100f0168f183dea6a58bc38b147&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D15F07EC17A324884B3B305BA0A220182%26expired%3D1785536432%26token%3De33927447582adcb2d664a2eb27fdcfc
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qLZSpkJk/HORTON.jpg" group-title="PELICULA", Horton 2008
