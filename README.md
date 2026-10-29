@@ -142,7 +142,6 @@ http://simida.cjmpxylza.com/vod/EDB56BB7321648BEA3A55325CBC86CD7_media.ts?conten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZpCsP9Ln/amor.jpg" group-title="PELICULA",AMOR CIEGO 2001
 http://simida.cjmpxylza.com/vod/FCB13964EB57416A8CC7AD370E90FBAE_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D69.162.109.134:12835%26app_id%3Dcom.android.msandroid%26trans_id%3DAxaJPDl7qpSS_Ceeyrja6eMzK%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1784952557%26token%3Dfe053d7670898da80c257cf6a030ae48&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DFCB13964EB57416A8CC7AD370E90FBAE%26expired%3D1784952557%26token%3Da8c1c2e2c4e5e3107e59188cc2862f19
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQ5qwfYG/UNA-PANDILLA-DE-ALTURA-2002.jpg" group-title="PELICULA",UNA PANDILLA DE ALTURA 2002
 http://simida.cjmpxylza.com/vod/557C9D2D62094407AF9A1BC11D4EF0D4_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D38.15.142.26:21589%26app_id%3Dcom.android.msandroid%26trans_id%3DTSY3PdfNroYO_rPYdgAXWqqd%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1784934883%26token%3D664d09ff7159347e555143f978b97815&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D557C9D2D62094407AF9A1BC11D4EF0D4%26expired%3D1784934883%26token%3Df22a3f07180ae5b3022f5415da15d276
 
@@ -152,7 +151,7 @@ http://simida.cjmpxylza.com/vod/506FD9FCAC644A54B2A6099C40D0076B_media.ts?conten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W45pYsFq/sue-o.jpg" group-title="PELICULA",un sueño posible 2009
 http://simida.cjmpxylza.com/vod/EBFFE860BE2B4BAA9C55C61799D865CE_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D64.31.33.212:14399%26app_id%3Dcom.android.msandroid%26trans_id%3DMuEDEJSrAphY_PYAkrFvWj8YR%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1784957595%26token%3D60ac827ef6ab36485110c20bf4dc0755&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DEBFFE860BE2B4BAA9C55C61799D865CE%26expired%3D1784957595%26token%3Ddf8c2e8961f7266321911961a222f1e1
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84bCSj5F/nacer.jpg" group-title="PELICULA",NACER PARA MORIR 2003
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DDJTSCfB/NACER-PARA-MORIR-2003.jpg" group-title="PELICULA",NACER PARA MORIR 2003
 http://simida.cjmpxylza.com/vod/9DE072304DDF4A4597ABAB62A882216F_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D64.31.43.91:35948%26app_id%3Dcom.android.msandroid%26trans_id%3DQhm0g8lrJyuA_KX0VnYPvYca%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1784958633%26token%3D5fe1ea2cefaac35ec3cc46d043cc89d4&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D9DE072304DDF4A4597ABAB62A882216F%26expired%3D1784958633%26token%3D9077cad624cafbd4c89467c0b7f60da8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SXcwnf1T/kid.jpg" group-title="PELICULA", Shanghai noon 2000
@@ -160,7 +159,6 @@ http://simida.cjmpxylza.com/vod/2DAACC9835B54CABAEE67E4A19BAFDAE_media.ts?conten
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vMMLtZn/mega.jpg" group-title="PELICULA", Megamind 2010
 http://simida.cjmpxylza.com/vod/ACB7FCDBF5A2495FA8D1522467391F05_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D38.15.142.26:21589%26app_id%3Dcom.android.msandroid%26trans_id%3DVLxCIuM7LQYv_WwLtFFGNdwIX%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1785185862%26token%3D11251a0f918314fadc3700dbb4cd9b8d&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DACB7FCDBF5A2495FA8D1522467391F05%26expired%3D1785185862%26token%3Dc479e78e6f5d120b25921d17e5608219
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5gmb65v4/HORMIGUITAZ-1998.jpg" group-title="PELICULA",HORMIGUITAZ 1998
 http://simida.cjmpxylza.com/vod/5364C91B69F04CCEAF49C4BECFEA23CF_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D149.102.226.58:11521%26app_id%3Dcom.android.msandroid%26trans_id%3Dv1wffLDWJkUP_UxaA2Gjc4s5h%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1785186678%26token%3D8a0c8b792ae3d14b9b515be4a6f30042&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D5364C91B69F04CCEAF49C4BECFEA23CF%26expired%3D1785186678%26token%3D07c6609095b76ff6bb6e0a28efe8104b
