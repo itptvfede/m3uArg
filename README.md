@@ -128,7 +128,7 @@ http://simida.cjmpxylza.com/vod/B1DD05729F194EDE84B959B459588172_media.ts?conten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rGGVZV7d/SON-COMO-I-OS-2010.jpg" group-title="PELICULA",SON COMO ÑIÑOS 2010
 http://simida.cjmpxylza.com/vod/AAD11D82D5FE4DA3BBA51A41E76B5E4E_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D149.102.226.58:11521%26app_id%3Dcom.android.msandroid%26trans_id%3DTWskYFUuYOOR_yg2LrmuYndau%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D8f00d266372f56431a45eabb8eb820f6%26auth_id%3D938734222_com.android.msandroid__0%26user_id%3D938734222%26expired%3D1784655960%26token%3D6a789e9b844b159e418db2b9ab0fa334&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DAAD11D82D5FE4DA3BBA51A41E76B5E4E%26expired%3D1784655960%26token%3D7fc82c69f8d4ba841018923f0714a528
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p66bLHcQ/mario.jpg" group-title="PELICULA",super mario galaxy 2026
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tx40R4wf/SUPER-MARIO-GALAXY-2-2026.jpg" group-title="PELICULA",SUPER MARIO GALAXY 2 2026
 http://simida.cjmpxylza.com/vod/87F9F0430A704A68B67215CF5EF75ECC_media.ts?dev_id=6f66c66a255ed0259d84e9c1f5334752&user_id=925322774&trans_id=1V2JaRpSM4q_CO6u8FfIksx&expired=1784246219&app_id=com.android.msandroid&app_ver=49902&host=simida.cjmpxylza.com&media_code=87F9F0430A704A68B67215CF5EF75ECC&auth_id=925322774_com.android.msandroid__0&client_ip=190.124.153.58&token=01c5179f&sign2_method=sign_o3&instance=0&start_moment=1784231842809&sign2=6c19d46530f03fcdef4ffbf952bb96f1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZ4fH9HZ/EL-DEPARTAMENTO-DE-JOE-1996.jpg" group-title="PELICULA",EL DEPARTAMENTO DE JOE 1996
