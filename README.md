@@ -131,7 +131,7 @@ http://simida.cjmpxylza.com/vod/AAD11D82D5FE4DA3BBA51A41E76B5E4E_media.ts?conten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p66bLHcQ/mario.jpg" group-title="PELICULA",super mario galaxy 2026
 http://simida.cjmpxylza.com/vod/87F9F0430A704A68B67215CF5EF75ECC_media.ts?dev_id=6f66c66a255ed0259d84e9c1f5334752&user_id=925322774&trans_id=1V2JaRpSM4q_CO6u8FfIksx&expired=1784246219&app_id=com.android.msandroid&app_ver=49902&host=simida.cjmpxylza.com&media_code=87F9F0430A704A68B67215CF5EF75ECC&auth_id=925322774_com.android.msandroid__0&client_ip=190.124.153.58&token=01c5179f&sign2_method=sign_o3&instance=0&start_moment=1784231842809&sign2=6c19d46530f03fcdef4ffbf952bb96f1
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zWf3t2bx/joe.jpg" group-title="PELICULA",El departamento de Joe 1996
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZ4fH9HZ/EL-DEPARTAMENTO-DE-JOE-1996.jpg" group-title="PELICULA",EL DEPARTAMENTO DE JOE 1996
 http://simida.cjmpxylza.com/vod/2D2D4C6653E34F4DBA7977AC44AA875D_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D149.102.226.58:11521%26app_id%3Dcom.android.msandroid%26trans_id%3DxWg1HrEQUhTM_CtbDLqTOuzLT%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D3f1a4e62f53d4874e11dda56242c03ab%26auth_id%3D940434466_com.android.msandroid__0%26user_id%3D940434466%26expired%3D1784777453%26token%3D1078ac75be0365e4899c0ec57139e615&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D2D2D4C6653E34F4DBA7977AC44AA875D%26expired%3D1784777453%26token%3Ddb63b8fa7f69c3c4955a46903d7218e5
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tM04xjm7/MAYOR-PROBLEMA-1995.jpg" group-title="PELICULA",MAYOR PROBLEMA 1995
