@@ -22,8 +22,6 @@ http://simida.cjmpxylza.com/vod/C2DF35AFA44D4A57A88E5DAE974BED01_media.ts?conten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XZbqKmtZ/garfiel.jpg" group-title="PELICULA",Garfield: Fuera de Casa 2024
 http://simida.cjmpxylza.com/vod/8AB87C3D0B2943278D95BD7CD58F3BB6_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.117:30879%26app_id%3Dcom.android.msandroid%26trans_id%3Dws1UM4Ilk69W_PCytDS8M4wkz%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1788477929%26token%3Da8cee0943acb1fb2388658dc32bc548b&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D8AB87C3D0B2943278D95BD7CD58F3BB6%26expired%3D1788477929%26token%3D92697a72c17c7ec739ecd9a53d3c83d0
 
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hJBZ4dmL/al-diablo.jpg" group-title="PELICULA",Al diablo con el diablo 2000
 http://simida.cjmpxylza.com/vod/75CCD63055FF4174902860143BA092B5_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D98.98.163.150:13938%26app_id%3Dcom.android.msandroid%26trans_id%3DjXzOCRHq9eg_0YlELJXWOQRm%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3D664537acdf92391cb1333d2479ee69a3%26auth_id%3D946241698_com.android.msandroid__0%26user_id%3D946241698%26expired%3D1788236625%26token%3Df61b17dfc0c5735ce825db274a93ef1b&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D75CCD63055FF4174902860143BA092B5%26expired%3D1788236625%26token%3Dea7516ed6074fb31278294e253a6ab94
 
@@ -145,7 +143,7 @@ http://simida.cjmpxylza.com/vod/FCB13964EB57416A8CC7AD370E90FBAE_media.ts?conten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQ5qwfYG/UNA-PANDILLA-DE-ALTURA-2002.jpg" group-title="PELICULA",UNA PANDILLA DE ALTURA 2002
 http://simida.cjmpxylza.com/vod/557C9D2D62094407AF9A1BC11D4EF0D4_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D38.15.142.26:21589%26app_id%3Dcom.android.msandroid%26trans_id%3DTSY3PdfNroYO_rPYdgAXWqqd%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1784934883%26token%3D664d09ff7159347e555143f978b97815&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D557C9D2D62094407AF9A1BC11D4EF0D4%26expired%3D1784934883%26token%3Df22a3f07180ae5b3022f5415da15d276
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QxmZPx4/jump.jpg" group-title="PELICULA",¡Salta! 2007
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DgS1B1NT/salta.jpg" group-title="PELICULA",¡SALTA! 2007
 http://simida.cjmpxylza.com/vod/506FD9FCAC644A54B2A6099C40D0076B_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D69.162.75.171:13162%26app_id%3Dcom.android.msandroid%26trans_id%3DuICi3GJCGVh_FH7aYK1S7mRR%26app_version%3D49902%26client_ip%3D190.124.153.58%26dev_id%3De84754bc8d488d4f31f9ce354fc7c428%26auth_id%3D941932480_com.android.msandroid__0%26user_id%3D941932480%26expired%3D1784956576%26token%3Dd038453d781bdb2719ffd1e13888713f&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D506FD9FCAC644A54B2A6099C40D0076B%26expired%3D1784956576%26token%3D871e3a02853c2a5edcf95fb25a216458
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W45pYsFq/sue-o.jpg" group-title="PELICULA",un sueño posible 2009
