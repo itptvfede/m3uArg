@@ -1,5 +1,12 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N47218G/I-ERA-A-PRUEBA-DE-BALAS-2005.jpg" group-title="PELICULA",ÑIÑERA A PRUEBA DE BALAS 2005
+http://simida.cjmpxylza.com/vod/D840331D2B5640F880B6C5C94C481205_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D149.34.250.107:26470%26app_id%3Dcom.android.msandroid%26trans_id%3DODPNrsbECmvP_1GgL7jOEFpeg%26app_version%3D43404%26client_ip%3D190.124.153.58%26dev_id%3Dc76586d89eed9685ab3f29046ebb7642%26auth_id%3D979769766_com.android.msandroid__0%26user_id%3D979769766%26expired%3D1793236010%26token%3D33b002854b11546702c761a14c4ec382&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DD840331D2B5640F880B6C5C94C481205%26expired%3D1793236010%26token%3Df8494f7ff6d1789c509a0f9d753b72f9
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N47218G/I-ERA-A-PRUEBA-DE-BALAS-2005.jpg" group-title="PELICULA",ÑIÑERA A PRUEBA DE BALAS 2005
 http://simida.cjmpxylza.com/vod/D840331D2B5640F880B6C5C94C481205_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D149.34.250.107:26470%26app_id%3Dcom.android.msandroid%26trans_id%3DODPNrsbECmvP_1GgL7jOEFpeg%26app_version%3D43404%26client_ip%3D190.124.153.58%26dev_id%3Dc76586d89eed9685ab3f29046ebb7642%26auth_id%3D979769766_com.android.msandroid__0%26user_id%3D979769766%26expired%3D1793236010%26token%3D33b002854b11546702c761a14c4ec382&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DD840331D2B5640F880B6C5C94C481205%26expired%3D1793236010%26token%3Df8494f7ff6d1789c509a0f9d753b72f9
 
