@@ -1,8 +1,6 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TBJJ7w73/DECTETIVE-1.jpg" group-title="PELICULA",UN DETECTIVE SUELTO EN HOLLYWOOD 
-1984
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBJJ7w73/DECTETIVE-1.jpg" group-title="PELICULA",UN DETECTIVE SUELTO EN HOLLYWOOD 1984
 http://simida.cjmpxylza.com/vod/2AA1286F188C466FA13399FF365D68D7_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D149.88.100.132:16070%26app_id%3Dcom.android.msandroid%26trans_id%3D48f0KE7L2VKd_DejWRlokvnNt%26app_version%3D43404%26client_ip%3D190.124.153.58%26dev_id%3Dc76586d89eed9685ab3f29046ebb7642%26auth_id%3D979769766_com.android.msandroid__0%26user_id%3D979769766%26expired%3D1793991787%26token%3D7d15deeff1f261a763d558736ff30b5e&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D2AA1286F188C466FA13399FF365D68D7%26expired%3D1793991787%26token%3Dfc6ea094f522603f8459e28845c1038a
 
 
